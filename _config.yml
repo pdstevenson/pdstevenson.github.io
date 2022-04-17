@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Paul Stevenson"
+  avatar           : "sidebar.jpg"
+  bio              : "Nuclear Physics & Quantum Computing"
+  location         : "Guildford, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?sortby=pubdate&hl=en&user=ZlfUB-UAAAAJ&pagesize=100&view_op=list_works"
