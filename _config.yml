@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Dr Paul D Stevenson @ University of Surrey"
+title                    : "Dr Paul D Stevenson"
 title_separator          : "-"
 name                     : &name "Paul Stevenson"
 description              : &description "Personal academic webiste for Paul D Stevenson"
