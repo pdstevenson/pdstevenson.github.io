@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Dr Paul D Stevenson"
+title                    : "Paul D Stevenson"
 title_separator          : "-"
 name                     : &name "Paul Stevenson"
 description              : &description "Personal academic webiste for Paul D Stevenson"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Paul Stevenson"
+  name             : "Paul D Stevenson"
   avatar           : "sidebar.jpg"
   bio              : "Nuclear Physics & Quantum Computing"
   location         : "Guildford, UK"
