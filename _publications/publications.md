@@ -21,10 +21,22 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 **7.** "*The kinks in charge radii across N=82 and 126 revisited*", M. Bhuyan, B. Maheshwari, Hasan Abu Kassim, Norhasliza Yusof, S. K. Patra, B. V. Carlson, and P. D. Stevenson, [J. Phys. G 48, 075105 (2021)](https://doi.org/10.1088/1361-6471/abf7d7) [arxiv: 2104.07392](http://arxiv.org/abs/2104.07392)
 
-**8.** "*Fission Dynamics of Compound Nuclei: Pairing versus Fluctuations*", Y. Qiang , J. C. Pei, and P. D. Stevenson, [Phys. Rev. C 103, 031304 (2021)](http://dx.doi.org/10.1103/PhysRevC.103.031304) [arxiv: 2010.06765](https://arxiv.org/abs/2010.06765)
+**8.** "*Fission Dynamics of Compound Nuclei: Pairing versus Fluctuations*", Y. Qiang , J. C. Pei, and P. D. Stevenson, [Phys. Rev. C 103, 031304 (2021)](http://dx.doi.org/10.1103/PhysRevC.103.031304) [arxiv: 2010.06765](https://arxiv.org/abs/2010.06765) (2021)
 
 **9.** "*Advances in Time-Dependent Methods for Nuclear Structure and Dynamics*", eds. P. D. Stevenson, C. Simenel, D. Lacroix, L. Guo, and N. Schunck, Frontiers Media SA, Lausanne (2021) [eBook pdf download](https://www.frontiersin.org/research-topics/10659/pdf)
 
 **10.** "*Editorial: Advances in Time-Dependent Methods for Nuclear Structure and Dynamics*", Lu Guo, Denis Lacroix, Nicolas Schunck, Cédric Simenel, and Paul Stevenson, [Front. Phys. 8, 629889 (2021)](http://dx.doi.org/10.3389/fphy.2020.629889)
 
 **11.** "*Skyrme and relativistic mean-field models in the description of symmetric, asymmetric and stellar nuclear matter*", O. Lourenço, M. Dutra, and P. D. Stevenson, in "Nuclear Structure Physics", Eds. Amritanshu Shukla and Suresh Kumar Patra, CRC Press, Boca Raton, Fl, USA (2020) [eBook](https://www.routledge.com/Nuclear-Structure-Physics/Shukla-Patra/p/book/9780367256104) [code](http://dx.doi.org/10.15126/surreydata.9121031)
+
+**12.** "The Future of Nuclear Fission Theory", Michael Bender, Rémi Bernard, George Bertsch, Satochi Chiba, Jacek Dobaczewski, Noël Dubray, Samuel A. Giuliani, Kouichi Hagino, Denis Lacroix, Zhipan Li, Piotr Magierski, Joachim Maruhn, Witold Nazarewicz, Junchen Pei, Sophie Péru, Nathalie Pillet, Jørgen Randrup, David Regnier, Paul-Gerhard Reinhard, Luis M. Robledo, Wouter Ryssens, Jhilam Sadhukhan, Guillaume Scamps, Nicolas Schunck, Cédric Simenel, Janusz Skalski, Ionel Stetcu, Paul Stevenson, Sait Umar, Marc Verrière, Dario Vretenar, Michal Warda, Sven Åberg, [J. Phys. G 47, 113002 (2020)](https://doi.org/10.1088/1361-6471/abab4f)
+
+**13.** "Shape evolutions in fission dynamics within time-dependent Hartree-Fock approach", M. Pancic, J. Pei, Y. Qiang, and P. D. Stevenson, [Front. Phys. 8, 351 (2020)](http://dx.doi.org/10.3389/fphy.2020.00351)
+
+**14.** "Internuclear potentials from the Sky3d code", P. D. Stevenson, [IOP SciNotes 1, 025201 (2020)](https://doi.org/10.1088/2633-1357/ab952a)
+
+**15.** "Gamow's Cyclist: A New Look at Relativistic Measurements for a Binocular Observer", [E. C. Cryer-Jenkins and P. D. Stevenson, Proc. Roy. Soc. A 476, 20190703 (2020)](http://dx.doi.org/10.1098/rspa.2019.0703)
+
+**16.** "The surface energy in heavy-ion reactions", P. D. Stevenson, [EPJ Web of Conferences 232, 03005 (2020)](https://doi.org/10.1051/epjconf/202023203005)
+
+**17.** "Editorial" P. Stevenson, A. Diaz-Torres, and A. Rios Huguet, proceedings of the EFB24 conference, SciPost Phys. Proc. 3 [eBook pdf (66Mb)](http://personal.ph.surrey.ac.uk/~phs3ps/complete_EFB24.pdf)
