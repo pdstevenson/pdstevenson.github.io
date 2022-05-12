@@ -135,7 +135,16 @@ Here is an (incomplete) list of talks and poster presentations
 
 **64.** February 2011: "Isotope Geology", Farnham Geological Society, Farnham, Surrey, UK (invited) 
 
+**65.** February 2007: "Recent results from Time-dependent Hartree-Fock", WONP'07 – Workshop on Nuclear Physics, Havana, Cuba 
+
+**66.** November 2006: "Quantum tricriticality in the Lipkin-Meshkov-Glick model", 3rd Workshop on Shape Phase Transitions and Critical Point Phenomena in Nuclei, Athens, Greece 
+
+**67.** July 2004: invited talk, Sofia Workshop on Current Trends in Nuclear Structure, Sofia, Bulgaria 
+
 Other 2011 things: William Shatner program; talk at RIKEN; Rutherford Conference talk; Farnborough school talk; Charterhouse Teacher talk; 
+
 Things to add in 2010: I'm a Scientist, Get Me Out of Here; Aylesbury teacher event; talk during Frankfurt visit; Manchester seminar; Glasgow 1-Day meeting; Farnborough moving-on day; BBC Radio Scotland; BA festival (Aston) on nuclear physics; Sheffield Outreach talk 
+
 Things to add in 2009: Mexico talk; Sherbourne Science Café; Berkshire HE conf; IoP Conf invited talk (bham); Finland Workshop; Dubrovnik conference; St Andrews invited talk; York teachers event; Sittingbourne talk; Kent school talk; Charterhouse talk; BA Festival Surrey (2 talks - nuclear physics & Dalton-Darwin); Varna conference talk 
+
 Things to add in 2008: Trento plenary talk; Uckfield school (Teachers TV); Peter Symonds; Paisley open-systems workshop; Birmingham seminar; Surrey nuclear sizes & shapes symposium (June); Farnborough school talk; Gosport outreach talk 
