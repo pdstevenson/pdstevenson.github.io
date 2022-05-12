@@ -29,14 +29,30 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 **11.** "*Skyrme and relativistic mean-field models in the description of symmetric, asymmetric and stellar nuclear matter*", O. Lourenço, M. Dutra, and P. D. Stevenson, in "Nuclear Structure Physics", Eds. Amritanshu Shukla and Suresh Kumar Patra, CRC Press, Boca Raton, Fl, USA (2020) [eBook](https://www.routledge.com/Nuclear-Structure-Physics/Shukla-Patra/p/book/9780367256104) [code](http://dx.doi.org/10.15126/surreydata.9121031)
 
-**12.** "The Future of Nuclear Fission Theory", Michael Bender, Rémi Bernard, George Bertsch, Satochi Chiba, Jacek Dobaczewski, Noël Dubray, Samuel A. Giuliani, Kouichi Hagino, Denis Lacroix, Zhipan Li, Piotr Magierski, Joachim Maruhn, Witold Nazarewicz, Junchen Pei, Sophie Péru, Nathalie Pillet, Jørgen Randrup, David Regnier, Paul-Gerhard Reinhard, Luis M. Robledo, Wouter Ryssens, Jhilam Sadhukhan, Guillaume Scamps, Nicolas Schunck, Cédric Simenel, Janusz Skalski, Ionel Stetcu, Paul Stevenson, Sait Umar, Marc Verrière, Dario Vretenar, Michal Warda, Sven Åberg, [J. Phys. G 47, 113002 (2020)](https://doi.org/10.1088/1361-6471/abab4f)
+**12.** "*The Future of Nuclear Fission Theory*", Michael Bender, Rémi Bernard, George Bertsch, Satochi Chiba, Jacek Dobaczewski, Noël Dubray, Samuel A. Giuliani, Kouichi Hagino, Denis Lacroix, Zhipan Li, Piotr Magierski, Joachim Maruhn, Witold Nazarewicz, Junchen Pei, Sophie Péru, Nathalie Pillet, Jørgen Randrup, David Regnier, Paul-Gerhard Reinhard, Luis M. Robledo, Wouter Ryssens, Jhilam Sadhukhan, Guillaume Scamps, Nicolas Schunck, Cédric Simenel, Janusz Skalski, Ionel Stetcu, Paul Stevenson, Sait Umar, Marc Verrière, Dario Vretenar, Michal Warda, Sven Åberg, [J. Phys. G 47, 113002 (2020)](https://doi.org/10.1088/1361-6471/abab4f)
 
-**13.** "Shape evolutions in fission dynamics within time-dependent Hartree-Fock approach", M. Pancic, J. Pei, Y. Qiang, and P. D. Stevenson, [Front. Phys. 8, 351 (2020)](http://dx.doi.org/10.3389/fphy.2020.00351)
+**13.** "*Shape evolutions in fission dynamics within time-dependent Hartree-Fock approach*", M. Pancic, J. Pei, Y. Qiang, and P. D. Stevenson, [Front. Phys. 8, 351 (2020)](http://dx.doi.org/10.3389/fphy.2020.00351)
 
-**14.** "Internuclear potentials from the Sky3d code", P. D. Stevenson, [IOP SciNotes 1, 025201 (2020)](https://doi.org/10.1088/2633-1357/ab952a)
+**14.** "*Internuclear potentials from the Sky3d code*", P. D. Stevenson, [IOP SciNotes 1, 025201 (2020)](https://doi.org/10.1088/2633-1357/ab952a)
 
-**15.** "Gamow's Cyclist: A New Look at Relativistic Measurements for a Binocular Observer", [E. C. Cryer-Jenkins and P. D. Stevenson, Proc. Roy. Soc. A 476, 20190703 (2020)](http://dx.doi.org/10.1098/rspa.2019.0703)
+**15.** "*Gamow's Cyclist: A New Look at Relativistic Measurements for a Binocular Observer*", [E. C. Cryer-Jenkins and P. D. Stevenson, Proc. Roy. Soc. A 476, 20190703 (2020)](http://dx.doi.org/10.1098/rspa.2019.0703)
 
-**16.** "The surface energy in heavy-ion reactions", P. D. Stevenson, [EPJ Web of Conferences 232, 03005 (2020)](https://doi.org/10.1051/epjconf/202023203005)
+**16.** "*The surface energy in heavy-ion reactions*", P. D. Stevenson, [EPJ Web of Conferences 232, 03005 (2020)](https://doi.org/10.1051/epjconf/202023203005)
 
-**17.** "Editorial" P. Stevenson, A. Diaz-Torres, and A. Rios Huguet, proceedings of the EFB24 conference, SciPost Phys. Proc. 3 [eBook pdf (66Mb)](http://personal.ph.surrey.ac.uk/~phs3ps/complete_EFB24.pdf)
+**17.** "*A time-dependent Hartree-Fock study of triple-alpha dynamics*", P. D. Stevenson and J. Willerton, [SciPost Phys. Proc. 3, 047 (2020)](https://dx.doi.org/10.21468/SciPostPhysProc.3.047)
+
+**18.** "*Editorial*" P. Stevenson, A. Diaz-Torres, and A. Rios Huguet, proceedings of the EFB24 conference, SciPost Phys. Proc. 3 [eBook pdf (66Mb)](http://personal.ph.surrey.ac.uk/~phs3ps/complete_EFB24.pdf)
+
+**19.** "*Numerical Calculations of TDHF*", P. D. Stevenson, in Frontiers in Nulcear and Particle Physics Volume 2, Bentham Science, Sharjah, UAE, pp 1-18 (2019) [eBook](http://dx.doi.org/10.2174/9781681087641119020005)
+
+**20.** "*Dissipation Dynamics of Nuclear Fusion Reactions*", Kai Wen, M. C. Barton, A. Rios, and P. D. Stevenson, [Acta Physica Polonica B 50 567-572 (2019)](http://www.actaphys.uj.edu.pl/findarticle?series=Reg&vol=50&page=567)
+
+**21.** "*Conditional recovery of time-reversal symmetry in many-nucleus systems*", Yoritaka Iwata and Paul Stevenson, [New J. Phys. 21, 043010 (2019)](https://doi.org/10.1088/1367-2630/ab0e58)
+
+**22.** "*Low-Energy Heavy-Ion Reactions and Effective Forces*", P. D. Stevenson and M. C. Barton, [Prog. Part. Nucl. Phys. 104, 142 (2019)](http://dx.doi.org/10.1016/j.ppnp.2018.09.002)
+
+**23.** "*Two-body dissipation effect in nuclear fusion reactions*", Kai Wen, M. C. Barton, Arnau Rios Huguet, and P. D. Stevenson, [Phys. Rev. C 98, 014603 (2018)](https://doi.org/10.1103/PhysRevC.98.014603)
+
+**24.** "*The TDHF code Sky3D version 1.1*", B. Schuetrumpf, P.-G. Reinhard, P. D. Stevenson, A. S. Umar, and J. A. Maruhn, [Computer Physics Communications, 229, 211-213 (2018)](https://doi.org/10.1016/j.cpc.2018.03.012) [code](http://dx.doi.org/10.17632/vzbrzvyrn4.1)
+
+**25.** "Magnetic dipole transition calculations in 52Cr using the full Skyrme interaction, M. C. Barton and P. D. Stevenson, (2017) [arXiv: 1708.07823](http://arxiv.org/abs/1708.07823)
