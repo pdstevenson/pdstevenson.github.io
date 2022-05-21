@@ -35,7 +35,7 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 **116.** "*Internuclear potentials from the Sky3d code*", P. D. Stevenson, [IOP SciNotes 1, 025201 (2020)](https://doi.org/10.1088/2633-1357/ab952a)
 
-**115.** "*Gamow's Cyclist: A New Look at Relativistic Measurements for a Binocular Observer*", [E. C. Cryer-Jenkins and P. D. Stevenson, Proc. Roy. Soc. A 476, 20190703 (2020)](http://dx.doi.org/10.1098/rspa.2019.0703)
+**115.** "*Gamow's Cyclist: A New Look at Relativistic Measurements for a Binocular Observer*", E. C. Cryer-Jenkins and P. D. Stevenson, [Proc. Roy. Soc. A 476, 20190703 (2020)](http://dx.doi.org/10.1098/rspa.2019.0703)
 
 **114.** "*The surface energy in heavy-ion reactions*", P. D. Stevenson, [EPJ Web of Conferences 232, 03005 (2020)](https://doi.org/10.1051/epjconf/202023203005)
 
@@ -57,15 +57,15 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 **105.** "Magnetic dipole transition calculations in 52Cr using the full Skyrme interaction, M. C. Barton and P. D. Stevenson, (2017) [arXiv: 1708.07823](http://arxiv.org/abs/1708.07823)
 
-**104.** "Excited States and Reduced Transition Probabilities in 168Os", T. Grahn, D. T. Joss, R. D. Page, B. Sayğı, S. Stolze, D. O'Donnell, M. Akmali, K. Andgren, L. Bianco, D. M. Cullen, A. Dewald, P. T. Greenlees, K. Heyde, H. Iwasaki, U. Jakobsson, J. Jolie, P. Jones, D. S. Judson, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, N. Lumley, P. J. R. Mason, O. Möller, K. Nomura, M. Nyman, A. Petts, P. Peura, N. Pietralla, Th. Pissula, P. Rahkila, P. J. Sapple, J. Sarén, C. Scholey, J. Simpson, J. Sorri, P. D. Stevenson, J. Uusiatalo, H. V. Watkins, and J. L. Wood, Phys. Rev. C 94, 044327 (2016) 
+**104.** "Excited States and Reduced Transition Probabilities in 168Os", T. Grahn, D. T. Joss, R. D. Page, B. Sayğı, S. Stolze, D. O'Donnell, M. Akmali, K. Andgren, L. Bianco, D. M. Cullen, A. Dewald, P. T. Greenlees, K. Heyde, H. Iwasaki, U. Jakobsson, J. Jolie, P. Jones, D. S. Judson, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, N. Lumley, P. J. R. Mason, O. Möller, K. Nomura, M. Nyman, A. Petts, P. Peura, N. Pietralla, Th. Pissula, P. Rahkila, P. J. Sapple, J. Sarén, C. Scholey, J. Simpson, J. Sorri, P. D. Stevenson, J. Uusiatalo, H. V. Watkins, and J. L. Wood, [Phys. Rev. C 94, 044327 (2016)](http://dx.doi.org/10.1103/PhysRevC.94.044327) 
 
-**103.** "The Skyrme tensor force in heavy ion collisions", P. D. Stevenson, E. B. Suckling, S. Fracasso, M. C. Barton and A. S. Umar, Phys. Rev. C 93, 054617 (2016)
+**103.** "The Skyrme tensor force in heavy ion collisions", P. D. Stevenson, E. B. Suckling, S. Fracasso, M. C. Barton and A. S. Umar, [Phys. Rev. C 93, 054617 (2016)](http://dx.doi.org/10.1103/PhysRevC.93.054617)
 
-**102.** "Sensitivity of the fusion cross section to the density dependence of the symmetry energy", P.-G. Reinhard, A. S. Umar, P. D. Stevenson, J. Piekarewicz, J. A. Maruhn, and V. E. Oberacker, Phys. Rev. C 93, 044618 (2016) 
+**102.** "Sensitivity of the fusion cross section to the density dependence of the symmetry energy", P.-G. Reinhard, A. S. Umar, P. D. Stevenson, J. Piekarewicz, J. A. Maruhn, and V. E. Oberacker, [Phys. Rev. C 93, 044618 (2016)](http://dx.doi.org/10.1103/PhysRevC.93.044618)
 
 **101.** "Probing dynamics of fusion reactions through cross-section and spin distribution measurement", Maninder Kaur, B. R. Behara, Gulzar Singh, Varinderjit Singh, N. Madhavan, S. Muralithar, S. Nath, J. Gehlot, G. Mohanto, Ish Mukul, D. Siwal, M. Thakur, K. Kapoor, P. Sharma, T. Banerjee, A. Jhingan, T. Varughese, Indu Bala, B. K. Nayak, A. Saxena, M. B. Chatterjee, and P. D. Stevenson, EPJ Web of Conferences, 117, 08026 (2016) 
 
-**100.** "Fission dynamics within time-dependent Hartree-Fock: boost induced fission", P. M. Goddard, P. D. Stevenson and A. Rios, Phys. Rev. C 93, 014620 (2016) 
+**100.** "Fission dynamics within time-dependent Hartree-Fock: boost induced fission", P. M. Goddard, P. D. Stevenson and A. Rios, [Phys. Rev. C 93, 014620 (2016)](http://dx.doi.org/10.1103/PhysRevC.93.014620)
 
 **99.** "Resonances and Reactions from Mean-Field Dynamics", P. D. Stevenson, EPJ Web of Conferences, 107, 08001 (2016)
 
@@ -73,7 +73,7 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 **97.** "Shapes and Dynamics from the Time-Dependent Mean Field, P. D. Stevenson, P. M. Goddard and A. Rios, Bulg. J. Phys. 42, 354 (2015)
 
-**96.** "Fission dynamics within time-dependent Hartree-Fock: deformation-induced fission", P. M. Goddard, P. D. Stevenson and A. Rios, Phys. Rev. C 92, 054610 (2015)
+**96.** "Fission dynamics within time-dependent Hartree-Fock: deformation-induced fission", P. M. Goddard, P. D. Stevenson and A. Rios, [Phys. Rev. C 92, 054610 (2015)](http://dx.doi.org/10.1103/PhysRevC.92.054610)
 
 **95.** "Investigation of dynamics of fusion reactions through cross-section and spin distribution measurements", Maninder Kaur, B. R. Behera, Gulzar Singh, Varinderjit Singh, N. Madhavan, S. Muralithar, S. Nath, J. Gehlot, G. Mohanto, Ish Mukul, D. Siwal, M. Thakur, K. Kapoor, P. Sharma, T. Banerjee, A. Jhingan, T. Varughese, Indu Bala, B. K. Nayak, A. Saxena, M. B. Chatterjee and P. D. Stevenson, proceedings of 60th DAE-BRNS Symposium on Nuclear Physics 60 35 (2015)
 
