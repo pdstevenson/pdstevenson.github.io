@@ -90,23 +90,23 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 **89.** "The TDHF Code Sky3D", J. A. Maruhn, P.-G. Reinhard, P. D. Stevenson and A. S. Umar, [Comput. Phys. Commun. 185, 2195 (2014)](http://dx.doi.org/10.1016/j.cpc.2014.04.008)
 
-**88.** "Extension of continuum time-dependent Hartree-Fock method to proton states", C. I. Pardi, P. D. Stevenson and K. Xu, Phys. Rev. E 89, 033312 (2014)
+**88.** "Extension of continuum time-dependent Hartree-Fock method to proton states", C. I. Pardi, P. D. Stevenson and K. Xu, [Phys. Rev. E 89, 033312 (2014)](http://dx.doi.org/10.1103/PhysRevE.89.033312)
 
-**87.** "Isoscalar and Isovector Giant Monopole Resonances from a Continuum Hartree-Fock Method", P. D. Stevenson and C. I. Pardi, EPJ Web of Conferences 66, 02099 (2014)
+**87.** "Isoscalar and Isovector Giant Monopole Resonances from a Continuum Hartree-Fock Method", P. D. Stevenson and C. I. Pardi, [EPJ Web of Conferences 66, 02099 (2014)](http://dx.doi.org/10.1051/epjconf/20146602099)
 
-**86.** "Cause of the charge radius isotope shift at the N=126 shell gap, P. M. Goddard, P. D. Stevenson and A. Rios, EPJ Web of Conferences 66, 02042 (2014)
+**86.** "Cause of the charge radius isotope shift at the N=126 shell gap, P. M. Goddard, P. D. Stevenson and A. Rios, [EPJ Web of Conferences 66, 02042 (2014)](http://dx.doi.org/10.1051/epjconf/20146602042)
 
-**85.** "The Continuum Time-Dependent Hartree-Fock Method", C. I. Pardi and P. D. Stevenson, Proceedings of the 32-nd International Workshop on Nuclear Theory (IWNT-32), Rila Mountains, 3-11 (2013)
+**85.** "The Continuum Time-Dependent Hartree-Fock Method", C. I. Pardi and P. D. Stevenson, [Proceedings of the 32-nd International Workshop on Nuclear Theory (IWNT-32), Rila Mountains, 3-11 (2013)](http://ntl.inrne.bas.bg/workshop/2013/contributions/a01_stevenson.pdf)
 
-**84.** "The Electric Dipole Response of 76Se Above 4 MeV", P. M. Goddard, N. Cooper, V. Werner, G. Rusev, P. D. Stevenson, A. Rios, C. Bernards, A. Chakraborty, B. Crider, J. Glorius, R. S. Ilieva, J. H. Kelley, E. Kwan, E. E. Peters, N. Pietralla, R. Raut, C. Romig, D. Savran, L. Schnorrenberger, M. K. Smith, K. Sonnabend, A. P. Tonchev, W. Tornow and S. W. Yates, Phys. Rev. C 88, 064308 (2013)
+**84.** "The Electric Dipole Response of 76Se Above 4 MeV", P. M. Goddard, N. Cooper, V. Werner, G. Rusev, P. D. Stevenson, A. Rios, C. Bernards, A. Chakraborty, B. Crider, J. Glorius, R. S. Ilieva, J. H. Kelley, E. Kwan, E. E. Peters, N. Pietralla, R. Raut, C. Romig, D. Savran, L. Schnorrenberger, M. K. Smith, K. Sonnabend, A. P. Tonchev, W. Tornow and S. W. Yates, [Phys. Rev. C 88, 064308 (2013)](http://dx.doi.org/10.1103/PhysRevC.88.064308)
 
-**83.** "Half-life of the yrast 2+ state in 188W: Evolution of deformation and collectivity in neutron-rich tungsten isotopes", P. J. R. Mason, Zs. Podolyàk, N. Mărginean, P. H. Regan, D. Delion, P. D. Stevenson, V. Werner, T. Alexander, A. Algora, T. Alharbi, M. Bowry, R. Britton, A, M. Bruce, D. Bucurescu, M. Bunce, G. Căta-Danil, I. Căta-Danil, N. Cooper, D. Deleanu, D. Filipescu, W. Gelletly, D. Ghitță, I. Gheorghe, T. Glodariu, G. Ilie, D. Ivanova, S. Kisyov, S. Lalkovski, R. Lica, S. N. Liddick, R. Mărginean, C. Mihai, K. Mulholland, C. R. Nita, A. Negret, S. Pascu, S. Rice, O. J. Roberts, T. Sava, J. F. Smith, P.-A. Söderström, L. Stroe, G. Suliman, R. Suvaila, S. Toma, C. Townsley, E. Wilson, R. T. Wood, N. V. Zamfir, M. Zhekova and C. Zhou, Phys. Rev. C 88, 044301 (2013)
+**83.** "Half-life of the yrast 2+ state in 188W: Evolution of deformation and collectivity in neutron-rich tungsten isotopes", P. J. R. Mason, Zs. Podolyàk, N. Mărginean, P. H. Regan, D. Delion, P. D. Stevenson, V. Werner, T. Alexander, A. Algora, T. Alharbi, M. Bowry, R. Britton, A, M. Bruce, D. Bucurescu, M. Bunce, G. Căta-Danil, I. Căta-Danil, N. Cooper, D. Deleanu, D. Filipescu, W. Gelletly, D. Ghitță, I. Gheorghe, T. Glodariu, G. Ilie, D. Ivanova, S. Kisyov, S. Lalkovski, R. Lica, S. N. Liddick, R. Mărginean, C. Mihai, K. Mulholland, C. R. Nita, A. Negret, S. Pascu, S. Rice, O. J. Roberts, T. Sava, J. F. Smith, P.-A. Söderström, L. Stroe, G. Suliman, R. Suvaila, S. Toma, C. Townsley, E. Wilson, R. T. Wood, N. V. Zamfir, M. Zhekova and C. Zhou, [Phys. Rev. C 88, 044301 (2013)](http://dx.doi.org/10.1103/PhysRevC.88.044301)
 
-**82.** "Do Skyrme forces that fit nuclear matter work well in finite nuclei?", P. D. Stevenson. P. M. Goddard, J. R. Stone and M. Dutra, AIP Conf. Proc. 1529, 262-268 (2013) 
+**82.** "Do Skyrme forces that fit nuclear matter work well in finite nuclei?", P. D. Stevenson. P. M. Goddard, J. R. Stone and M. Dutra, [AIP Conf. Proc. 1529, 262-268 (2013)](http://dx.doi.org/10.1063/1.4807465)
 
-**81.** "Charge radius isotope shift across the N=126 shell gap", P. M. Goddard, P. D. Stevenson and A. Rios, Phys. Rev. Lett. 110, 032503 (2013)
+**81.** "Charge radius isotope shift across the N=126 shell gap", P. M. Goddard, P. D. Stevenson and A. Rios, [Phys. Rev. Lett. 110, 032503 (2013)](http://dx.doi.org/10.1103/PhysRevLett.110.032503)
 
-**80.** "Continuum time-dependent Hartree-Fock method for giant resonances in spherical nuclei", C. I. Pardi and P. D. Stevenson, Phys. Rev. C. 87, 014330 (2013)
+**80.** "Continuum time-dependent Hartree-Fock method for giant resonances in spherical nuclei", C. I. Pardi and P. D. Stevenson, [Phys. Rev. C. 87, 014330 (2013)](http://dx.doi.org/10.1103/PhysRevC.87.014330)
 
 **79.** "Constraints on Skyrme Force Parameterizations", P. D. Stevenson and P. M. Goddard, Proceedings of 31-st International Workshop on Nuclear Theory (IWNT-31), Rila Mountains, 154-163 (2012) 
 
