@@ -10,7 +10,7 @@ You can also find my publications at [google scholar](https://scholar.google.com
 **129.** "*Quadrupole and octupole strengths in the semi-magic nucleus <sup>206</sup>Hg<sub>126</sub>*", L. Morrison, K. Hadyńska-Klęk, Zs. Podolyák, L.P. Gaffney, M. Zielińska, B. A. Brown, H. Grawe, P. D. Stevenson, T. Berry, A. Boukhari, M. Brunet, R. Canavan, R. Catherall, S.J. Colosimo, J. Cubiss, H. De Witte, D.T. Doherty, Ch. Fransen, E. Giannopoulos, M. Górska, H. Hess, T. Kröll, N. Lalović, B. Marsh, Y. Martinez Palenzuela, G. O'Neill, J. Pakarinen, J.P. Ramos, P. Reiter, J.A. Rodriguez, D. Rosiak, S. Rothe, M. Rudigier, M. Siciliano, E.C. Simpson, P. Spagnoletti, S. Thiel, N. Warr, F. Wenander, and R. Zidarova, in preparation
 
 **128.** "*Quantum Computing Calculations for Nuclear Structure and Nuclear Data*", Isaac Hobday, Paul. D. Stevenson, and James Benstead, SPIE Proceedings, *accepted for publication* [arxiv: 2205.05576](http://arxiv.org/abs/2205.05576)
-doi: 10.48550/arXiv.2111.00627
+<br /><font color="#666666">doi: 10.48550/arXiv.2111.00627</font>
 
 **127.** "*Comments on Quantum Computing for Nuclear Physics*", P. D. Stevenson, accepted for publication in invited edition of International Journal of Unconventional Computing
 
