@@ -10,7 +10,7 @@ You can also find my publications at [google scholar](https://scholar.google.com
 **129.** "*Quadrupole and octupole strengths in the semi-magic nucleus <sup>206</sup>Hg<sub>126</sub>*", L. Morrison, K. Hadyńska-Klęk, Zs. Podolyák, L.P. Gaffney, M. Zielińska, B. A. Brown, H. Grawe, P. D. Stevenson, T. Berry, A. Boukhari, M. Brunet, R. Canavan, R. Catherall, S.J. Colosimo, J. Cubiss, H. De Witte, D.T. Doherty, Ch. Fransen, E. Giannopoulos, M. Górska, H. Hess, T. Kröll, N. Lalović, B. Marsh, Y. Martinez Palenzuela, G. O'Neill, J. Pakarinen, J.P. Ramos, P. Reiter, J.A. Rodriguez, D. Rosiak, S. Rothe, M. Rudigier, M. Siciliano, E.C. Simpson, P. Spagnoletti, S. Thiel, N. Warr, F. Wenander, and R. Zidarova, in preparation
 
 **128.** "*Quantum Computing Calculations for Nuclear Structure and Nuclear Data*", Isaac Hobday, Paul. D. Stevenson, and James Benstead, SPIE Proceedings, *accepted for publication* [arxiv: 2205.05576](http://arxiv.org/abs/2205.05576)
-<br /><font color="#666666">doi: 10.48550/arXiv.2111.00627</font>
+<br />doi: 10.48550/arXiv.2111.00627
 
 **127.** "*Comments on Quantum Computing for Nuclear Physics*", P. D. Stevenson, accepted for publication in invited edition of International Journal of Unconventional Computing
 
@@ -78,17 +78,17 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 **95.** "Investigation of dynamics of fusion reactions through cross-section and spin distribution measurements", Maninder Kaur, B. R. Behera, Gulzar Singh, Varinderjit Singh, N. Madhavan, S. Muralithar, S. Nath, J. Gehlot, G. Mohanto, Ish Mukul, D. Siwal, M. Thakur, K. Kapoor, P. Sharma, T. Banerjee, A. Jhingan, T. Varughese, Indu Bala, B. K. Nayak, A. Saxena, M. B. Chatterjee and P. D. Stevenson, [proceedings of 60th DAE-BRNS Symposium on Nuclear Physics 60 35 (2015)](http://sympnp.org/proceedings/60/I17.pdf)
 
-**94.** "Modelling Proton Tunnelling in the Adenine-Thymine Base Pair", A. D. Godbeer, J. S. Al-Khalili, and P. D. Stevenson, Phys. Chem. Chem. Phys. 17, 13034 (2015)
+**94.** "Modelling Proton Tunnelling in the Adenine-Thymine Base Pair", A. D. Godbeer, J. S. Al-Khalili, and P. D. Stevenson, [Phys. Chem. Chem. Phys. 17, 13034 (2015)](http://dx.doi.org/10.1039/c5cp00472a)
 
 **93.** "Nuclear Physics and Radiation Science: Education and Training at the University of Surrey", A. Lohstroh, S. Pani, Zs. Podolyák, P. H. Regan and P. D. Stevenson, Nuclear Future 11, 2, 29-33 (2015) 
 
-**92.** "Role of the Skyrme tensor force in heavy-ion fusion, P. D. Stevenson, E. B. Suckling, S. Fracasso, E. D. Simmons and A. S. Umar, EPJ Web of Conferences 86, 00058 (2015) 
+**92.** "Role of the Skyrme tensor force in heavy-ion fusion, P. D. Stevenson, E. B. Suckling, S. Fracasso, E. D. Simmons and A. S. Umar, [EPJ Web of Conferences 86, 00058 (2015)](http://dx.doi.org/10.1051/epjconf/20158600058)
 
-**91.** "Nuclear Dynamics with the Sky3D Code, P. D. Stevenson, Proceedings of the 33-rd International Workshop on Nuclear Theory (IWNT-33), Rila Mountains, 24-31 (2014) 
+**91.** "Nuclear Dynamics with the Sky3D Code, P. D. Stevenson, [Proceedings of the 33-rd International Workshop on Nuclear Theory (IWNT-33), Rila Mountains, 24-31 (2014)](http://ntl.inrne.bas.bg/workshop/2014/contributions/a03_stevenson_2014.pdf)
 
-**90.** "Environment-induced dephasing versus von Neumann measurements in proton tunnelling, A. D. Godbeer, P. D. Stevenson and J. S. Al-Khalili, Phys. Rev. A 90, 012102 (2014)
+**90.** "Environment-induced dephasing versus von Neumann measurements in proton tunnelling, A. D. Godbeer, P. D. Stevenson and J. S. Al-Khalili, [Phys. Rev. A 90, 012102 (2014)](http://dx.doi.org/10.1103/PhysRevA.90.012102)
 
-**89.** "The TDHF Code Sky3D", J. A. Maruhn, P.-G. Reinhard, P. D. Stevenson and A. S. Umar, Comput. Phys. Commun. 185, 2195 (2014) 
+**89.** "The TDHF Code Sky3D", J. A. Maruhn, P.-G. Reinhard, P. D. Stevenson and A. S. Umar, [Comput. Phys. Commun. 185, 2195 (2014)](http://dx.doi.org/10.1016/j.cpc.2014.04.008)
 
 **88.** "Extension of continuum time-dependent Hartree-Fock method to proton states", C. I. Pardi, P. D. Stevenson and K. Xu, Phys. Rev. E 89, 033312 (2014)
 
