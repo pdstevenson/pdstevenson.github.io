@@ -233,33 +233,33 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 **17.** "Automatic generation of vacuum amplitude many-body perturbation series", P. D. Stevenson, [Int. J. Mod. Phys. C 14, 1135 (2003)](http://dx.doi.org/10.1142/S0129183103005236)
 
-**16.** "Self-consistent description of dysprosium isotopes in the doubly mid-shell region", A. K. Rath, P. D. Stevenson, P. H. Regan, F. R. Xu and P. M. Walker, Phys. Rev. C 68, 044315 (2003)
+**16.** "Self-consistent description of dysprosium isotopes in the doubly mid-shell region", A. K. Rath, P. D. Stevenson, P. H. Regan, F. R. Xu and P. M. Walker, [Phys. Rev. C 68, 044315 (2003)](http://dx.doi.org/10.1103/PhysRevC.68.044315)
 
-**15.** "Nuclear matter and neutron star properties calculated with the Skyrme interaction", J. Rikovska Stone, J. C. Miller, R. Koncewicz, P. D. Stevenson and M. R. Strayer, Phys. Rev. C 68, 034324 (2003)
+**15.** "Nuclear matter and neutron star properties calculated with the Skyrme interaction", J. Rikovska Stone, J. C. Miller, R. Koncewicz, P. D. Stevenson and M. R. Strayer, [Phys. Rev. C 68, 034324 (2003)](http://dx.doi.org/10.1103/PhysRevC.68.034324)
 
-**14.** "N=Z and proton-rich nuclei in the Hartree-Fock mean field model with a separable nucleon-nucleon interaction", J. Rikovska Stone, K. Schofield, P. D. Stevenson, M. R. Strayer and W. B. Walters, AIP Conf. Proc. 681, 93 (2003)
+**14.** "N=Z and proton-rich nuclei in the Hartree-Fock mean field model with a separable nucleon-nucleon interaction", J. Rikovska Stone, K. Schofield, P. D. Stevenson, M. R. Strayer and W. B. Walters, [AIP Conf. Proc. 681, 93 (2003)](http://dx.doi.org/10.1063/1.1615162)
 
-**13.** "Interplay between K-isomerism and gamma-softness in 128Xe", J. N. Orce, A. M. Bruce, A. Emmanouilidis, C. Wheldon, F. R. Xu, P. M. Walker, M. Caamaño, Zs. Podolyák, H. El-Masri, P. D. Stevenson, A. P. Byrne, G. D. Dracoulis, J. C. Hazel, T. Kibédi and D. M. Cullen, Acta Physica Polonica B 34, 2253 (2003)
+**13.** "Interplay between K-isomerism and gamma-softness in 128Xe", J. N. Orce, A. M. Bruce, A. Emmanouilidis, C. Wheldon, F. R. Xu, P. M. Walker, M. Caamaño, Zs. Podolyák, H. El-Masri, P. D. Stevenson, A. P. Byrne, G. D. Dracoulis, J. C. Hazel, T. Kibédi and D. M. Cullen, [Acta Physica Polonica B 34, 2253 (2003)](http://th-www.if.uj.edu.pl/acta/vol34/abs/v34p2253.htm)
 
-**12.** "Mean field calculation of Ne, Mg and Si nuclei at N=20 with the separable monopole interaction", P. D. Stevenson, J. Rikovska Stone and M. R. Strayer, Phys. Lett. B 545, 291-297 (2002)
+**12.** "Mean field calculation of Ne, Mg and Si nuclei at N=20 with the separable monopole interaction", P. D. Stevenson, J. Rikovska Stone and M. R. Strayer, [Phys. Lett. B 545, 291-297 (2002)](http://dx.doi.org/10.1016/S0370-2693(02)02634-5)
 
-**11.** "Cranked-Hartree-Fock-Bogoliubov Analysis at the Valence Maximum: Yrast Behaviour of 170Dy", M. Oi, P. H. Regan, F. R. Xu, P. M. Walker, A. K. Rath and P. D. Stevenson, Prog. Theor. Phys. Suppl. 146, 609 (2002)
+**11.** "Cranked-Hartree-Fock-Bogoliubov Analysis at the Valence Maximum: Yrast Behaviour of 170Dy", M. Oi, P. H. Regan, F. R. Xu, P. M. Walker, A. K. Rath and P. D. Stevenson, [Prog. Theor. Phys. Suppl. 146, 609 (2002)](http://dx.doi.org/10.1143/PTPS.146.609)
 
-**10.** "Nuclear matter and neutron star properties calculated with a separable monopole interaction", J. Rikovska Stone, P. D. Stevenson, J. C. Miller and M. R. Strayer, Phys. Rev. C 65, 064312 (2002)
+**10.** "Nuclear matter and neutron star properties calculated with a separable monopole interaction", J. Rikovska Stone, P. D. Stevenson, J. C. Miller and M. R. Strayer, [Phys. Rev. C 65, 064312 (2002)](http://dx.doi.org/10.1103/PhysRevC.65.064312)
 
-**9.** "Analytic angular momentum coupling coefficient calculators", P. D. Stevenson, Comput. Phys. Commun. 147, 853 (2002)
+**9.** "Analytic angular momentum coupling coefficient calculators", P. D. Stevenson, [Comput. Phys. Commun. 147, 853 (2002)](http://dx.doi.org/10.1016/S0010-4655(02)00462-9)
 
-**8.** "Negative parity states and triaxiality in 184Os", T. Shizuma, P. D. Stevenson, P. M. Walker, Y. Toh, T. Hayakawa, M. Oshima, K. Furuno and T. Komatsubara, Phys. Rev. C 65, 064310 (2002)
+**8.** "Negative parity states and triaxiality in 184Os", T. Shizuma, P. D. Stevenson, P. M. Walker, Y. Toh, T. Hayakawa, M. Oshima, K. Furuno and T. Komatsubara, [Phys. Rev. C 65, 064310 (2002)](http://dx.doi.org/10.1103/PhysRevC.65.064310)
 
 **7.** "Structure of the Doubly-Mid-Shell Nucleus 170Dy", P. H. Regan, F. R. Xu, P. M. Walker, M. Oi, A. K. Rath and P. D. Stevenson, [Phys. Rev. C 65, 037302 (2002)](http://dx.doi.org/10.1103/PhysRevC.65.037302)
 
-**6.** "N=Z and proton-rich nuclei in the Hartree-Fock mean field model with a separable nucleon-nucleon interaction", J. Rikovska Stone, P. D. Stevenson and M. R. Strayer, Exotic nuclei at the proton drip line, Camerino, Italy (2001)
+**6.** "N=Z and proton-rich nuclei in the Hartree-Fock mean field model with a separable nucleon-nucleon interaction", J. Rikovska Stone, P. D. Stevenson and M. R. Strayer, [Proceedings of Exotic nuclei at the proton drip line, Camerino, Italy (2001)](http://personal.ph.surrey.ac.uk/~phs3ps/camerino.ps)
 
-**5.** "Physics with a Density-Dependent Separable Monopole Interaction", P. Stevenson, M. R. Strayer and J. Rikovska Stone, 3rd International Conference on Exotic Nuclei and Atomic Masses, ENAM'01, Hämeenlinna, Finland (2001)
+**5.** "Physics with a Density-Dependent Separable Monopole Interaction", P. Stevenson, M. R. Strayer and J. Rikovska Stone, [Proceedings of 3rd International Conference on Exotic Nuclei and Atomic Masses, ENAM'01, Hämeenlinna, Finland (2001)](http://personal.ph.surrey.ac.uk/~phs3ps/enampap.ps)
 
 **4.** "Many-body perturbation calculation of spherical nuclei with a separable monopole interaction", P. Stevenson, M. R. Strayer and J. Rikovska Stone, [Phys. Rev. C 63, 054309 (2001)](http://dx.doi.org/10.1103/PhysRevC.63.054309)
 
-**3.** "Hartree-Fock Mean-Field Models Using Separable Interactions", P. Stevenson, J. Rikovska Stone and M. R. Strayer, Proceedings of the Second International Conference on "Fission and Neutron-rich Nuclei", St. Andrews, World Scientific Publishing (1999)
+**3.** "Hartree-Fock Mean-Field Models Using Separable Interactions", P. Stevenson, J. Rikovska Stone and M. R. Strayer, [Proceedings of the Second International Conference on "Fission and Neutron-rich Nuclei", St. Andrews, World Scientific Publishing (1999)](http://personal.ph.surrey.ac.uk/~phs3ps/standrews.ps)
 
 **2.** "Separable Nulcear Multipole Interaction", P. Stevenson, J. Rikovska and M. R. Strayer, in ORNL Progress Report ORNL-6957 (1999)
 
