@@ -147,53 +147,53 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 **60.** "Chaos in Action, Paul Stevenson, Mathematics Today, 45, 267 (2009) 
 
-**59.** "A Variational Approach to Mass Fluctuations", P. D. Stevenson and J. M. A. Broomfield, AIP Conf. Proc. 1165, 177-180 (2009) 
+**59.** "A Variational Approach to Mass Fluctuations", P. D. Stevenson and J. M. A. Broomfield, [AIP Conf. Proc. 1165, 177-180 (2009)](http://dx.doi.org/10.1063/1.3232064)
 
-**58.** "Mass Distributions Beyond TDHF", J. M. A. Broomfield and P. D. Stevenson, AIP Conf. Proc. 1098, 133 (2009) 
+**58.** "Mass Distributions Beyond TDHF", J. M. A. Broomfield and P. D. Stevenson, [AIP Conf. Proc. 1098, 133 (2009)](http://dx.doi.org/10.1063/1.3108767)
 
-**57.** "Mass distributions in a variational model", P. D. Stevenson and J. M. A. Broomfield, Rev. Mex. Fis. S 55, 114 (2009) 
+**57.** "Mass distributions in a variational model", P. D. Stevenson and J. M. A. Broomfield, [Rev. Mex. Fis. S 55, 114 (2009)](http://rmf.smf.mx/pdf/rmf-s/55/2/55_2_114.pdf) [arxiv: 0903.0130](http://arxiv.org/abs/0903.0130)
 
-**56.** "New Insights into the Structure of Exotic Nuclei Using the RISING Active Stopper", P. H. Regan, N. Alkhomashi, N. Al-Dahan, Zs. Podolyák, E. B. Suckling, P. D. Stevenson, S. B. Pietri, S. J. Steer, A. B. Garnsworthy, W. Gelletly, J. Benlliure, A. I. Morales, J. Gerl, M. Górska, H. J. Wollersheim, R. Kumar, J. Grebosz, A. Algora, G. Benzoni, P. Boutachkov, A. M. Bruce, E. Casajeros, I. J. Cullen, A. M. Denis Bacelar, M. E. Estevez, G. Farelly, Y. Fujita, R. Hoischen, S. Lalkovski, Z. Liu, I. Kojouharov, N. Kurz, C. Mihai, F. Molina, D. Mücher, B. Rubio, H. Schaffner, S. Tashenov, A. Tamii, J. J. Valiente Dobón, P. M. Walker, P. J. Woods, AIP Conf. Proc. 1090, 122 (2009) 
+**56.** "New Insights into the Structure of Exotic Nuclei Using the RISING Active Stopper", P. H. Regan, N. Alkhomashi, N. Al-Dahan, Zs. Podolyák, E. B. Suckling, P. D. Stevenson, S. B. Pietri, S. J. Steer, A. B. Garnsworthy, W. Gelletly, J. Benlliure, A. I. Morales, J. Gerl, M. Górska, H. J. Wollersheim, R. Kumar, J. Grebosz, A. Algora, G. Benzoni, P. Boutachkov, A. M. Bruce, E. Casajeros, I. J. Cullen, A. M. Denis Bacelar, M. E. Estevez, G. Farelly, Y. Fujita, R. Hoischen, S. Lalkovski, Z. Liu, I. Kojouharov, N. Kurz, C. Mihai, F. Molina, D. Mücher, B. Rubio, H. Schaffner, S. Tashenov, A. Tamii, J. J. Valiente Dobón, P. M. Walker, P. J. Woods, [AIP Conf. Proc. 1090, 122 (2009)](http://dx.doi.org/10.1063/1.3086996)
 
-**55.** "First Results with the Rising Active Stopper", P. H. Regan, N. Alkhomashi, N. Al-Dahan, Zs. Podolyák, S. B. Pietri, S. J. Steer, A. B Garnsorthy, E. B. Suckling, P. D. Stevenson, G. Farrelly, I. J. Cullen, W. Gelletly, P. M. Walker, J. Benlliure, A. Lopez, E. Casa jeros, M. E. Estevez, J. Gerl, M. Górska, H. J. Wollersheim, P. Boutachkov, S. Tashenov, I. Ko jouharov, H. Schaffner, R. Kumar, N. Kurz, B. Rubio, A. Algora, F. Molina, J. Grebosz, G. Benzoni, D. Mücher, A. M. Bruce, A. Denis, S. Lalkovski, Y. Fujita, A. Tamii, R. Hoischen, Z. Liu, P. J. Woods, C. Mihai, J. J. Valiente-Dobón, Int. J. Mod. Phys. E 17, 8 (2008)
+**55.** "First Results with the Rising Active Stopper", P. H. Regan, N. Alkhomashi, N. Al-Dahan, Zs. Podolyák, S. B. Pietri, S. J. Steer, A. B Garnsorthy, E. B. Suckling, P. D. Stevenson, G. Farrelly, I. J. Cullen, W. Gelletly, P. M. Walker, J. Benlliure, A. Lopez, E. Casa jeros, M. E. Estevez, J. Gerl, M. Górska, H. J. Wollersheim, P. Boutachkov, S. Tashenov, I. Ko jouharov, H. Schaffner, R. Kumar, N. Kurz, B. Rubio, A. Algora, F. Molina, J. Grebosz, G. Benzoni, D. Mücher, A. M. Bruce, A. Denis, S. Lalkovski, Y. Fujita, A. Tamii, R. Hoischen, Z. Liu, P. J. Woods, C. Mihai, J. J. Valiente-Dobón, [Int. J. Mod. Phys. E 17, 8 (2008)](http://dx.doi.org/10.1142/S0218301308011719)
 
-**54.** "Decays Of New Nuclides And Isomers Beyond The Proton Drip Line - The Influence of Neutron Configurations", R. D. Page, L. Bianco, D. T. Joss, J. Simpson, J. S. Al-Khalili, A. J. Cannon, R. J. Cooper, S. Eeckhaudt, S. Ertürk, B. Gall, T. Grahn, P. T. Greenlees, B. Hadinia, P. M. Jones, D. S. Judson, R. Julin, S. Juutinen, S. Ketelhut, M. Labiche, M. Leino, A.-P. Leppänen, M. Nyman, D. O'Donnell, P. Rahkila, P. J. Sapple, J. Sarén, C. Scholey, A. N. Steer, P. D. Stevenson, E. B. Suckling, J. Thompson, J. Uusitalo and M. Venhart, AIP Conf. Proc 1072, 172 (2008)
+**54.** "Decays Of New Nuclides And Isomers Beyond The Proton Drip Line - The Influence of Neutron Configurations", R. D. Page, L. Bianco, D. T. Joss, J. Simpson, J. S. Al-Khalili, A. J. Cannon, R. J. Cooper, S. Eeckhaudt, S. Ertürk, B. Gall, T. Grahn, P. T. Greenlees, B. Hadinia, P. M. Jones, D. S. Judson, R. Julin, S. Juutinen, S. Ketelhut, M. Labiche, M. Leino, A.-P. Leppänen, M. Nyman, D. O'Donnell, P. Rahkila, P. J. Sapple, J. Sarén, C. Scholey, A. N. Steer, P. D. Stevenson, E. B. Suckling, J. Thompson, J. Uusitalo and M. Venhart, [AIP Conf. Proc 1072, 172 (2008)](http://link.aip.org/link/?APCPCS/1072/172/1)
 
-**53.** "Mass Dispersions in Giant Dipole Resonances in the Balian Vénéroni variational approach", J. M. A. Broomfield and P. D. Stevenson, J. Phys. G 35, 095102 (2008)
+**53.** "Mass Dispersions in Giant Dipole Resonances in the Balian Vénéroni variational approach", J. M. A. Broomfield and P. D. Stevenson, [J. Phys. G 35, 095102 (2008)](http://dx.doi.org/10.1088/0954-3899/35/9/095102)
 
-**52.** "Simulating the quantum Zeno and anti-Zeno effects during position measurements", J. S. Al-Khalili and P. D. Stevenson, Adv. Sci. Lett 1, 140 (2008)
+**52.** "Simulating the quantum Zeno and anti-Zeno effects during position measurements", J. S. Al-Khalili and P. D. Stevenson, [Adv. Sci. Lett 1, 140 (2008)](http://www.ingentaconnect.com/content/asp/asl/2008/00000001/00000001/art00013)
 
-**51.** "Fission of hyper-hyperdeformed 56Ni: a clustering analysis witin mean-field approaches", Raj K. Gupta, S. K. Patra, P. D. Stevenson, C. Beck and W. Greiner, J. Phys. G 35, 075106 (2008)
+**51.** "Fission of hyper-hyperdeformed 56Ni: a clustering analysis witin mean-field approaches", Raj K. Gupta, S. K. Patra, P. D. Stevenson, C. Beck and W. Greiner, [J. Phys. G 35, 075106 (2008)](http://dx.doi.org/10.1088/0954-3899/35/7/075106)
 
-**50.** "Bloggers Unite", Paul Stevenson, Nature 447, 779 (2007)
+**50.** "Bloggers Unite", Paul Stevenson, [Nature 447, 779 (2007)](http://dx.doi.org/10.1038/447779b)
 
-**49.** "Identification of a high-spin isomer in 99No", G. A. Jones, P. H. Regan, P. M. Walker, Zs. Podolyák, P. D. Stevenson, M. P. Carpenter, J. J. Carrloo, R. S. Chakrawarthy, P. Chowdhury, A. B. Garnsworthy, R. V. F. Janssens, T. L. Khoo, F. G. Kondev, G. J. Lane, Z. Liu, D. Seweryniak, N. J. Thompson, S. Zhu and S. J. Williams, Phys. Rev. C 76, 047303 (2007) 
+**49.** "Identification of a high-spin isomer in 99No", G. A. Jones, P. H. Regan, P. M. Walker, Zs. Podolyák, P. D. Stevenson, M. P. Carpenter, J. J. Carrloo, R. S. Chakrawarthy, P. Chowdhury, A. B. Garnsworthy, R. V. F. Janssens, T. L. Khoo, F. G. Kondev, G. J. Lane, Z. Liu, D. Seweryniak, N. J. Thompson, S. Zhu and S. J. Williams, [Phys. Rev. C 76, 047303 (2007)](http://dx.doi.org/10.1103/PhysRevC.76.047303)
 
-**48.** "Exotic clustering in heavy and superheavy nuclei within the relativistic and non-relativistic mean field formalisms", S. K. Patra, Raj K. Gupta, B. K. Sharma, P. D. Stevenson and Walter Greiner, J. Phys G 34, 2073 (2007)
+**48.** "Exotic clustering in heavy and superheavy nuclei within the relativistic and non-relativistic mean field formalisms", S. K. Patra, Raj K. Gupta, B. K. Sharma, P. D. Stevenson and Walter Greiner, [J. Phys G 34, 2073 (2007)](http://dx.doi.org/10.1088/0954-3899/34/9/016)
 
-**47.** "A highly neutron-rich cluster and/or a superheavy nucleus in the compound nucleus 238U+238U: a mean field study", Raj K. Gupta, S. K. Patra, P. D. Stevenson and Walter Greiner, Int. J. Mod. Phys. E 16, 1721 (2007)
+**47.** "A highly neutron-rich cluster and/or a superheavy nucleus in the compound nucleus 238U+238U: a mean field study", Raj K. Gupta, S. K. Patra, P. D. Stevenson and Walter Greiner, [Int. J. Mod. Phys. E 16, 1721 (2007)](http://dx.doi.org/10.1142/S0218301307006137)
 
-**46.** "Discovery of the proton emitting nucleus 159Re", D. T. Joss, I. G. Darby, R. D. Page, J. Uusitalo, S. Eeckhaudt, T. Grahn, P. T. Greenlees, P. M. Jones, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, A.-P. Leppänen, M. Nyman, J. Pakarinen, P. Rahkila, J. Sarén, C. Scholey, A. N. Steer, J. S. Al-Khalili, A. J. Cannon, P. D. Stevenson, S. Ertürk, B. Gall, B. Hadinia, M. Venhart and J. Simpson, AIP Conf. Proc. 961, 28 (2007)
+**46.** "Discovery of the proton emitting nucleus 159Re", D. T. Joss, I. G. Darby, R. D. Page, J. Uusitalo, S. Eeckhaudt, T. Grahn, P. T. Greenlees, P. M. Jones, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, A.-P. Leppänen, M. Nyman, J. Pakarinen, P. Rahkila, J. Sarén, C. Scholey, A. N. Steer, J. S. Al-Khalili, A. J. Cannon, P. D. Stevenson, S. Ertürk, B. Gall, B. Hadinia, M. Venhart and J. Simpson, [AIP Conf. Proc. 961, 28 (2007)](http://dx.doi.org/10.1063/1.2827272)
 
-**45.** "Recent Results from Skyrme-TDHF, P. D. Stevenson, proceedings of WONP'07, Havana, Cuba (2007)
+**45.** "Recent Results from Skyrme-TDHF, P. D. Stevenson, [proceedings of WONP'07, Havana, Cuba (2007)](http://personal.ph.surrey.ac.uk/~phs3ps/wonp.pdf)
 
-**44.** "Alpha Decay of 159Re and proton emission from 155Ta", R. D. Page, L. Bianco, I. G. Darby, J. Uusitalo, D. T. Joss, T. Grahn, R.-D. Herzberg, J. Pakarinen, J. Thompson, S. Eeckhaudt, P. T. Greenlees, P. M. Jones, R. Fulin, S. Juutinen, S. Ketelhut, M. Leino, A.-P. Leppänen, M. Nyman, P. Rahkila, J. Sarén, C. Scholey, A. Steer, M. B. Gómez Hornillos, J. S. Al-Khalili, A. J. Cannon, P. D. Stevenson, S. Ertürk, B. Gall, B. Hadinia, M. Venhart and J. Simpson, Phys. Rev. C 75, 061302(R) (2007)
+**44.** "Alpha Decay of 159Re and proton emission from 155Ta", R. D. Page, L. Bianco, I. G. Darby, J. Uusitalo, D. T. Joss, T. Grahn, R.-D. Herzberg, J. Pakarinen, J. Thompson, S. Eeckhaudt, P. T. Greenlees, P. M. Jones, R. Fulin, S. Juutinen, S. Ketelhut, M. Leino, A.-P. Leppänen, M. Nyman, P. Rahkila, J. Sarén, C. Scholey, A. Steer, M. B. Gómez Hornillos, J. S. Al-Khalili, A. J. Cannon, P. D. Stevenson, S. Ertürk, B. Gall, B. Hadinia, M. Venhart and J. Simpson, [Phys. Rev. C 75, 061302(R) (2007)](http://dx.doi.org/10.1103/PhysRevC.75.061302)
 
-**43.** "Monopole Giant Resonances and TDHF Boundary Conditions", P. D. Stevenson, D. Almehed, P.-G. Reinhard and J. A. Maruhn, Nucl. Phys. A 788, 343 (2007)
+**43.** "Monopole Giant Resonances and TDHF Boundary Conditions", P. D. Stevenson, D. Almehed, P.-G. Reinhard and J. A. Maruhn, [Nucl. Phys. A 788, 343 (2007)](http://dx.doi.org/10.1016/j.nuclphysa.2007.01.091)
 
-**42.** "The two-potential approach to one-proton emission", J. S. Al-Khalili, A. J. Cannon and P. D. Stevenson, AIP Conf. Proc. 961, 66 (2007)
+**42.** "The two-potential approach to one-proton emission", J. S. Al-Khalili, A. J. Cannon and P. D. Stevenson, [AIP Conf. Proc. 961, 66 (2007)](http://dx.doi.org/10.1063/1.2827286)
 
-**41.** "Probing single-particle structures beyond the proton drip line", R. D. Page, L. Bianco, I. G. Darby, D. T. Joss, T. Grahn, R.-D. Herzberg, J. Pakarinen, J. Thomson, J. Uusitalo, S. Eeckhaudt, P. T. Greenlees, P. M. Jones, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, A.-P. Leppänen, M. Nyman, P. Rahkila, J. Sarén, C. Scholey, A. Steer, M. Venhart, J. Simpson, J. S. Al-Khalili, A. J. Cannon, P. D. Stevenson, S. Erturk, B. Gall and B. Hadinia, AIP Conf. Proc. 961, 137 (2007)
+**41.** "Probing single-particle structures beyond the proton drip line", R. D. Page, L. Bianco, I. G. Darby, D. T. Joss, T. Grahn, R.-D. Herzberg, J. Pakarinen, J. Thomson, J. Uusitalo, S. Eeckhaudt, P. T. Greenlees, P. M. Jones, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, A.-P. Leppänen, M. Nyman, P. Rahkila, J. Sarén, C. Scholey, A. Steer, M. Venhart, J. Simpson, J. S. Al-Khalili, A. J. Cannon, P. D. Stevenson, S. Erturk, B. Gall and B. Hadinia, [AIP Conf. Proc. 961, 137 (2007)](http://dx.doi.org/10.1063/1.2827246)
 
-**40.** "Dipole Response in Neutron-Rich Magnesium", M. P. Brine, P. D. Stevenson, J. A. Maruhn and P.-G. Reinhard, Int. J. Mod. Phys. E 15, 1417 (2006) 
+**40.** "Dipole Response in Neutron-Rich Magnesium", M. P. Brine, P. D. Stevenson, J. A. Maruhn and P.-G. Reinhard, [Int. J. Mod. Phys. E 15, 1417 (2006)](http://dx.doi.org/10.1142/S0218301306005009)
 
-**39.** "Probing the limit of nuclear existence: Proton emission from 159Re", D. T. Joss, I. G. Darby, R. D. Page, J. Uusitalo, S. Eeckhaudt, T. Grahn, P. T. Greenlees, P. M. Jones, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, A.-P. Leppänen, M. Nyman, J. Pakarinen, P. Rahkila, J. Sarén, C. Scholey, A. Steer, A. J. Cannon, P. D. Stevenson, J. S. Al-Khalili, S. Ertürk, M. Venhart, B. Gall, B. Hadinia and J. Simpson, Phys. Lett. B 641, 34 (2006)
+**39.** "Probing the limit of nuclear existence: Proton emission from 159Re", D. T. Joss, I. G. Darby, R. D. Page, J. Uusitalo, S. Eeckhaudt, T. Grahn, P. T. Greenlees, P. M. Jones, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, A.-P. Leppänen, M. Nyman, J. Pakarinen, P. Rahkila, J. Sarén, C. Scholey, A. Steer, A. J. Cannon, P. D. Stevenson, J. S. Al-Khalili, S. Ertürk, M. Venhart, B. Gall, B. Hadinia and J. Simpson, [Phys. Lett. B 641, 34 (2006)](http://dx.doi.org/10.1016/j.physletb.2006.08.014)
 
-**38.** "Spin-Excitation Mechanisms in Skyrme-Force Time-Dependent Hartree-Fock", J. A. Maruhn, P.-G. Reinhard, P. D. Stevenson and M. R. Strayer, Phys. Rev. C 74, 027601 (2006)
+**38.** "Spin-Excitation Mechanisms in Skyrme-Force Time-Dependent Hartree-Fock", J. A. Maruhn, P.-G. Reinhard, P. D. Stevenson and M. R. Strayer, [Phys. Rev. C 74, 027601 (2006)](http://dx.doi.org/10.1103/PhysRevC.74.027601)
 
-**37.** "Shape-driving effects in the triaxial nucleus 128Xe", J. N. Orce, A. M. Bruce, A. Emmanouilidis, A. P. Byrne, G. D. Dracoulis, T. Kibédi, M. Caamaño, H. El-Masri, C. J. Pearson, Zs. Podolyák, P. D. Stevenson, P. M. Walker, F. R. Xu, D. M. Cullen, and C. Wheldon , Phys. Rev. C 74, 034318 (2006) 
+**37.** "Shape-driving effects in the triaxial nucleus 128Xe", J. N. Orce, A. M. Bruce, A. Emmanouilidis, A. P. Byrne, G. D. Dracoulis, T. Kibédi, M. Caamaño, H. El-Masri, C. J. Pearson, Zs. Podolyák, P. D. Stevenson, P. M. Walker, F. R. Xu, D. M. Cullen, and C. Wheldon , [Phys. Rev. C 74, 034318 (2006)](http://dx.doi.org/10.1103/PhysRevC.74.034318)
 
-**36.** "Deformed Halo Nuclei in Mean-Field Approach, F. R. Xu, J. C. Pei and P. D. Stevenson, Proceedings of 6th China-Japan Joint Nuclear Physics Symposium, AIP Conference Proceedings 865, 96 (2006)
+**36.** "Deformed Halo Nuclei in Mean-Field Approach, F. R. Xu, J. C. Pei and P. D. Stevenson, Proceedings of 6th China-Japan Joint Nuclear Physics Symposium, [AIP Conference Proceedings 865, 96 (2006)](http://dx.doi.org/10.1063/1.2398834)
 
 **35.** "Simulating the quantum Zeno and anti-Zeno effects during position measurements", L. E. Edney, P. D. Stevenson and J. S. Al-Khalili, SEPS Undergraduate Physics Journal 1, 4 (2006)
 
