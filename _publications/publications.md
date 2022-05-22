@@ -261,6 +261,6 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 **3.** "Hartree-Fock Mean-Field Models Using Separable Interactions", P. Stevenson, J. Rikovska Stone and M. R. Strayer, [Proceedings of the Second International Conference on "Fission and Neutron-rich Nuclei", St. Andrews, World Scientific Publishing (1999)](http://personal.ph.surrey.ac.uk/~phs3ps/standrews.ps)
 
-**2.** "Separable Nulcear Multipole Interaction", P. Stevenson, J. Rikovska and M. R. Strayer, in ORNL Progress Report ORNL-6957 (1999)
+**2.** "Separable Nuclear Multipole Interaction", P. Stevenson, J. Rikovska and M. R. Strayer, in ORNL Progress Report ORNL-6957 (1999)
 
-**1.** Nuclear Structure Calculations using many-body perturbation theory with a separable interaction", P. D. Stevenson, D.Phil Thesis, Oxford University, Unpublished (1999)
+**1.** Nuclear Structure Calculations using many-body perturbation theory with a separable interaction", P. D. Stevenson, [D.Phil Thesis, Oxford University, Unpublished (1999)](http://personal.ph.surrey.ac.uk/~phs3ps/a4thesis.pdf)
