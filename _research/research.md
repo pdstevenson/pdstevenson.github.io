@@ -39,7 +39,7 @@ The picture below shows the energy landscape of a model nuclear Hamiltonian as a
 
 ## Other Work
 
-With MPhys student Ben King, and with [Marco Sacchi](https://www.surrey.ac.uk/people/marco-sacchi), [Louie Slocombe](https://www.surrey.ac.uk/people/louie-slocombe) and others
+With MPhys student Ben King, and with [Marco Sacchi](https://www.surrey.ac.uk/people/marco-sacchi), [Louie Slocombe](https://www.surrey.ac.uk/people/louie-slocombe), [Evan Cryer-Jenkins](https://orcid.org/0000-0003-2549-0280) and others
 
 As well as the main research areas mentioned above, I work on generic computational methods beyond their application just to nuclear physics or quantum computing problems;  in quantum biology and chemistry, particularly in quantum tunnelling in DNA;  in special relativity where a student project (by Evan Cryer-Jenkins) led to a paper on visualisation of Terrell rotations.
 
