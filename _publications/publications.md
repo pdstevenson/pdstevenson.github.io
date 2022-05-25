@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my publications at [google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=ZlfUB-UAAAAJ&pagesize=100&view_op=list_works)
 
-Links followed by a ❌ are available to subscribers / otherwise non-free.  ✅ indicates freely-available content.
+A ✅ following a link indicates freely-available content.  Links followed by ❌ are to subscription journal versions or other paid content.
 
 **129.** "*Quadrupole and octupole strengths in the semi-magic nucleus <sup>206</sup>Hg<sub>126</sub>*", L. Morrison, K. Hadyńska-Klęk, Zs. Podolyák, L.P. Gaffney, M. Zielińska, B. A. Brown, H. Grawe, P. D. Stevenson, T. Berry, A. Boukhari, M. Brunet, R. Canavan, R. Catherall, S.J. Colosimo, J. Cubiss, H. De Witte, D.T. Doherty, Ch. Fransen, E. Giannopoulos, M. Górska, H. Hess, T. Kröll, N. Lalović, B. Marsh, Y. Martinez Palenzuela, G. O'Neill, J. Pakarinen, J.P. Ramos, P. Reiter, J.A. Rodriguez, D. Rosiak, S. Rothe, M. Rudigier, M. Siciliano, E.C. Simpson, P. Spagnoletti, S. Thiel, N. Warr, F. Wenander, and R. Zidarova, in preparation
 
@@ -37,7 +37,7 @@ Links followed by a ❌ are available to subscribers / otherwise non-free.  ✅ 
 
 **116.** "*Internuclear potentials from the Sky3d code*", P. D. Stevenson, [IOP SciNotes 1, 025201 (2020)](https://doi.org/10.1088/2633-1357/ab952a) ✅
 
-**115.** "*Gamow's Cyclist: A New Look at Relativistic Measurements for a Binocular Observer*", E. C. Cryer-Jenkins and P. D. Stevenson, [Proc. Roy. Soc. A 476, 20190703 (2020)](http://dx.doi.org/10.1098/rspa.2019.0703) ❌ 
+**115.** "*Gamow's Cyclist: A New Look at Relativistic Measurements for a Binocular Observer*", E. C. Cryer-Jenkins and P. D. Stevenson, [Proc. Roy. Soc. A 476, 20190703 (2020)](http://dx.doi.org/10.1098/rspa.2019.0703) ❌ [arxiv: 1906.11642](https://arxiv.org/abs/1906.11642) ✅
 
 **114.** "*The surface energy in heavy-ion reactions*", P. D. Stevenson, [EPJ Web of Conferences 232, 03005 (2020)](https://doi.org/10.1051/epjconf/202023203005) ✅
 
@@ -63,11 +63,11 @@ Links followed by a ❌ are available to subscribers / otherwise non-free.  ✅ 
 
 **103.** "The Skyrme tensor force in heavy ion collisions", P. D. Stevenson, E. B. Suckling, S. Fracasso, M. C. Barton and A. S. Umar, [Phys. Rev. C 93, 054617 (2016)](http://dx.doi.org/10.1103/PhysRevC.93.054617) ❌ [arxiv: 1507.00645](http://arxiv.org/abs/1507.00645) ✅
 
-**102.** "Sensitivity of the fusion cross section to the density dependence of the symmetry energy", P.-G. Reinhard, A. S. Umar, P. D. Stevenson, J. Piekarewicz, J. A. Maruhn, and V. E. Oberacker, [Phys. Rev. C 93, 044618 (2016)](http://dx.doi.org/10.1103/PhysRevC.93.044618) ❌ [arxiv: 1603.01319](http://arxiv.org/abs/1603.01319)
+**102.** "Sensitivity of the fusion cross section to the density dependence of the symmetry energy", P.-G. Reinhard, A. S. Umar, P. D. Stevenson, J. Piekarewicz, J. A. Maruhn, and V. E. Oberacker, [Phys. Rev. C 93, 044618 (2016)](http://dx.doi.org/10.1103/PhysRevC.93.044618) ❌ [arxiv: 1603.01319](http://arxiv.org/abs/1603.01319) ✅
 
 **101.** "Probing dynamics of fusion reactions through cross-section and spin distribution measurement", Maninder Kaur, B. R. Behara, Gulzar Singh, Varinderjit Singh, N. Madhavan, S. Muralithar, S. Nath, J. Gehlot, G. Mohanto, Ish Mukul, D. Siwal, M. Thakur, K. Kapoor, P. Sharma, T. Banerjee, A. Jhingan, T. Varughese, Indu Bala, B. K. Nayak, A. Saxena, M. B. Chatterjee, and P. D. Stevenson, [EPJ Web of Conferences, 117, 08026 (2016)](http://dx.doi.org/10.1051/epjconf/201611708026) ✅
 
-**100.** "Fission dynamics within time-dependent Hartree-Fock: boost induced fission", P. M. Goddard, P. D. Stevenson and A. Rios, [Phys. Rev. C 93, 014620 (2016)](http://dx.doi.org/10.1103/PhysRevC.93.014620) ❌ [arxiv: 1515.07846](http://arxiv.org/abs/1510.07846)
+**100.** "Fission dynamics within time-dependent Hartree-Fock: boost induced fission", P. M. Goddard, P. D. Stevenson and A. Rios, [Phys. Rev. C 93, 014620 (2016)](http://dx.doi.org/10.1103/PhysRevC.93.014620) ❌ [arxiv: 1515.07846](http://arxiv.org/abs/1510.07846) ✅
 
 **99.** "Resonances and Reactions from Mean-Field Dynamics", P. D. Stevenson, [EPJ Web of Conferences, 107, 08001 (2016)](http://dx.doi.org/10.1051/epjconf/201610708001) ✅
 
@@ -75,31 +75,31 @@ Links followed by a ❌ are available to subscribers / otherwise non-free.  ✅ 
 
 **97.** "Shapes and Dynamics from the Time-Dependent Mean Field, P. D. Stevenson, P. M. Goddard and A. Rios, [Bulg. J. Phys. 42, 354 (2015)](http://www.bjp-bg.com/paper.php?id=770) ✅
 
-**96.** "Fission dynamics within time-dependent Hartree-Fock: deformation-induced fission", P. M. Goddard, P. D. Stevenson and A. Rios, [Phys. Rev. C 92, 054610 (2015)](http://dx.doi.org/10.1103/PhysRevC.92.054610)
+**96.** "Fission dynamics within time-dependent Hartree-Fock: deformation-induced fission", P. M. Goddard, P. D. Stevenson and A. Rios, [Phys. Rev. C 92, 054610 (2015)](http://dx.doi.org/10.1103/PhysRevC.92.054610) [arxiv: 1504.00919](http://arxiv.org/abs/1504.00919) 
 
-**95.** "Investigation of dynamics of fusion reactions through cross-section and spin distribution measurements", Maninder Kaur, B. R. Behera, Gulzar Singh, Varinderjit Singh, N. Madhavan, S. Muralithar, S. Nath, J. Gehlot, G. Mohanto, Ish Mukul, D. Siwal, M. Thakur, K. Kapoor, P. Sharma, T. Banerjee, A. Jhingan, T. Varughese, Indu Bala, B. K. Nayak, A. Saxena, M. B. Chatterjee and P. D. Stevenson, [proceedings of 60th DAE-BRNS Symposium on Nuclear Physics 60 35 (2015)](http://sympnp.org/proceedings/60/I17.pdf)
+**95.** "Investigation of dynamics of fusion reactions through cross-section and spin distribution measurements", Maninder Kaur, B. R. Behera, Gulzar Singh, Varinderjit Singh, N. Madhavan, S. Muralithar, S. Nath, J. Gehlot, G. Mohanto, Ish Mukul, D. Siwal, M. Thakur, K. Kapoor, P. Sharma, T. Banerjee, A. Jhingan, T. Varughese, Indu Bala, B. K. Nayak, A. Saxena, M. B. Chatterjee and P. D. Stevenson, [proceedings of 60th DAE-BRNS Symposium on Nuclear Physics 60 35 (2015)](http://sympnp.org/proceedings/60/I17.pdf) ✅
 
-**94.** "Modelling Proton Tunnelling in the Adenine-Thymine Base Pair", A. D. Godbeer, J. S. Al-Khalili, and P. D. Stevenson, [Phys. Chem. Chem. Phys. 17, 13034 (2015)](http://dx.doi.org/10.1039/c5cp00472a)
+**94.** "Modelling Proton Tunnelling in the Adenine-Thymine Base Pair", A. D. Godbeer, J. S. Al-Khalili, and P. D. Stevenson, [Phys. Chem. Chem. Phys. 17, 13034 (2015)](http://dx.doi.org/10.1039/c5cp00472a) ✅
 
 **93.** "Nuclear Physics and Radiation Science: Education and Training at the University of Surrey", A. Lohstroh, S. Pani, Zs. Podolyák, P. H. Regan and P. D. Stevenson, Nuclear Future 11, 2, 29-33 (2015) 
 
-**92.** "Role of the Skyrme tensor force in heavy-ion fusion, P. D. Stevenson, E. B. Suckling, S. Fracasso, E. D. Simmons and A. S. Umar, [EPJ Web of Conferences 86, 00058 (2015)](http://dx.doi.org/10.1051/epjconf/20158600058)
+**92.** "Role of the Skyrme tensor force in heavy-ion fusion, P. D. Stevenson, E. B. Suckling, S. Fracasso, E. D. Simmons and A. S. Umar, [EPJ Web of Conferences 86, 00058 (2015)](http://dx.doi.org/10.1051/epjconf/20158600058) ✅
 
-**91.** "Nuclear Dynamics with the Sky3D Code, P. D. Stevenson, [Proceedings of the 33-rd International Workshop on Nuclear Theory (IWNT-33), Rila Mountains, 24-31 (2014)](http://ntl.inrne.bas.bg/workshop/2014/contributions/a03_stevenson_2014.pdf)
+**91.** "Nuclear Dynamics with the Sky3D Code, P. D. Stevenson, [Proceedings of the 33-rd International Workshop on Nuclear Theory (IWNT-33), Rila Mountains, 24-31 (2014)](http://ntl.inrne.bas.bg/workshop/2014/contributions/a03_stevenson_2014.pdf) ✅
 
-**90.** "Environment-induced dephasing versus von Neumann measurements in proton tunnelling, A. D. Godbeer, P. D. Stevenson and J. S. Al-Khalili, [Phys. Rev. A 90, 012102 (2014)](http://dx.doi.org/10.1103/PhysRevA.90.012102)
+**90.** "Environment-induced dephasing versus von Neumann measurements in proton tunnelling, A. D. Godbeer, P. D. Stevenson and J. S. Al-Khalili, [Phys. Rev. A 90, 012102 (2014)](http://dx.doi.org/10.1103/PhysRevA.90.012102) ❌
 
-**89.** "The TDHF Code Sky3D", J. A. Maruhn, P.-G. Reinhard, P. D. Stevenson and A. S. Umar, [Comput. Phys. Commun. 185, 2195 (2014)](http://dx.doi.org/10.1016/j.cpc.2014.04.008)
+**89.** "The TDHF Code Sky3D", J. A. Maruhn, P.-G. Reinhard, P. D. Stevenson and A. S. Umar, [Comput. Phys. Commun. 185, 2195 (2014)](http://dx.doi.org/10.1016/j.cpc.2014.04.008) ✅
 
-**88.** "Extension of continuum time-dependent Hartree-Fock method to proton states", C. I. Pardi, P. D. Stevenson and K. Xu, [Phys. Rev. E 89, 033312 (2014)](http://dx.doi.org/10.1103/PhysRevE.89.033312)
+**88.** "Extension of continuum time-dependent Hartree-Fock method to proton states", C. I. Pardi, P. D. Stevenson and K. Xu, [Phys. Rev. E 89, 033312 (2014)](http://dx.doi.org/10.1103/PhysRevE.89.033312) ❌
 
 **87.** "Isoscalar and Isovector Giant Monopole Resonances from a Continuum Hartree-Fock Method", P. D. Stevenson and C. I. Pardi, [EPJ Web of Conferences 66, 02099 (2014)](http://dx.doi.org/10.1051/epjconf/20146602099)
 
-**86.** "Cause of the charge radius isotope shift at the N=126 shell gap, P. M. Goddard, P. D. Stevenson and A. Rios, [EPJ Web of Conferences 66, 02042 (2014)](http://dx.doi.org/10.1051/epjconf/20146602042)
+**86.** "Cause of the charge radius isotope shift at the N=126 shell gap, P. M. Goddard, P. D. Stevenson and A. Rios, [EPJ Web of Conferences 66, 02042 (2014)](http://dx.doi.org/10.1051/epjconf/20146602042) ✅
 
-**85.** "The Continuum Time-Dependent Hartree-Fock Method", C. I. Pardi and P. D. Stevenson, [Proceedings of the 32-nd International Workshop on Nuclear Theory (IWNT-32), Rila Mountains, 3-11 (2013)](http://ntl.inrne.bas.bg/workshop/2013/contributions/a01_stevenson.pdf)
+**85.** "The Continuum Time-Dependent Hartree-Fock Method", C. I. Pardi and P. D. Stevenson, [Proceedings of the 32-nd International Workshop on Nuclear Theory (IWNT-32), Rila Mountains, 3-11 (2013)](http://ntl.inrne.bas.bg/workshop/2013/contributions/a01_stevenson.pdf) ✅
 
-**84.** "The Electric Dipole Response of 76Se Above 4 MeV", P. M. Goddard, N. Cooper, V. Werner, G. Rusev, P. D. Stevenson, A. Rios, C. Bernards, A. Chakraborty, B. Crider, J. Glorius, R. S. Ilieva, J. H. Kelley, E. Kwan, E. E. Peters, N. Pietralla, R. Raut, C. Romig, D. Savran, L. Schnorrenberger, M. K. Smith, K. Sonnabend, A. P. Tonchev, W. Tornow and S. W. Yates, [Phys. Rev. C 88, 064308 (2013)](http://dx.doi.org/10.1103/PhysRevC.88.064308)
+**84.** "The Electric Dipole Response of 76Se Above 4 MeV", P. M. Goddard, N. Cooper, V. Werner, G. Rusev, P. D. Stevenson, A. Rios, C. Bernards, A. Chakraborty, B. Crider, J. Glorius, R. S. Ilieva, J. H. Kelley, E. Kwan, E. E. Peters, N. Pietralla, R. Raut, C. Romig, D. Savran, L. Schnorrenberger, M. K. Smith, K. Sonnabend, A. P. Tonchev, W. Tornow and S. W. Yates, [Phys. Rev. C 88, 064308 (2013)](http://dx.doi.org/10.1103/PhysRevC.88.064308) ✅
 
 **83.** "Half-life of the yrast 2+ state in 188W: Evolution of deformation and collectivity in neutron-rich tungsten isotopes", P. J. R. Mason, Zs. Podolyàk, N. Mărginean, P. H. Regan, D. Delion, P. D. Stevenson, V. Werner, T. Alexander, A. Algora, T. Alharbi, M. Bowry, R. Britton, A, M. Bruce, D. Bucurescu, M. Bunce, G. Căta-Danil, I. Căta-Danil, N. Cooper, D. Deleanu, D. Filipescu, W. Gelletly, D. Ghitță, I. Gheorghe, T. Glodariu, G. Ilie, D. Ivanova, S. Kisyov, S. Lalkovski, R. Lica, S. N. Liddick, R. Mărginean, C. Mihai, K. Mulholland, C. R. Nita, A. Negret, S. Pascu, S. Rice, O. J. Roberts, T. Sava, J. F. Smith, P.-A. Söderström, L. Stroe, G. Suliman, R. Suvaila, S. Toma, C. Townsley, E. Wilson, R. T. Wood, N. V. Zamfir, M. Zhekova and C. Zhou, [Phys. Rev. C 88, 044301 (2013)](http://dx.doi.org/10.1103/PhysRevC.88.044301)
 
