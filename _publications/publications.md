@@ -9,17 +9,17 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 **129.** "*Quadrupole and octupole strengths in the semi-magic nucleus <sup>206</sup>Hg<sub>126</sub>*", L. Morrison, K. Hadyńska-Klęk, Zs. Podolyák, L.P. Gaffney, M. Zielińska, B. A. Brown, H. Grawe, P. D. Stevenson, T. Berry, A. Boukhari, M. Brunet, R. Canavan, R. Catherall, S.J. Colosimo, J. Cubiss, H. De Witte, D.T. Doherty, Ch. Fransen, E. Giannopoulos, M. Górska, H. Hess, T. Kröll, N. Lalović, B. Marsh, Y. Martinez Palenzuela, G. O'Neill, J. Pakarinen, J.P. Ramos, P. Reiter, J.A. Rodriguez, D. Rosiak, S. Rothe, M. Rudigier, M. Siciliano, E.C. Simpson, P. Spagnoletti, S. Thiel, N. Warr, F. Wenander, and R. Zidarova, in preparation
 
-**128.** "*Quantum Computing Calculations for Nuclear Structure and Nuclear Data*", Isaac Hobday, Paul. D. Stevenson, and James Benstead, SPIE Proceedings, *accepted for publication* [arxiv: 2205.05576](http://arxiv.org/abs/2205.05576)
+**128.** "*Quantum Computing Calculations for Nuclear Structure and Nuclear Data*", Isaac Hobday, Paul. D. Stevenson, and James Benstead, SPIE Proceedings, *accepted for publication* [arxiv: 2205.05576](http://arxiv.org/abs/2205.05576) ✅
 
 **127.** "*Comments on Quantum Computing for Nuclear Physics*", P. D. Stevenson, accepted for publication in invited edition of International Journal of Unconventional Computing
 
-**126.** "H2ZIXY: Paul Spin Matrix Decomposition of Real Symmetric Matrices", Rocco Monteiro Nunes Pesce and P. D. Stevenson, [arXiv:2111.00627](http://arxiv.org/abs/2111.00627)
+**126.** "H2ZIXY: Paul Spin Matrix Decomposition of Real Symmetric Matrices", Rocco Monteiro Nunes Pesce and P. D. Stevenson, [arXiv:2111.00627](http://arxiv.org/abs/2111.00627) ✅
 
-**125.** "*Configuration mixing and K-forbidden E2 decays*", P. M. Walker and P. D. Stevenson, [Phys. Rev. C 103, 064305 (2021)](http://dx.doi.org/10.1103/PhysRevC.103.064305)
+**125.** "*Configuration mixing and K-forbidden E2 decays*", P. M. Walker and P. D. Stevenson, [Phys. Rev. C 103, 064305 (2021)](http://dx.doi.org/10.1103/PhysRevC.103.064305) ❌
 
-**124.** "*Nuclear ground states in a consistent implementation of the time-dependent density matrix approach*", M. C. Barton, P. D. Stevenson, and A. Rios [Phys. Rev. C 103 064304 (2021)](http://dx.doi.org/10.1103/PhysRevC.103.064304) [arxiv: 2101.07584](http://arxiv.org/abs/2101.07584)
+**124.** "*Nuclear ground states in a consistent implementation of the time-dependent density matrix approach*", M. C. Barton, P. D. Stevenson, and A. Rios [Phys. Rev. C 103 064304 (2021)](http://dx.doi.org/10.1103/PhysRevC.103.064304) ❌ [arxiv: 2101.07584](http://arxiv.org/abs/2101.07584) ✅
 
-**123.** "*The kinks in charge radii across N=82 and 126 revisited*", M. Bhuyan, B. Maheshwari, Hasan Abu Kassim, Norhasliza Yusof, S. K. Patra, B. V. Carlson, and P. D. Stevenson, [J. Phys. G 48, 075105 (2021)](https://doi.org/10.1088/1361-6471/abf7d7) [arxiv: 2104.07392](http://arxiv.org/abs/2104.07392)
+**123.** "*The kinks in charge radii across N=82 and 126 revisited*", M. Bhuyan, B. Maheshwari, Hasan Abu Kassim, Norhasliza Yusof, S. K. Patra, B. V. Carlson, and P. D. Stevenson, [J. Phys. G 48, 075105 (2021)](https://doi.org/10.1088/1361-6471/abf7d7) ❌ [arxiv: 2104.07392](http://arxiv.org/abs/2104.07392) ✅
 
 **122.** "*Fission Dynamics of Compound Nuclei: Pairing versus Fluctuations*", Y. Qiang , J. C. Pei, and P. D. Stevenson, [Phys. Rev. C 103, L031304 (2021)](http://dx.doi.org/10.1103/PhysRevC.103.L031304) [arxiv: 2010.06765](https://arxiv.org/abs/2010.06765)
 
