@@ -14,4 +14,4 @@ My research is mainly in theoretical nuclear physics and quantum computing, with
 
 See also my [official University of Surrey Page](https://www.surrey.ac.uk/people/paul-stevenson) page.
 
-You can contact me on [p.stevenson@surrey.ac.uk](mailto:p.stevenson@surrey.ac.uk]
+You can contact me on [p.stevenson@surrey.ac.uk](mailto:p.stevenson@surrey.ac.uk)
