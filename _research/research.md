@@ -21,9 +21,9 @@ Nuclear reactions involve the interaction of nuclei with another object which co
 
 The principal code used for these calculations is published and freely available.  The latest version [Sky3d 1.1 is available from Computer Physics Communications](http://dx.doi.org/10.17632/vzbrzvyrn4.1)
 
-The picture below shows the fission pathway of the nucleus <sup>240</sup> at finite temperature, showing different allowed trajectories caused by the statistical fluctuations inherent in quantum mechanics
+The picture below shows the fission pathway of the nucleus <sup>240</sup>Pu at finite temperature, showing different allowed trajectories caused by the statistical fluctuations inherent in quantum mechanics
 
-<img src="/files/fission.png" alt="fission pathway" width=50%>
+<img src="/files/fission.png" alt="fission pathway" width="50%">
 
 ## Quantum Computing
 
