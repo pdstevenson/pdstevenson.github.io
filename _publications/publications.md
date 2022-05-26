@@ -231,7 +231,7 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 **19.** "Isomers in neutron-rich A≈190 nuclides from 208Pb fragmentation", M. Caamaño, P. M. Walker, P. H. Regan, M. Pfützner, Zs. Podolyák, J. Gerl, M. Hellström, P. Mayet, M.N. Mineva, A. Aprahamian, J. Benlliure, A.M . Bruce, P. A. Butler, D. Cortina Gil, D. M. Cullen, J. Döring, T. Enqvist, C. Fox, J. Garcés Narro, H. Geissel, W. Gelletly, J. Giovinazzo, M. Górska, H. Grawe, R. Grzywacz, A. Kleinböhl, W. Korten, M. Lewitowicz, R. Lucas, H. Mach, C. D. O'Leary, F. De Oliveira, C. J. Pearson, F. Rejmund, M. Rejmund, M. Sawicka, H. Schaffner, C. Schlegel, K. Schmidt, K.-H. Schmidt, P. D. Stevenson, Ch. Theisen, F. Vivès, D. D. Warner, C. Wheldon, H. J. Wollersheim, S. Wooding, F. Xu and O. Yordanov, [Eur. Phys. J. A23, 201-215 (2005)](http://dx.doi.org/10.1140/epja/i2004-10079-7) ❌
 
-**18.** "Giant Resonances from TDHF", P. D. Stevenson, M. R. Strayer, J. Rikovska Stone and W. G. Newton, [Int. J. Mod. Phys. E, 13, 181 (2004)](http://dx.doi.org/10.1142/S0218301304001928) ❌ [arxiv: nucl-th/0310020 ](http://arxiv.org/abs/nucl-th/0310020)
+**18.** "Giant Resonances from TDHF", P. D. Stevenson, M. R. Strayer, J. Rikovska Stone and W. G. Newton, [Int. J. Mod. Phys. E, 13, 181 (2004)](http://dx.doi.org/10.1142/S0218301304001928) ❌ [arxiv: nucl-th/0310020 ](http://arxiv.org/abs/nucl-th/0310020) ✅
 
 **17.** "Automatic generation of vacuum amplitude many-body perturbation series", P. D. Stevenson, [Int. J. Mod. Phys. C 14, 1135 (2003)](http://dx.doi.org/10.1142/S0129183103005236) ❌ [arxiv: physics/0303069](http://arxiv.org/abs/physics/0303069) ✅
 
