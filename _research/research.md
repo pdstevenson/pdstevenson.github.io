@@ -21,7 +21,7 @@ Nuclear reactions involve the interaction of nuclei with another object which co
 
 The principal code used for these calculations is published and freely available.  The latest version [Sky3d 1.1 is available from Computer Physics Communications](http://dx.doi.org/10.17632/vzbrzvyrn4.1)
 
-The picture below shows the fission pathway of the nucleus <sup>240</sup>Pu at finite temperature, showing different allowed trajectories caused by the statistical fluctuations inherent in quantum mechanics
+The picture below (from [Phys. Rev. C 103, L031304 (2021)](http://dx.doi.org/10.1103/PhysRevC.103.L031304)) shows the fission pathway of the nucleus <sup>240</sup>Pu at finite temperature, showing different allowed trajectories caused by the statistical fluctuations inherent in quantum mechanics
 
 <img src="/files/fission.png" alt="fission pathway" width="50%">
 
@@ -33,7 +33,7 @@ Quantum computers are previously hypothetical and now realised devices which mak
 
 Our work is on developing quantum algorithms that are able to perform practical calculations of nuclear properties and running them on todays limited-qubit and noisy quantum computers.
 
-The picture below shows the energy landscape of a model nuclear Hamiltonian as a function of parameters in a variational wave function ansatz.
+The picture below (from [arxiv: 2205.05576](http://arxiv.org/abs/2205.05576)) shows the energy landscape of a model nuclear Hamiltonian as a function of parameters in a variational wave function ansatz.
 
 <img src="/files/energy-t1t2.png" alt="energy landscape" width="50%">
 
@@ -43,6 +43,6 @@ With MPhys student Ben King, and with [Marco Sacchi](https://www.surrey.ac.uk/pe
 
 As well as the main research areas mentioned above, I work on generic computational methods beyond their application just to nuclear physics or quantum computing problems;  in quantum biology and chemistry, particularly in quantum tunnelling in DNA;  in special relativity where a student project (by Evan Cryer-Jenkins) led to a paper on visualisation of Terrell rotations.
 
-The picture below from the special relativity work shows combined distortion and redshift effects on a fast-moving cyclist as seen by a left and right eye in combination.
+The picture below from the special relativity work ([Proc. Roy. Soc. A 476, 20190703 (2020)](http://dx.doi.org/10.1098/rspa.2019.0703)) shows combined distortion and redshift effects on a fast-moving cyclist as seen by a left and right eye in combination.
 
 <img src="/files/cyclist.png" alt="relativistic cyclist" width="50%">
