@@ -9,6 +9,8 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 A ✅ following a link indicates freely-available content.  Links followed by ❌ are to subscription journal versions or other paid content.  For articles where I do not provide a link to a free version, you may still find the article on institutional repositories.  Using Google Scholar often finds such versions.
 
+**133.** "*Quantum Computing Calculations for Nuclear Structure and Nuclear Data*", Isaac Hobday, Paul Stevenson, and James Benstead, in preparation for Nuclear Data 2022 Conference Proceedings
+
 **132.** "*Mean-field Simulations of Es-254 + Ca-48 Heavy-Ion Reactions*", Paul D Stevenson, in preparation for Frontiers in Physics Research Topic
 
 **131.** "*Isoscalar Monopole Strength in <sup>100</sup>Mo:  An Indicator of Static Triaxial Deformation in the Ground State*", Yue Shi (石跃) and P. D. Stevenson, in preparation
