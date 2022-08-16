@@ -11,7 +11,7 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 **133.** "*Quantum Computing Calculations for Nuclear Structure and Nuclear Data*", Isaac Hobday, Paul Stevenson, and James Benstead, in preparation for Nuclear Data 2022 Conference Proceedings
 
-**132.** "*Mean-field Simulations of Es-254 + Ca-48 Heavy-Ion Reactions*", Paul D Stevenson, in preparation for Frontiers in Physics Research Topic
+**132.** "*Mean-field Simulations of Es-254 + Ca-48 Heavy-Ion Reactions*", Paul D Stevenson, submitted to Frontiers in Physics
 
 **131.** "*Isoscalar Monopole Strength in <sup>100</sup>Mo:  An Indicator of Static Triaxial Deformation in the Ground State*", Yue Shi (石跃) and P. D. Stevenson, in preparation
 
