@@ -7,9 +7,9 @@ author_profile: true
 
 You can also find my publications at [google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=ZlfUB-UAAAAJ&pagesize=100&view_op=list_works)
 
-A ✅ following a link indicates freely-available content.  Links followed by ❌ are to subscription journal versions or other paid content.  For articles where I do not provide a link to a free version, you may still find the article on institutional repositories.  Using Google Scholar often finds such versions. [arxiv: 2209.07820](http://arxiv.org/abs/2209.07820) ✅
+A ✅ following a link indicates freely-available content.  Links followed by ❌ are to subscription journal versions or other paid content.  For articles where I do not provide a link to a free version, you may still find the article on institutional repositories.  Using Google Scholar often finds such versions. 
 
-**133.** "*Variance minimisation on a quantum computer for nuclear structure*", Isaac Hobday, Paul Stevenson, and James Benstead, submitted to Nuclear Data 2022 Conference Proceedings
+**133.** "*Variance minimisation on a quantum computer for nuclear structure*", Isaac Hobday, Paul Stevenson, and James Benstead, submitted to Nuclear Data 2022 Conference Proceedings, [arxiv: 2209.07820](http://arxiv.org/abs/2209.07820) ✅
 
 **132.** "*Mean-field Simulations of Es-254 + Ca-48 Heavy-Ion Reactions*", Paul D Stevenson, submitted to Frontiers in Physics
 
