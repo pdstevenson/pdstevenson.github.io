@@ -7,6 +7,8 @@ author_profile: true
 
 Here is an (incomplete) list of talks and poster presentations
 
+**0.** November 2022: "Quantum Computing for Nuclear Structure Theory", LISA_ITN School online.
+
 **1.** April 2021: "Calculated octupole spectra near Pb-208 with a time-depdendent method " Institute of Physics joint APP, HEPP and NP conference, Edinburgh, UK (via Zoom) 
 
 **2.** March 2021: "Time-dependent theory for octupole states around lead-208, University of Athens seminar, Athens, Greece (via Zoom, invited) 
