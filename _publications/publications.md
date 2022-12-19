@@ -17,7 +17,8 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 **132.** "*Mean-field Simulations of Es-254 + Ca-48 Heavy-Ion Reactions*", Paul D Stevenson, [Frontiers in Physics 10, 1019285 (2022)](http://dx.doi.org/10.3389/fphy.2022.1019285) ✅
 
-**131.** "*Isoscalar Monopole Strength in <sup>100</sup>Mo:  An Indicator of Static Triaxial Deformation in the Ground State*", Yue Shi (石跃) and P. D. Stevenson, accepted for publication in Chinese Physics C
+**131.** "*Isoscalar Monopole Strength in <sup>100</sup>Mo:  An Indicator of Static Triaxial Deformation in the Ground State*", Yue Shi (石跃) and P. D. Stevenson, [Chinese Physics C, in press](http://dx.doi.org/10.1088/1674-1137/acac6b)
+doi: 10.1088/1674-1137/acac6b
 
 **130.** "*An assessment of neutron resonance data for mid-mass isotopes*", James Benstead, Will McClymont, and Paul Stevenson, submitted to Nuclear Data 2022 Conference Proceedings
 
