@@ -9,17 +9,17 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 A ✅ following a link indicates freely-available content.  Links followed by ❌ are to subscription journal versions or other paid content.  For articles where I do not provide a link to a free version, you may still find the article on institutional repositories.  Using Google Scholar often finds such versions. 
 
-**135.** "*Tautomerisation Mechanisms in the Adenine-Thymine Nucleobase Pair During DNA Strand Separation*", Benjamin King, Max Winokan, Louie Slocombe, Paul Stevenson, Jim Al-Khalili, and Marco Sacchi, submitted to Journal of Physical Chemistry B. [ChemRxiv](http://dx.doi.org/10.26434/chemrxiv-2022-lzzsp) ✅
+**135.** "*An assessment of neutron resonance data for mid-mass isotopes*", James Benstead, Will McClymont, and Paul Stevenson, submitted to Nuclear Data 2022 Conference Proceedings
 
-**134.** "*Variational Algorithm to Find Eigenvalues of Nuclear Models*", I. Hobday, P. Stevenson, and J. Benstead, in preparation for proceedings of M&C 2023 - The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering.
+**134.** "*Tautomerisation Mechanisms in the Adenine-Thymine Nucleobase Pair During DNA Strand Separation*", Benjamin King, Max Winokan, Louie Slocombe, Paul Stevenson, Jim Al-Khalili, and Marco Sacchi, submitted to Journal of Physical Chemistry B. [ChemRxiv](http://dx.doi.org/10.26434/chemrxiv-2022-lzzsp) ✅
 
-**133.** "*Variance minimisation on a quantum computer for nuclear structure*", Isaac Hobday, Paul Stevenson, and James Benstead, submitted to Nuclear Data 2022 Conference Proceedings, [arxiv: 2209.07820](http://arxiv.org/abs/2209.07820) ✅
+**133.** "*Variational Algorithm to Find Eigenvalues of Nuclear Models*", I. Hobday, P. Stevenson, and J. Benstead, in preparation for proceedings of M&C 2023 - The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering.
 
-**132.** "*Mean-field Simulations of Es-254 + Ca-48 Heavy-Ion Reactions*", Paul D Stevenson, [Frontiers in Physics 10, 1019285 (2022)](http://dx.doi.org/10.3389/fphy.2022.1019285) ✅
+**132.** "*Variance minimisation on a quantum computer for nuclear structure*", Isaac Hobday, Paul Stevenson, and James Benstead, submitted to Nuclear Data 2022 Conference Proceedings, [arxiv: 2209.07820](http://arxiv.org/abs/2209.07820) ✅
 
-**131.** "*Isoscalar Monopole Strength in <sup>100</sup>Mo:  An Indicator of Static Triaxial Deformation in the Ground State*", Yue Shi (石跃) and P. D. Stevenson, [Chinese Physics C, in press](http://dx.doi.org/10.1088/1674-1137/acac6b) ❌ [preprint](http://pdstevenson.github.io/files/mo100-preprint.pdf) ✅
+**131.** "*Isoscalar Monopole Strength in <sup>100</sup>Mo:  An Indicator of Static Triaxial Deformation in the Ground State*", Yue Shi (石跃) and P. D. Stevenson, [Chinese Physics C 47, 034105 (2023)](http://dx.doi.org/10.1088/1674-1137/acac6b) ❌ [preprint](http://pdstevenson.github.io/files/mo100-preprint.pdf) ✅
 
-**130.** "*An assessment of neutron resonance data for mid-mass isotopes*", James Benstead, Will McClymont, and Paul Stevenson, submitted to Nuclear Data 2022 Conference Proceedings
+**130.** "*Mean-field Simulations of Es-254 + Ca-48 Heavy-Ion Reactions*", Paul D Stevenson, [Frontiers in Physics 10, 1019285 (2022)](http://dx.doi.org/10.3389/fphy.2022.1019285) ✅
 
 **129.** "*Quadrupole and octupole strengths in the semi-magic nucleus <sup>206</sup>Hg<sub>126</sub>*", L. Morrison, K. Hadyńska-Klęk, Zs. Podolyák, L.P. Gaffney, M. Zielińska, B. A. Brown, H. Grawe, P. D. Stevenson, T. Berry, A. Boukhari, M. Brunet, R. Canavan, R. Catherall, S.J. Colosimo, J. Cubiss, H. De Witte, D.T. Doherty, Ch. Fransen, E. Giannopoulos, M. Górska, H. Hess, T. Kröll, N. Lalović, B. Marsh, Y. Martinez Palenzuela, G. O'Neill, J. Pakarinen, J.P. Ramos, P. Reiter, J.A. Rodriguez, D. Rosiak, S. Rothe, M. Rudigier, M. Siciliano, E.C. Simpson, P. Spagnoletti, S. Thiel, N. Warr, F. Wenander, and R. Zidarova, [Phys. Lett. B 838, 137675 (2023)](https://doi.org/10.1016/j.physletb.2023.137675) ✅
 
