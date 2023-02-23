@@ -15,7 +15,8 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 **133.** "*Variational Algorithm to Find Eigenvalues of Nuclear Models*", I. Hobday, P. Stevenson, and J. Benstead, in preparation for proceedings of M&C 2023 - The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering.
 
-**132.** "*Variance minimisation on a quantum computer for nuclear structure*", Isaac Hobday, Paul Stevenson, and James Benstead, submitted to Nuclear Data 2022 Conference Proceedings, [arxiv: 2209.07820](http://arxiv.org/abs/2209.07820) ✅
+**132.** "*Variance minimisation on a quantum computer for nuclear structure*", Isaac Hobday, Paul Stevenson, and James Benstead, submitted to Nuclear Data 2022 Conference Proceedings, [arxiv: 2209.07820](http://arxiv.org/abs/2209.07820) ✅ [ar5iv version](https://ar5iv.labs.arxiv.org/html/2209.07820) ✅
+
 
 **131.** "*Isoscalar Monopole Strength in <sup>100</sup>Mo:  An Indicator of Static Triaxial Deformation in the Ground State*", Yue Shi (石跃) and P. D. Stevenson, [Chinese Physics C 47, 034105 (2023)](http://dx.doi.org/10.1088/1674-1137/acac6b) ❌ [preprint](http://pdstevenson.github.io/files/mo100-preprint.pdf) ✅
 
@@ -23,11 +24,11 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 **129.** "*Quadrupole and octupole strengths in the semi-magic nucleus <sup>206</sup>Hg<sub>126</sub>*", L. Morrison, K. Hadyńska-Klęk, Zs. Podolyák, L.P. Gaffney, M. Zielińska, B. A. Brown, H. Grawe, P. D. Stevenson, T. Berry, A. Boukhari, M. Brunet, R. Canavan, R. Catherall, S.J. Colosimo, J. Cubiss, H. De Witte, D.T. Doherty, Ch. Fransen, E. Giannopoulos, M. Górska, H. Hess, T. Kröll, N. Lalović, B. Marsh, Y. Martinez Palenzuela, G. O'Neill, J. Pakarinen, J.P. Ramos, P. Reiter, J.A. Rodriguez, D. Rosiak, S. Rothe, M. Rudigier, M. Siciliano, E.C. Simpson, P. Spagnoletti, S. Thiel, N. Warr, F. Wenander, and R. Zidarova, [Phys. Lett. B 838, 137675 (2023)](https://doi.org/10.1016/j.physletb.2023.137675) ✅
 
-**128.** "*Quantum Computing Calculations for Nuclear Structure and Nuclear Data*", Isaac Hobday, Paul. D. Stevenson, and James Benstead, [Proc. SPIE 12133, Quantum Technologies 2022, 121330J (2022)](https://doi.org/10.1117/12.2632782) ❌ [arxiv: 2205.05576](http://arxiv.org/abs/2205.05576) ✅
+**128.** "*Quantum Computing Calculations for Nuclear Structure and Nuclear Data*", Isaac Hobday, Paul. D. Stevenson, and James Benstead, [Proc. SPIE 12133, Quantum Technologies 2022, 121330J (2022)](https://doi.org/10.1117/12.2632782) ❌ [arxiv: 2205.05576](http://arxiv.org/abs/2205.05576) ✅ 
 
 **127.** "*Comments on Quantum Computing for Nuclear Physics*", P. D. Stevenson, accepted for publication in invited edition of International Journal of Unconventional Computing
 
-**126.** "H2ZIXY: Paul Spin Matrix Decomposition of Real Symmetric Matrices", Rocco Monteiro Nunes Pesce and P. D. Stevenson, [arXiv:2111.00627](http://arxiv.org/abs/2111.00627) ✅
+**126.** "H2ZIXY: Paul Spin Matrix Decomposition of Real Symmetric Matrices", Rocco Monteiro Nunes Pesce and P. D. Stevenson, [arXiv:2111.00627](http://arxiv.org/abs/2111.00627) ✅ [ar5iv version](https://ar5iv.labs.arxiv.org/html/2111.00627) ✅
 
 **125.** "*Configuration mixing and K-forbidden E2 decays*", P. M. Walker and P. D. Stevenson, [Phys. Rev. C 103, 064305 (2021)](http://dx.doi.org/10.1103/PhysRevC.103.064305) ❌ 
 
