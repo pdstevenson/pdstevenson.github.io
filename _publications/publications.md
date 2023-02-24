@@ -9,24 +9,24 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 A ✅ following a link indicates freely-available content.  Links followed by ❌ are to subscription journal versions or other paid content.  For articles where I do not provide a link to a free version, you may still find the article on institutional repositories.  Using Google Scholar often finds such versions. 
 
-**135.** "*An assessment of neutron resonance data for mid-mass isotopes*", James Benstead, Will McClymont, and Paul Stevenson, submitted to Nuclear Data 2022 Conference Proceedings
 
-**134.** "*Tautomerisation Mechanisms in the Adenine-Thymine Nucleobase Pair During DNA Strand Separation*", Benjamin King, Max Winokan, Louie Slocombe, Paul Stevenson, Jim Al-Khalili, and Marco Sacchi, submitted to Journal of Physical Chemistry B. [ChemRxiv](http://dx.doi.org/10.26434/chemrxiv-2022-lzzsp) ✅
+**135.** "*Comments on Quantum Computing for Nuclear Physics*", P. D. Stevenson, accepted for publication in invited edition of International Journal of Unconventional Computing
 
-**133.** "*Variational Algorithm to Find Eigenvalues of Nuclear Models*", I. Hobday, P. Stevenson, and J. Benstead, in preparation for proceedings of M&C 2023 - The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering.
+**134.** "*An assessment of neutron resonance data for mid-mass isotopes*", James Benstead, Will McClymont, and Paul Stevenson, accepted for publication in Nuclear Data 2022 Conference Proceedings
 
-**132.** "*Variance minimisation on a quantum computer for nuclear structure*", Isaac Hobday, Paul Stevenson, and James Benstead, submitted to Nuclear Data 2022 Conference Proceedings, [arxiv: 2209.07820](http://arxiv.org/abs/2209.07820) ✅ [ar5iv version](https://ar5iv.labs.arxiv.org/html/2209.07820) ✅
+**133.** "*Tautomerisation Mechanisms in the Adenine-Thymine Nucleobase Pair During DNA Strand Separation*", Benjamin King, Max Winokan, Louie Slocombe, Paul Stevenson, Jim Al-Khalili, and Marco Sacchi, submitted to Journal of Physical Chemistry B. [ChemRxiv](http://dx.doi.org/10.26434/chemrxiv-2022-lzzsp) ✅
 
+**132.** "*Variational Algorithm to Find Eigenvalues of Nuclear Models*", I. Hobday, P. Stevenson, and J. Benstead, in preparation for proceedings of M&C 2023 - The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering.
 
-**131.** "*Isoscalar Monopole Strength in <sup>100</sup>Mo:  An Indicator of Static Triaxial Deformation in the Ground State*", Yue Shi (石跃) and P. D. Stevenson, [Chinese Physics C 47, 034105 (2023)](http://dx.doi.org/10.1088/1674-1137/acac6b) ❌ [preprint](http://pdstevenson.github.io/files/mo100-preprint.pdf) ✅
+**131.** "*Variance minimisation on a quantum computer for nuclear structure*", Isaac Hobday, Paul Stevenson, and James Benstead, accepted for publication in Nuclear Data 2022 Conference Proceedings, [arxiv: 2209.07820](http://arxiv.org/abs/2209.07820) ✅ [ar5iv version](https://ar5iv.labs.arxiv.org/html/2209.07820) ✅
 
-**130.** "*Mean-field Simulations of Es-254 + Ca-48 Heavy-Ion Reactions*", Paul D Stevenson, [Frontiers in Physics 10, 1019285 (2022)](http://dx.doi.org/10.3389/fphy.2022.1019285) ✅
+**130.** "*Isoscalar Monopole Strength in <sup>100</sup>Mo:  An Indicator of Static Triaxial Deformation in the Ground State*", Yue Shi (石跃) and P. D. Stevenson, [Chinese Physics C 47, 034105 (2023)](http://dx.doi.org/10.1088/1674-1137/acac6b) ❌ [preprint](http://pdstevenson.github.io/files/mo100-preprint.pdf) ✅
 
-**129.** "*Quadrupole and octupole strengths in the semi-magic nucleus <sup>206</sup>Hg<sub>126</sub>*", L. Morrison, K. Hadyńska-Klęk, Zs. Podolyák, L.P. Gaffney, M. Zielińska, B. A. Brown, H. Grawe, P. D. Stevenson, T. Berry, A. Boukhari, M. Brunet, R. Canavan, R. Catherall, S.J. Colosimo, J. Cubiss, H. De Witte, D.T. Doherty, Ch. Fransen, E. Giannopoulos, M. Górska, H. Hess, T. Kröll, N. Lalović, B. Marsh, Y. Martinez Palenzuela, G. O'Neill, J. Pakarinen, J.P. Ramos, P. Reiter, J.A. Rodriguez, D. Rosiak, S. Rothe, M. Rudigier, M. Siciliano, E.C. Simpson, P. Spagnoletti, S. Thiel, N. Warr, F. Wenander, and R. Zidarova, [Phys. Lett. B 838, 137675 (2023)](https://doi.org/10.1016/j.physletb.2023.137675) ✅
+**129.** "*Mean-field Simulations of Es-254 + Ca-48 Heavy-Ion Reactions*", Paul D Stevenson, [Frontiers in Physics 10, 1019285 (2022)](http://dx.doi.org/10.3389/fphy.2022.1019285) ✅
 
-**128.** "*Quantum Computing Calculations for Nuclear Structure and Nuclear Data*", Isaac Hobday, Paul. D. Stevenson, and James Benstead, [Proc. SPIE 12133, Quantum Technologies 2022, 121330J (2022)](https://doi.org/10.1117/12.2632782) ❌ [arxiv: 2205.05576](http://arxiv.org/abs/2205.05576) ✅ 
+**128.** "*Quadrupole and octupole strengths in the semi-magic nucleus <sup>206</sup>Hg<sub>126</sub>*", L. Morrison, K. Hadyńska-Klęk, Zs. Podolyák, L.P. Gaffney, M. Zielińska, B. A. Brown, H. Grawe, P. D. Stevenson, T. Berry, A. Boukhari, M. Brunet, R. Canavan, R. Catherall, S.J. Colosimo, J. Cubiss, H. De Witte, D.T. Doherty, Ch. Fransen, E. Giannopoulos, M. Górska, H. Hess, T. Kröll, N. Lalović, B. Marsh, Y. Martinez Palenzuela, G. O'Neill, J. Pakarinen, J.P. Ramos, P. Reiter, J.A. Rodriguez, D. Rosiak, S. Rothe, M. Rudigier, M. Siciliano, E.C. Simpson, P. Spagnoletti, S. Thiel, N. Warr, F. Wenander, and R. Zidarova, [Phys. Lett. B 838, 137675 (2023)](https://doi.org/10.1016/j.physletb.2023.137675) ✅
 
-**127.** "*Comments on Quantum Computing for Nuclear Physics*", P. D. Stevenson, accepted for publication in invited edition of International Journal of Unconventional Computing
+**127.** "*Quantum Computing Calculations for Nuclear Structure and Nuclear Data*", Isaac Hobday, Paul. D. Stevenson, and James Benstead, [Proc. SPIE 12133, Quantum Technologies 2022, 121330J (2022)](https://doi.org/10.1117/12.2632782) ❌ [arxiv: 2205.05576](http://arxiv.org/abs/2205.05576) ✅ 
 
 **126.** "H2ZIXY: Paul Spin Matrix Decomposition of Real Symmetric Matrices", Rocco Monteiro Nunes Pesce and P. D. Stevenson, [arXiv:2111.00627](http://arxiv.org/abs/2111.00627) ✅ [ar5iv version](https://ar5iv.labs.arxiv.org/html/2111.00627) ✅
 
