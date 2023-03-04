@@ -9,12 +9,11 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 A ✅ following a link indicates freely-available content.  Links followed by ❌ are to subscription journal versions or other paid content.  For articles where I do not provide a link to a free version, you may still find the article on institutional repositories.  Using Google Scholar often finds such versions. 
 
-
 **135.** "*Comments on Quantum Computing for Nuclear Physics*", P. D. Stevenson, accepted for publication in invited edition of International Journal of Unconventional Computing
 
 **134.** "*An assessment of neutron resonance data for mid-mass isotopes*", James Benstead, Will McClymont, and Paul Stevenson, accepted for publication in Nuclear Data 2022 Conference Proceedings
 
-**133.** "*Tautomerisation Mechanisms in the Adenine-Thymine Nucleobase Pair During DNA Strand Separation*", Benjamin King, Max Winokan, Louie Slocombe, Paul Stevenson, Jim Al-Khalili, and Marco Sacchi, submitted to Journal of Physical Chemistry B. [ChemRxiv](http://dx.doi.org/10.26434/chemrxiv-2022-lzzsp) ✅
+**133.** "*Tautomerisation Mechanisms in the Adenine-Thymine Nucleobase Pair During DNA Strand Separation*", Benjamin King, Max Winokan, Louie Slocombe, Paul Stevenson, Jim Al-Khalili, and Marco Sacchi, accepted for publication in Journal of Physical Chemistry B. [ChemRxiv](http://dx.doi.org/10.26434/chemrxiv-2022-lzzsp) ✅
 
 **132.** "*Variational Algorithm to Find Eigenvalues of Nuclear Models*", I. Hobday, P. Stevenson, and J. Benstead, in preparation for proceedings of M&C 2023 - The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering.
 
