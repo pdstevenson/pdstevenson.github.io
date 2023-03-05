@@ -9,7 +9,7 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 A ✅ following a link indicates freely-available content.  Links followed by ❌ are to subscription journal versions or other paid content.  For articles where I do not provide a link to a free version, you may still find the article on institutional repositories.  Using Google Scholar often finds such versions. 
 
-**135.** "*Comments on Quantum Computing for Nuclear Physics*", P. D. Stevenson, accepted for publication in invited edition of International Journal of Unconventional Computing
+**135.** "*Comments on Quantum Computing for Nuclear Physics*", P. D. Stevenson, International Journal of Unconventional Computing 18, 83 (2023) ❌
 
 **134.** "*An assessment of neutron resonance data for mid-mass isotopes*", James Benstead, Will McClymont, and Paul Stevenson, accepted for publication in Nuclear Data 2022 Conference Proceedings
 
