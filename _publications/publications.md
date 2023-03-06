@@ -17,7 +17,7 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 **132.** "*Variance minimisation on a quantum computer for nuclear structure*", Isaac Hobday, Paul Stevenson, and James Benstead, accepted for publication in Nuclear Data 2022 Conference Proceedings, [arxiv: 2209.07820](http://arxiv.org/abs/2209.07820) ✅ [ar5iv version](https://ar5iv.labs.arxiv.org/html/2209.07820) ✅
 
-**131.** "*Comments on Quantum Computing for Nuclear Physics*", P. D. Stevenson, International Journal of Unconventional Computing 18, 83 (2023) ❌
+**131.** "*Comments on Quantum Computing for Nuclear Physics*", P. D. Stevenson, [International Journal of Unconventional Computing 18, 83 (2023)](https://www.oldcitypublishing.com/journals/ijuc-home/ijuc-issue-contents/ijuc-volume-18-number-1-2023/ijuc-18-1-p-83-92/) ❌
 
 **130.** "*Isoscalar Monopole Strength in <sup>100</sup>Mo:  An Indicator of Static Triaxial Deformation in the Ground State*", Yue Shi (石跃) and P. D. Stevenson, [Chinese Physics C 47, 034105 (2023)](http://dx.doi.org/10.1088/1674-1137/acac6b) ❌ [preprint](http://pdstevenson.github.io/files/mo100-preprint.pdf) ✅
 
