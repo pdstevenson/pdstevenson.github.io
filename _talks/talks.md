@@ -7,45 +7,47 @@ author_profile: true
 
 Here is an (incomplete) list of talks and poster presentations
 
-**0.** November 2022: "Quantum Computing for Nuclear Structure Theory", LISA_ITN School online.
+**2022-02.** Novembe 2022: "Quantum Computing for Nuclear Physics Research at the University of Surrey", Quantum Computing for Many-Body problems (QCMB), Orsay, France (invited)
 
-**1.** April 2021: "Calculated octupole spectra near Pb-208 with a time-depdendent method " Institute of Physics joint APP, HEPP and NP conference, Edinburgh, UK (via Zoom) 
+**2022-01.** November 2022: "Quantum Computing for Nuclear Structure Theory", LISA_ITN School online.
 
-**2.** March 2021: "Time-dependent theory for octupole states around lead-208, University of Athens seminar, Athens, Greece (via Zoom, invited) 
+**2021-02.** April 2021: "Calculated octupole spectra near Pb-208 with a time-depdendent method " Institute of Physics joint APP, HEPP and NP conference, Edinburgh, UK (via Zoom) 
 
-**3.** November 2020: "Nuclear structure and reactions from a time-dependent approach, Recent Advances in Science and Technology (RAST-2020), Sarang, India (via Zoom) 
+**2021-01.** March 2021: "Time-dependent theory for octupole states around lead-208, University of Athens seminar, Athens, Greece (via Zoom, invited) 
 
-**4.** July 2020: "Mercury, the pear-shaped nucleus" IOPP Twitter Conference [poster](http://dx.doi.org/10.5281/zenodo.3944773 )
+**2020-02.** November 2020: "Nuclear structure and reactions from a time-dependent approach, Recent Advances in Science and Technology (RAST-2020), Sarang, India (via Zoom) 
 
-**5.** November 2019: "A time-dependent approach to nuclear reactions", AWE plc, Aldermaston, UK 
+**2020-01.** July 2020: "Mercury, the pear-shaped nucleus" IOPP Twitter Conference [poster](http://dx.doi.org/10.5281/zenodo.3944773 )
 
-**6.** November 2019: "Probing the Surface Energy via Nuclear Fusion Reactions", UK Theory Meeting, Guildford, UK 
+**2019-07.** November 2019: "A time-dependent approach to nuclear reactions", AWE plc, Aldermaston, UK (invited)
 
-**7.** October 2019: "Time-dependent mean-field dynamics for fission", Fission Future Workshop, York, UK (invited) 
+**2019-06.** November 2019: "Probing the Surface Energy via Nuclear Fusion Reactions", UK Theory Meeting, Guildford, UK 
 
-**8.** September 2019: "Role of the surface energy on heavy-ion collisions", HIAS-2019, Canberra, Australia [pptx slides](http://personal.ph.surrey.ac.uk/~phs3ps/stevenson-hias.pptx)
+**2019-05.** October 2019: "Time-dependent mean-field dynamics for fission", Fission Future Workshop, York, UK (invited) 
 
-**9.** June 2019: "Effective interactions and heavy-ion collisions", Peking Univeristy, Beijing, China (invited) 
+**2019-04.** September 2019: "Role of the surface energy on heavy-ion collisions", HIAS-2019, Canberra, Australia [pptx slides](http://personal.ph.surrey.ac.uk/~phs3ps/stevenson-hias.pptx)
 
-**10.** June 2019: "Solitonic Nuclear Reactions and Solitonic Stars", University of Chinese Academy of Sciences, Beijing, China (invited) 
+**2019-03.** June 2019: "Effective interactions and heavy-ion collisions", Peking Univeristy, Beijing, China (invited) 
 
-**11.** March 2019: "Superheavy Dynamics with Time-Dependent Hartree-Fock", Sakura-2019 Nuclear Fission and Structure of Exotic Nuclei, Tokai, Japan 
+**2019-02.** June 2019: "Solitonic Nuclear Reactions and Solitonic Stars", University of Chinese Academy of Sciences, Beijing, China (invited) 
 
-**12.** Nov 2018: "Role of Tensor Force in Magnetic Dipole Transitions in Cr-52", COMEX6 conference, Cape Town, South Africa [link](https://indico.tlabs.ac.za/event/71/contributions/1132/)
+**2018-01.** March 2019: "Superheavy Dynamics with Time-Dependent Hartree-Fock", Sakura-2019 Nuclear Fission and Structure of Exotic Nuclei, Tokai, Japan 
 
-**13.** Sep 2018: "The role of the effective interaction in Low-Energy Heavy-ion Collisions", PKU-CUSTIPEN workshop, Beijing, China (invited) 
+**2018-04.** Nov 2018: "Role of Tensor Force in Magnetic Dipole Transitions in Cr-52", COMEX6 conference, Cape Town, South Africa [link](https://indico.tlabs.ac.za/event/71/contributions/1132/)
 
-**14.** July 2018: "Nuclear collisions and resonances from time-dependent density-functional theory", Low Energy Effective Dynamics with Skyrmions, LEEDS, UK (invited) 
+**2018-03.** Sep 2018: "The role of the effective interaction in Low-Energy Heavy-ion Collisions", PKU-CUSTIPEN workshop, Beijing, China (invited) 
 
-**15.** May 2018: "Reactions for Toroidal Nuclei", UK Nuclear Theory Meeting, Guildford, UK
+**2018-02.** July 2018: "Nuclear collisions and resonances from time-dependent density-functional theory", Low Energy Effective Dynamics with Skyrmions, LEEDS, UK (invited) 
 
-**16.** April 2017: "Fusion and Fission from Time-Dependent Hartree-Fock, Physics Division Colloquium, Oak Ridge National Laboratory, Tennessee (invited) 
+**2018-01.** May 2018: "Reactions for Toroidal Nuclei", UK Nuclear Theory Meeting, Guildford, UK
 
-**17.** March 2017: "Nuclear collective motion in the mean field and beyond", Seminar at Shanhai Jiao Tong University, Shanghai, China (invited) 
+**2017-04.** April 2017: "Fusion and Fission from Time-Dependent Hartree-Fock, Physics Division Colloquium, Oak Ridge National Laboratory, Tennessee (invited) 
 
-**18.** March 2017: "Guildford Bright Club #12", The Boileroom, Guildford, UK. 
+**2017-03.** March 2017: "Nuclear collective motion in the mean field and beyond", Seminar at Shanhai Jiao Tong University, Shanghai, China (invited) 
 
-**19.** Feb 2017: "Effective interaction effects in nuclear fusion" Fusion'17, Hobart, Australia 
+**2017-02.** March 2017: "Guildford Bright Club #12", The Boileroom, Guildford, UK. 
+
+**2017-01.** Feb 2017: "Effective interaction effects in nuclear fusion" Fusion'17, Hobart, Australia 
 
 **20.** July 2016: "Effective Interaction Effects in Nuclear Dynamics, Nuclear Structure 2016, Knoxville, TN, USA 
 
