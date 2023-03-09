@@ -7,7 +7,9 @@ author_profile: true
 
 Here is an (incomplete) list of talks and poster presentations
 
-**2022-02.** Novembe 2022: "Quantum Computing for Nuclear Physics Research at the University of Surrey", Quantum Computing for Many-Body problems (QCMB), Orsay, France (invited)
+**2023-01.** February 2023: "Quantum Computing for Nuclear Physics", Quantum Technologies for Fundamental Physics Engagement Event, Warwick, UK (invited)
+
+**2022-02.** November 2022: "Quantum Computing for Nuclear Physics Research at the University of Surrey", Quantum Computing for Many-Body problems (QCMB), Orsay, France (invited)
 
 **2022-01.** November 2022: "Quantum Computing for Nuclear Structure Theory", LISA_ITN School online.
 
