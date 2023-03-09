@@ -69,7 +69,7 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 **106.** "*The TDHF code Sky3D version 1.1*", B. Schuetrumpf, P.-G. Reinhard, P. D. Stevenson, A. S. Umar, and J. A. Maruhn, [Computer Physics Communications, 229, 211-213 (2018)](https://doi.org/10.1016/j.cpc.2018.03.012) ❌ [code](http://dx.doi.org/10.17632/vzbrzvyrn4.1) ✅
 
-**105.** "Magnetic dipole transition calculations in 52Cr using the full Skyrme interaction, M. C. Barton and P. D. Stevenson, (2017) [arXiv: 1708.07823](http://arxiv.org/abs/1708.07823) ✅
+**105.** "Magnetic dipole transition calculations in 52Cr using the full Skyrme interaction, M. C. Barton and P. D. Stevenson, (2017) [arXiv: 1709.07823](http://arxiv.org/abs/1708.07823) ✅
 
 **104.** "Excited States and Reduced Transition Probabilities in 168Os", T. Grahn, D. T. Joss, R. D. Page, B. Sayğı, S. Stolze, D. O'Donnell, M. Akmali, K. Andgren, L. Bianco, D. M. Cullen, A. Dewald, P. T. Greenlees, K. Heyde, H. Iwasaki, U. Jakobsson, J. Jolie, P. Jones, D. S. Judson, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, N. Lumley, P. J. R. Mason, O. Möller, K. Nomura, M. Nyman, A. Petts, P. Peura, N. Pietralla, Th. Pissula, P. Rahkila, P. J. Sapple, J. Sarén, C. Scholey, J. Simpson, J. Sorri, P. D. Stevenson, J. Uusiatalo, H. V. Watkins, and J. L. Wood, [Phys. Rev. C 94, 044327 (2016)](http://dx.doi.org/10.1103/PhysRevC.94.044327) ❌ 
 
