@@ -13,7 +13,7 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 **134.** "*An assessment of neutron resonance data for mid-mass isotopes*", James Benstead, Will McClymont, and Paul Stevenson, accepted for publication in Nuclear Data 2022 Conference Proceedings
 
-**133.** "*Tautomerisation Mechanisms in the Adenine-Thymine Nucleobase Pair During DNA Strand Separation*", Benjamin King, Max Winokan, Louie Slocombe, Paul Stevenson, Jim Al-Khalili, and Marco Sacchi, accepted for publication in Journal of Physical Chemistry B. [ChemRxiv](http://dx.doi.org/10.26434/chemrxiv-2022-lzzsp) ✅
+**133.** "*Tautomerisation Mechanisms in the Adenine-Thymine Nucleobase Pair During DNA Strand Separation*", Benjamin King, Max Winokan, Louie Slocombe, Paul Stevenson, Jim Al-Khalili, and Marco Sacchi, accepted for publication in [Journal of Physical Chemistry B](https://doi.org/10.1021/acs.jpcb.2c08631) ❌ [ChemRxiv](http://dx.doi.org/10.26434/chemrxiv-2022-lzzsp) ✅
 
 **132.** "*Variance minimisation on a quantum computer for nuclear structure*", Isaac Hobday, Paul Stevenson, and James Benstead, accepted for publication in Nuclear Data 2022 Conference Proceedings, [arxiv: 2209.07820](http://arxiv.org/abs/2209.07820) ✅ [ar5iv version](https://ar5iv.labs.arxiv.org/html/2209.07820) ✅
 
