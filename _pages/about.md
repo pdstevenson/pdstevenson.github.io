@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Reader in the School of Maths and Physics of the [University of Surrey](http://www.surrey.ac.uk),  head of the [Theoretical Nuclear Physics Group](https://www.surrey.ac.uk/theoretical-nuclear-physics-group), and an AWE William Penney Fellow.
+I am a Reader in the School of Maths and Physics of the [University of Surrey](http://www.surrey.ac.uk),  member of the [Nuclear Physics Group](https://www.surrey.ac.uk/theoretical-nuclear-physics-group) and the [Quantum Foundations and Technology](https://www.surrey.ac.uk/quantum-foundations-centre) group, and an AWE William Penney Fellow.
 
 My research is mainly in theoretical nuclear physics and quantum computing, with some occasional projects in quantum biology and chemsitry, and in computational methods.  Further details can be found in the [Research](/research) tabs, with a full list of outputs in the [Publications](/publications) tab.
 
