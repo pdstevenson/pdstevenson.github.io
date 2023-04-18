@@ -11,7 +11,7 @@ A ‚úÖ following a link indicates freely-available content.  Links followed by ‚ù
 
 **136.** "*Construction of Low Cost Nuclear Data Resonance Parameters*", J. Benstead, W. McClymont, and P. Stevenson, in prparation proceedings of M&C 2023 - The International Conference of Mathematics and Computational Methods Applied to Nuclear Science and Engineering.
 
-**135.** "*Variational Algorithm to Find Eigenvalues of Nuclear Models*", I. Hobday, P. Stevenson, and J. Benstead, in preparation for proceedings of M&C 2023 - The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering.
+**135.** "*Quantum Algorithm to Find Eigenvalues of Nuclear Models*", I. Hobday, J. Benstead, and P. Stevenson in preparation for proceedings of M&C 2023 - The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering.
 
 **134.** "*An assessment of neutron resonance data for mid-mass isotopes*", James Benstead, Will McClymont, and Paul Stevenson, accepted for publication in Nuclear Data 2022 Conference Proceedings
 
