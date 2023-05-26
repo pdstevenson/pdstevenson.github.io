@@ -13,11 +13,11 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 **135.** "*Quantum Algorithm to Find Eigenvalues of Nuclear Models*", I. Hobday, J. Benstead, and P. Stevenson in preparation for proceedings of M&C 2023 - The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering.
 
-**134.** "*An assessment of neutron resonance data for mid-mass isotopes*", James Benstead, Will McClymont, and Paul Stevenson, accepted for publication in Nuclear Data 2022 Conference Proceedings
+**134.** "*An assessment of neutron resonance data for mid-mass isotopes*", James Benstead, Will McClymont, and Paul Stevenson, [EPJ Web of Conferences 284, 03007 (2023)](https://doi.org/10.1051/epjconf/202328403007) ✅
 
 **133.** "*Tautomerisation Mechanisms in the Adenine-Thymine Nucleobase Pair During DNA Strand Separation*", Benjamin King, Max Winokan, Louie Slocombe, Paul Stevenson, Jim Al-Khalili, and Marco Sacchi, [Journal of Physical Chemistry B 127, 4220 (2023)](https://doi.org/10.1021/acs.jpcb.2c08631) ❌ [ChemRxiv](http://dx.doi.org/10.26434/chemrxiv-2022-lzzsp) ✅
 
-**132.** "*Variance minimisation on a quantum computer for nuclear structure*", Isaac Hobday, Paul Stevenson, and James Benstead, accepted for publication in Nuclear Data 2022 Conference Proceedings, [arxiv: 2209.07820](http://arxiv.org/abs/2209.07820) ✅ [ar5iv version](https://ar5iv.labs.arxiv.org/html/2209.07820) ✅
+**132.** "*Variance minimisation on a quantum computer for nuclear structure*", Isaac Hobday, Paul Stevenson, and James Benstead, [EPJ Web of Conferences 284, 16002 (2023)](https://doi.org/10.1051/epjconf/202328416002) ✅ [arxiv: 2209.07820](http://arxiv.org/abs/2209.07820) ✅ [ar5iv version](https://ar5iv.labs.arxiv.org/html/2209.07820) ✅
 
 **131.** "*Comments on Quantum Computing for Nuclear Physics*", P. D. Stevenson, [International Journal of Unconventional Computing 18, 83 (2023)](https://www.oldcitypublishing.com/journals/ijuc-home/ijuc-issue-contents/ijuc-volume-18-number-1-2023/ijuc-18-1-p-83-92/) ❌
 
