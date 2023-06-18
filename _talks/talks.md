@@ -7,6 +7,12 @@ author_profile: true
 
 Here is an (incomplete) list of talks and poster presentations
 
+**2023-04.** June 2023: "Mo-100 monopole & quadrupole strength with triaxiality: A time-dependent density functional study", COMEX7, Catania, Italy [slides](https://agenda.infn.it/event/21964/contributions/200569/attachments/107082/151069/stevenson-comex7.pdf)
+
+**2023-03.** May 2023: "Jim Al-Khalili going nuclear", Jim Al-Khalili 60th Birthday Symposium, Guildford, UK
+
+**2023-02.** May 2023: "Quantum Imaginary Time Evolution for Nuclear Hatree-Fock", QCQS, Lausanne, Switzerland
+
 **2023-01.** February 2023: "Quantum Computing for Nuclear Physics", Quantum Technologies for Fundamental Physics Engagement Event, Warwick, UK (invited)
 
 **2022-02.** November 2022: "Quantum Computing for Nuclear Physics Research at the University of Surrey", Quantum Computing for Many-Body problems (QCMB), Orsay, France (invited)
