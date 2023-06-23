@@ -9,6 +9,12 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 A ✅ following a link indicates freely-available content.  Links followed by ❌ are to subscription journal versions or other paid content.  For articles where I do not provide a link to a free version, you may still find the article on institutional repositories.  Using Google Scholar often finds such versions. 
 
+Any papers listed as *in preparation* are a reminder to me more than any promise of a paper that I'll actually finish writing.
+
+**138.** "*A Quantum Simulation Approach to Solving Nuclear Hartree Fock via Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili, and Paul Stevenson, *in preparation*.
+
+**137.** "*Variance Minimisation of the Lipkin-Meshkov-Glick Model on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead *in preparation*.
+
 **136.** "*Construction of Low Cost Nuclear Data Resonance Parameters*", J. Benstead, W. McClymont, and P. Stevenson, in prparation proceedings of M&C 2023 - The International Conference of Mathematics and Computational Methods Applied to Nuclear Science and Engineering.
 
 **135.** "*Quantum Algorithm to Find Eigenvalues of Nuclear Models*", I. Hobday, J. Benstead, and P. Stevenson in preparation for proceedings of M&C 2023 - The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering.
