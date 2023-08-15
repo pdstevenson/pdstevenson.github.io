@@ -11,6 +11,8 @@ A ‚úÖ following a link indicates freely-available content.  Links followed by ‚ù
 
 Any papers listed as *in preparation* are a reminder to me more than any promise of a paper that I'll actually finish writing.
 
+**140.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, *in preparation*
+
 **139.** "*COMEX7 Conference Proceeding*", P. D. Stevenson et al. *in preparation*
 
 **138.** "*A Quantum Simulation Approach to Solving Nuclear Hartree Fock via Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili, and Paul Stevenson, *in preparation*.
