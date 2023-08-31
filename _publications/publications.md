@@ -15,7 +15,7 @@ Any papers listed as *in preparation* are a reminder to me more than any promise
 
 **139.** "*COMEX7 Conference Proceeding*", P. D. Stevenson et al. *in preparation*
 
-**138.** "*A Quantum Simulation Approach to Solving Nuclear Hartree Fock via Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili, and Paul Stevenson, *submitted to Phys. Rev. C*, [arxiv: 2308.15425](https://arxiv.org/abs/2308.15425)
+**138.** "*A Quantum Simulation Approach to Implementing Nuclear Density Functional Theory via Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili, and Paul Stevenson, *submitted to Phys. Rev. C*, [arxiv: 2308.15425](https://arxiv.org/abs/2308.15425) ✅
 
 **137.** "*Variance Minimisation of the Lipkin-Meshkov-Glick Model on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead *in preparation*.
 
