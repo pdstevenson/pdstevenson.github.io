@@ -11,6 +11,8 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me more than any promise of a paper that I'll actually finish writing.
 
+**141.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, *in preparation*
+
 **140.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, *in preparation*
 
 **139.** "*COMEX7 Conference Proceeding*", P. D. Stevenson et al. *in preparation*
@@ -33,9 +35,9 @@ Any papers listed as *in preparation* are a reminder to me more than any promise
 
 **130.** "*Isoscalar Monopole Strength in <sup>100</sup>Mo:  An Indicator of Static Triaxial Deformation in the Ground State*", Yue Shi (石跃) and P. D. Stevenson, [Chinese Physics C 47, 034105 (2023)](http://dx.doi.org/10.1088/1674-1137/acac6b) ❌ [preprint](http://pdstevenson.github.io/files/mo100-preprint.pdf) ✅
 
-**129.** "*Mean-field Simulations of Es-254 + Ca-48 Heavy-Ion Reactions*", Paul D Stevenson, [Frontiers in Physics 10, 1019285 (2022)](http://dx.doi.org/10.3389/fphy.2022.1019285) ✅
+**129.** "*Quadrupole and octupole strengths in the semi-magic nucleus <sup>206</sup>Hg<sub>126</sub>*", L. Morrison, K. Hadyńska-Klęk, Zs. Podolyák, L.P. Gaffney, M. Zielińska, B. A. Brown, H. Grawe, P. D. Stevenson, T. Berry, A. Boukhari, M. Brunet, R. Canavan, R. Catherall, S.J. Colosimo, J. Cubiss, H. De Witte, D.T. Doherty, Ch. Fransen, E. Giannopoulos, M. Górska, H. Hess, T. Kröll, N. Lalović, B. Marsh, Y. Martinez Palenzuela, G. O'Neill, J. Pakarinen, J.P. Ramos, P. Reiter, J.A. Rodriguez, D. Rosiak, S. Rothe, M. Rudigier, M. Siciliano, E.C. Simpson, P. Spagnoletti, S. Thiel, N. Warr, F. Wenander, and R. Zidarova, [Phys. Lett. B 838, 137675 (2023)](https://doi.org/10.1016/j.physletb.2023.137675) ✅
 
-**128.** "*Quadrupole and octupole strengths in the semi-magic nucleus <sup>206</sup>Hg<sub>126</sub>*", L. Morrison, K. Hadyńska-Klęk, Zs. Podolyák, L.P. Gaffney, M. Zielińska, B. A. Brown, H. Grawe, P. D. Stevenson, T. Berry, A. Boukhari, M. Brunet, R. Canavan, R. Catherall, S.J. Colosimo, J. Cubiss, H. De Witte, D.T. Doherty, Ch. Fransen, E. Giannopoulos, M. Górska, H. Hess, T. Kröll, N. Lalović, B. Marsh, Y. Martinez Palenzuela, G. O'Neill, J. Pakarinen, J.P. Ramos, P. Reiter, J.A. Rodriguez, D. Rosiak, S. Rothe, M. Rudigier, M. Siciliano, E.C. Simpson, P. Spagnoletti, S. Thiel, N. Warr, F. Wenander, and R. Zidarova, [Phys. Lett. B 838, 137675 (2023)](https://doi.org/10.1016/j.physletb.2023.137675) ✅
+**128.** "*Mean-field Simulations of Es-254 + Ca-48 Heavy-Ion Reactions*", Paul D Stevenson, [Frontiers in Physics 10, 1019285 (2022)](http://dx.doi.org/10.3389/fphy.2022.1019285) ✅
 
 **127.** "*Quantum Computing Calculations for Nuclear Structure and Nuclear Data*", Isaac Hobday, Paul. D. Stevenson, and James Benstead, [Proc. SPIE 12133, Quantum Technologies 2022, 121330J (2022)](https://doi.org/10.1117/12.2632782) ❌ [arxiv: 2205.05576](http://arxiv.org/abs/2205.05576) ✅ 
 
