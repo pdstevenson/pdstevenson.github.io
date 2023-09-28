@@ -15,7 +15,7 @@ Any papers listed as *in preparation* are a reminder to me more than any promise
 
 **140.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, *in preparation*
 
-**139.** "*COMEX7 Conference Proceeding*", P. D. Stevenson et al. *in preparation*
+**139.** "*Isoscalar giant monopole resonance in Mo-100: TDHF calculations and ground state deformation*", P. D. Stevenson, Abhishek, and Yue Shi, *in preparation*
 
 **138.** "*A Quantum Simulation Approach to Implementing Nuclear Density Functional Theory via Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili, and Paul Stevenson, *[submitted](https://authors.aps.org/Submissions/status?accode=CH10917&author=Stevenson) to Phys. Rev. C*, [arxiv: 2308.15425](https://arxiv.org/abs/2308.15425) ✅
 
