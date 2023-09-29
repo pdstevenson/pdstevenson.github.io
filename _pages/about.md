@@ -12,7 +12,7 @@ I am a Professor in the School of Maths and Physics of the [University of Surrey
 
 My research is mainly in theoretical nuclear physics and quantum computing, with some occasional projects in quantum biology and chemsitry, and in computational methods.  Further details can be found in the [Research](/research) tabs, with a full list of outputs in the [Publications](/publications) tab.
 
-I write a blog about nuclear physics (loosely) called [blog of the isotopes](http://blogoftheisotopes.blogspot.com) and contribute occassionally to blogs about [plotting](http://spplotters.blogspot.com), the [Physics Department's blog](http://blogs.surrey.ac.uk/physics), and [STAGgering](http://blogs.surrey.ac.uk/STAGgering) - a blog about higher education.
+I write a blog about nuclear physics (loosely) called [blog of the isotopes](http://blogoftheisotopes.blogspot.com) and contribute occassionally to blogs about [plotting](http://spplotters.blogspot.com), and the [Physics Department's blog](http://blogs.surrey.ac.uk/physics).
 
 See also my [official University of Surrey Page](https://www.surrey.ac.uk/people/paul-stevenson) page.
 
