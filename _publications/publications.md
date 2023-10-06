@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my publications at [google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=ZlfUB-UAAAAJ&pagesize=100&view_op=list_works)
 
-A ✅ following a link indicates freely-available content.  Links followed by ❌ are to subscription journal versions or other paid content.  For articles where I do not provide a link to a free version, you may still find the article on institutional repositories.  Using Google Scholar often finds such versions. 
+A ✅ following a link indicates freely-available content.  Links followed by ❌ are to subscription journal versions or other paid content.  For articles where I do not provide a link to a free version, you may still find the article on institutional repositories.  Using Google Scholar often finds such versions. For recent articles submitted to arXiv, I include Scirate links where community commentary may be submitted.
 
 Any papers listed as *in preparation* are a reminder to me more than any promise of a paper that I'll actually finish writing.
 
@@ -17,7 +17,7 @@ Any papers listed as *in preparation* are a reminder to me more than any promise
 
 **139.** "*Isoscalar giant monopole resonance in Mo-100: TDHF calculations and ground state deformation*", P. D. Stevenson, Abhishek, and Yue Shi, *submitted to Nuovo Cimento C*
 
-**138.** "*A Quantum Simulation Approach to Implementing Nuclear Density Functional Theory via Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili, and Paul Stevenson, *[submitted](https://authors.aps.org/Submissions/status?accode=CH10917&author=Stevenson) to Phys. Rev. C*, [arxiv: 2308.15425](https://arxiv.org/abs/2308.15425) ✅
+**138.** "*A Quantum Simulation Approach to Implementing Nuclear Density Functional Theory via Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili, and Paul Stevenson, *[submitted](https://authors.aps.org/Submissions/status?accode=CH10917&author=Stevenson) to Phys. Rev. C*, [arxiv: 2308.15425](https://arxiv.org/abs/2308.15425) ✅ [@scirate](https://scirate.com/arxiv/2308.15425)
 
 **137.** "*Variance Minimisation of the Lipkin-Meshkov-Glick Model on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead *in preparation*.
 
@@ -27,7 +27,7 @@ Any papers listed as *in preparation* are a reminder to me more than any promise
 
 **134.** "*An assessment of neutron resonance data for mid-mass isotopes*", James Benstead, Will McClymont, and Paul Stevenson, [EPJ Web of Conferences 284, 03007 (2023)](https://doi.org/10.1051/epjconf/202328403007) ✅
 
-**133.** "*Variance minimisation on a quantum computer of the Lipkin-Meshkov-Glick model with three particles*", Isaac Hobday, Paul Stevenson, and James Benstead, [EPJ Web of Conferences 284, 16002 (2023)](https://doi.org/10.1051/epjconf/202328416002) ✅ [arxiv: 2209.07820](http://arxiv.org/abs/2209.07820) ✅ [ar5iv version](https://ar5iv.labs.arxiv.org/html/2209.07820) ✅
+**133.** "*Variance minimisation on a quantum computer of the Lipkin-Meshkov-Glick model with three particles*", Isaac Hobday, Paul Stevenson, and James Benstead, [EPJ Web of Conferences 284, 16002 (2023)](https://doi.org/10.1051/epjconf/202328416002) ✅ [arxiv: 2209.07820](http://arxiv.org/abs/2209.07820) ✅ [@scirate](https://scirate.com/arxiv/2209.07820)
 
 **132.** "*Tautomerisation Mechanisms in the Adenine-Thymine Nucleobase Pair During DNA Strand Separation*", Benjamin King, Max Winokan, Louie Slocombe, Paul Stevenson, Jim Al-Khalili, and Marco Sacchi, [Journal of Physical Chemistry B 127, 4220 (2023)](https://doi.org/10.1021/acs.jpcb.2c08631) ❌ [ChemRxiv](http://dx.doi.org/10.26434/chemrxiv-2022-lzzsp) ✅
 
@@ -39,15 +39,15 @@ Any papers listed as *in preparation* are a reminder to me more than any promise
 
 **128.** "*Mean-field Simulations of Es-254 + Ca-48 Heavy-Ion Reactions*", Paul D Stevenson, [Frontiers in Physics 10, 1019285 (2022)](http://dx.doi.org/10.3389/fphy.2022.1019285) ✅
 
-**127.** "*Quantum Computing Calculations for Nuclear Structure and Nuclear Data*", Isaac Hobday, Paul. D. Stevenson, and James Benstead, [Proc. SPIE 12133, Quantum Technologies 2022, 121330J (2022)](https://doi.org/10.1117/12.2632782) ❌ [arxiv: 2205.05576](http://arxiv.org/abs/2205.05576) ✅ 
+**127.** "*Quantum Computing Calculations for Nuclear Structure and Nuclear Data*", Isaac Hobday, Paul. D. Stevenson, and James Benstead, [Proc. SPIE 12133, Quantum Technologies 2022, 121330J (2022)](https://doi.org/10.1117/12.2632782) ❌ [arxiv: 2205.05576](http://arxiv.org/abs/2205.05576) ✅ [@scirate](https://scirate.com/arxiv/2205.05576)
 
-**126.** "H2ZIXY: Paul Spin Matrix Decomposition of Real Symmetric Matrices", Rocco Monteiro Nunes Pesce and P. D. Stevenson, [arXiv:2111.00627](http://arxiv.org/abs/2111.00627) ✅ [ar5iv version](https://ar5iv.labs.arxiv.org/html/2111.00627) ✅
+**126.** "H2ZIXY: Paul Spin Matrix Decomposition of Real Symmetric Matrices", Rocco Monteiro Nunes Pesce and P. D. Stevenson, [arXiv:2111.00627](http://arxiv.org/abs/2111.00627) ✅ [ar5iv version](https://ar5iv.labs.arxiv.org/html/2111.00627) ✅ [@scirate](https://scirate.com/arxiv/2111.00627)
 
 **125.** "*Configuration mixing and K-forbidden E2 decays*", P. M. Walker and P. D. Stevenson, [Phys. Rev. C 103, 064305 (2021)](http://dx.doi.org/10.1103/PhysRevC.103.064305) ❌ 
 
-**124.** "*Nuclear ground states in a consistent implementation of the time-dependent density matrix approach*", M. C. Barton, P. D. Stevenson, and A. Rios [Phys. Rev. C 103 064304 (2021)](http://dx.doi.org/10.1103/PhysRevC.103.064304) ❌ [arxiv: 2101.07584](http://arxiv.org/abs/2101.07584) ✅
+**124.** "*Nuclear ground states in a consistent implementation of the time-dependent density matrix approach*", M. C. Barton, P. D. Stevenson, and A. Rios [Phys. Rev. C 103 064304 (2021)](http://dx.doi.org/10.1103/PhysRevC.103.064304) ❌ [arxiv: 2101.07584](http://arxiv.org/abs/2101.07584) ✅ [@scirate](https://scirate.com/arxiv/2101.07584)
 
-**123.** "*The kinks in charge radii across N=82 and 126 revisited*", M. Bhuyan, B. Maheshwari, Hasan Abu Kassim, Norhasliza Yusof, S. K. Patra, B. V. Carlson, and P. D. Stevenson, [J. Phys. G 48, 075105 (2021)](https://doi.org/10.1088/1361-6471/abf7d7) ❌ [arxiv: 2104.07392](http://arxiv.org/abs/2104.07392) ✅
+**123.** "*The kinks in charge radii across N=82 and 126 revisited*", M. Bhuyan, B. Maheshwari, Hasan Abu Kassim, Norhasliza Yusof, S. K. Patra, B. V. Carlson, and P. D. Stevenson, [J. Phys. G 48, 075105 (2021)](https://doi.org/10.1088/1361-6471/abf7d7) ❌ [arxiv: 2104.07392](http://arxiv.org/abs/2104.07392) ✅ [@scirate](https://scirate.com/arxiv/2104.07392)
 
 **122.** "*Fission Dynamics of Compound Nuclei: Pairing versus Fluctuations*", Y. Qiang , J. C. Pei, and P. D. Stevenson, [Phys. Rev. C 103, L031304 (2021)](http://dx.doi.org/10.1103/PhysRevC.103.L031304) ❌ [arxiv: 2010.06765](https://arxiv.org/abs/2010.06765) ✅
 
