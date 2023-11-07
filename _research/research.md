@@ -7,7 +7,7 @@ author_profile: true
 
 ## Nuclear Structure and Reactions
 
-With PhD students [Isaac Hobday](https://www.surrey.ac.uk/people/isaac-hobday); [Khlood Al-Harthi](https://www.surrey.ac.uk/people/khlood-alharthi); [Lance Li](https://www.surrey.ac.uk/people/lance-li); [Jane Rex](https://www.surrey.ac.uk/people/jane-rex) and with many collaborators
+With PhD students [Isaac Hobday](https://www.surrey.ac.uk/people/isaac-hobday); [Khlood Al-Harthi](https://www.surrey.ac.uk/people/khlood-alharthi); [Lance Li](https://www.surrey.ac.uk/people/lance-li); and with many collaborators
 
 Atomic nuclei are made up of protons and neutrons.  Understand nuclear properties such as their size, shape, binding energy, and excited state spectrum is the remit of *nuclear structure*.  We work on theoretical models which in some way or another involve wrangling the many-body Schrödinger equation and the complicated nucleon-nucleon interactions into a form that allow for practical calculations to help us understand nuclear structure from a microscopic (= at the level of individual neutron and proton wave functions) level.
 
@@ -27,7 +27,7 @@ The picture below (from [Phys. Rev. C 103, L031304 (2021)](http://dx.doi.org/10.
 
 ## Quantum Computing
 
-With PhD students [Isaac Hobday](https://www.surrey.ac.uk/people/isaac-hobday); [Lance Li](https://www.surrey.ac.uk/people/lance-li); [Jane Rex](https://www.surrey.ac.uk/people/jane-rex), with [James Benstead](https://scholar.google.com/citations?hl=en&user=25DxbjwAAAAJ), [Jim Al-Khalili](https://www.surrey.ac.uk/people/jim-al-khalili) and other collaborators
+With PhD students [Isaac Hobday](https://www.surrey.ac.uk/people/isaac-hobday); [Lance Li](https://www.surrey.ac.uk/people/lance-li); with [James Benstead](https://scholar.google.com/citations?hl=en&user=25DxbjwAAAAJ), [Jim Al-Khalili](https://www.surrey.ac.uk/people/jim-al-khalili) and other collaborators
 
 Quantum computers are previously hypothetical and now realised devices which make use of properties of quantum mechanics to allow certain calculations to be achieved much more efficiently than on regular computers.  In particular, simulating many-body quantum systems (such as nuclei) is theoretically possible on quantum computers in a way that copes with the huge combinatorial increase in complexity of the problem when the number of nucleons becomes large.  
 
