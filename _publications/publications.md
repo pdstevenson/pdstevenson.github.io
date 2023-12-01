@@ -11,8 +11,6 @@ A ‚úÖ following a link indicates freely-available content.  Links followed by ‚ù
 
 Any papers listed as *in preparation* are a reminder to me more than any promise of a paper that I'll actually finish writing.
 
-**140.** "Variance Minimisation of the Lipkin-Meshkov-Glick Model on a Quantum Computer", Isaac Hobday, Paul Stevenson, and James Benstead, *in preparation*
-
 **139.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, *in preparation*
 
 **138.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, *in preparation* 
