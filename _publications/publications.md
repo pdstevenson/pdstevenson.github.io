@@ -11,15 +11,17 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me more than any promise of a paper that I'll actually finish writing.
 
+**140.** "*TDHF and QRPA octupole strength functions in Zr, Pb, and Hg isotopes*", Abhishek, Esra Yüksel, and Paul Stevenson, *in preparation*
+
 **139.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, *in preparation*
 
 **138.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, *in preparation* 
 
-**137.** "*Isoscalar giant monopole resonance in Mo-100: TDHF calculations and ground state deformation*", P. D. Stevenson, Abhishek, and Yue Shi, *accepted for publication in Nuovo Cimento C* [arxiv: 2310.00021](https://arxiv.org/abs/2310.00021) ✅ [@scirate](https://scirate.com/arxiv/2310.00021)
+**137.** "*Variance Minimisation of the Lipkin-Meshkov-Glick Model on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead *in preparation*.
 
-**136.** "*A Quantum Simulation Approach to Implementing Nuclear Density Functional Theory via Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili, and Paul Stevenson, *[submitted](https://authors.aps.org/Submissions/status?accode=CH10917&author=Stevenson) to Phys. Rev. C*, [arxiv: 2308.15425](https://arxiv.org/abs/2308.15425) ✅ [@scirate](https://scirate.com/arxiv/2308.15425)
+**136.** "*Isoscalar giant monopole resonance in Mo-100: TDHF calculations and ground state deformation*", P. D. Stevenson, Abhishek, and Yue Shi, *accepted for publication in Nuovo Cimento C* [arxiv: 2310.00021](https://arxiv.org/abs/2310.00021) ✅ [@scirate](https://scirate.com/arxiv/2310.00021)
 
-**135.** "*Variance Minimisation of the Lipkin-Meshkov-Glick Model on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead *in preparation*.
+**135.** "*A Quantum Simulation Approach to Implementing Nuclear Density Functional Theory via Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili, and Paul Stevenson, *[submitted](https://authors.aps.org/Submissions/status?accode=CH10917&author=Stevenson) to Phys. Rev. C*, [arxiv: 2308.15425](https://arxiv.org/abs/2308.15425) ✅ [@scirate](https://scirate.com/arxiv/2308.15425)
 
 **134.** "*An assessment of neutron resonance data for mid-mass isotopes*", James Benstead, Will McClymont, and Paul Stevenson, [EPJ Web of Conferences 284, 03007 (2023)](https://doi.org/10.1051/epjconf/202328403007) ✅
 
