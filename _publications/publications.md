@@ -9,7 +9,7 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 A ✅ following a link indicates freely-available content.  Links followed by ❌ are to subscription journal versions or other paid content.  For articles where I do not provide a link to a free version, you may still find the article on institutional repositories.  Using Google Scholar often finds such versions. For recent articles submitted to arXiv, I include Scirate links where community commentary may be submitted.
 
-Any papers listed as *in preparation* are a reminder to me more than any promise of a paper that I'll actually finish writing.
+Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing.
 
 **141.** "*Exploiting symmetries in nuclear Hamiltonians for ground state preparation*", Joe Gibbs, Paul Stevenson, and Zoë Holmes, *in preparation*
 
