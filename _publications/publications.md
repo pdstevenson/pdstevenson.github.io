@@ -11,6 +11,12 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing.
 
+**144.** "*Quantum algorithms for the nuclear shell model up to nickel isotopes*", Bharti Bhoy and Paul Stevenson, *in preparation*
+
+**143.** "*VarVarQite: a quantum variatitonal approach to excited states*", I. Hobday, P. D. Stevenson, and J. Benstead, *in preparation*
+
+**142.** "*Sky3d v1.2 update*", Abhishek, Paul Stevenson, *et al.*, *in preparation*
+
 **141.** "*Exploiting symmetries in nuclear Hamiltonians for ground state preparation*", Joe Gibbs, Paul Stevenson, and Zoë Holmes, *in preparation*
 
 **140.** "*TDHF and QRPA octupole strength functions in Zr, Pb, and Hg isotopes*", Abhishek, Esra Yüksel, and Paul Stevenson, *in preparation*
