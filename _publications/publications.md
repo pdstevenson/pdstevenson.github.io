@@ -12,6 +12,7 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 Any papers listed as *in preparation* are a reminder to me more than any promise of a paper that I'll actually finish writing.
 
 **141.** "*Exploiting symmetries in nuclear Hamiltonians for ground state preparation*", Joe Gibbs, Paul Stevenson, and Zoë Holmes, *in preparation*
+
 **140.** "*TDHF and QRPA octupole strength functions in Zr, Pb, and Hg isotopes*", Abhishek, Esra Yüksel, and Paul Stevenson, *in preparation*
 
 **139.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, *in preparation*
