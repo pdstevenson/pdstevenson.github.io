@@ -159,7 +159,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **71.** "The Quantum Story (book review), Paul Stevenson, Chemistry World, August 2011, 54 (2011)
 
-**70.** "Quantum tricriticality in the Lipkin-Meshkov-Glick model", C. A. Hooley and P. D. Stevenson, (2021) [arxiv: 1102.1583](http://arxiv.org/abs/1102.1583) ✅
+**70.** "Quantum tricriticality in the Lipkin-Meshkov-Glick model", C. A. Hooley and P. D. Stevenson, (2011) [arxiv: 1102.1583](http://arxiv.org/abs/1102.1583) ✅
 
 **69.** "Spectroscopic calculations of exotic Os and W isotopes", K. Nomura, T. Otsuka, R. Rodríguez-Guzmán, L. M. Robledo, P. Sarriguren, P. H. Regan, P. D. Stevenson and Zs. Podolyák, [Phys. Rev. C 83, 054303 (2011)](http://dx.doi.org/10.1103/PhysRevC.83.054303) ❌ [arxiv: 1101.1699](http://arxiv.org/abs/1101.1699) ✅
 
