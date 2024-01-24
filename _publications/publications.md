@@ -11,6 +11,10 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing.
 
+**146.** "*Solving coupled Non-linear Schrödinger Equations via Quantum Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili and Paul Stevenson, *in preparation* 
+
+**145.** "*In-bean gamma-ray spectroscopy of Ra-204 and the transition towards strongly deformed systems*", J. Heery *et al.*, *in preparation*
+
 **144.** "*Quantum algorithms for the nuclear shell model up to nickel isotopes*", Bharti Bhoy and Paul Stevenson, *in preparation*
 
 **143.** "*VarVarQite: a quantum variatitonal approach to excited states*", I. Hobday, P. D. Stevenson, and J. Benstead, *in preparation*
