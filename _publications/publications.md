@@ -11,7 +11,7 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing.
 
-**146.** "*Solving coupled Non-linear Schrödinger Equations via Quantum Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili and Paul Stevenson, *in preparation* 
+**146.** "*Solving coupled Non-linear Schrödinger Equations via Quantum Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili and Paul Stevenson, [arxiv:2402.01623](https://arxiv.org/abs/2402.01623)
 
 **145.** "*In-bean gamma-ray spectroscopy of Ra-204 and the transition towards strongly deformed systems*", J. Heery *et al.*, *in preparation*
 
