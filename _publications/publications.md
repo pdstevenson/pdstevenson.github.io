@@ -21,7 +21,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **142.** "*Sky3d v1.2 update*", Abhishek, Paul Stevenson, *et al.*, *in preparation*
 
-**141.** "*Exploiting symmetries in nuclear Hamiltonians for ground state preparation*", Joe Gibbs, Paul Stevenson, and Zoë Holmes, *in preparation*
+**141.** "*Exploiting symmetries in nuclear Hamiltonians for ground state preparation*", Joe Gibbs, Paul Stevenson, and Zoë Holmes, [arxiv:2402.10277](https://arxiv.org/abs/2402.10277) ✅ [@scirate](https://scirate.com/arxiv/2402.10277)
 
 **140.** "*TDHF and QRPA octupole strength functions in Zr, Pb, and Hg isotopes*", Abhishek, Esra Yüksel, and Paul Stevenson, *in preparation*
 
