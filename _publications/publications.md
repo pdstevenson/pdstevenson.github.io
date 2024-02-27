@@ -13,7 +13,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **146.** "*Solving coupled Non-linear Schrödinger Equations via Quantum Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili and Paul Stevenson, [arxiv:2402.01623](https://arxiv.org/abs/2402.01623) ✅ [@scirate](https://scirate.com/arxiv/2402.01623)
 
-**145.** "*In-bean gamma-ray spectroscopy of Ra-204 and the transition towards strongly deformed systems*", J. Heery *et al.*, *in preparation*
+**145.** "*In-beam gamma-ray spectroscopy of Ra-204 and the transition towards strongly deformed systems*", J. Heery *et al.*, *in preparation*
 
 **144.** "*Shell-model study of 58Ni using quantum computing algorithm*", Bharti Bhoy and Paul Stevenson, [arxiv:2402.15577](https://arxiv.org/abs/2402.15577) ✅ [@scirate](https://scirate.com/arxiv/2402.15577)
 
