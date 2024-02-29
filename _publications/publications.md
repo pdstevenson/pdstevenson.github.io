@@ -123,7 +123,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **91.** "Nuclear Dynamics with the Sky3D Code, P. D. Stevenson, [Proceedings of the 33-rd International Workshop on Nuclear Theory (IWNT-33), Rila Mountains, 24-31 (2014)](http://ntl.inrne.bas.bg/workshop/2014/contributions/a03_stevenson_2014.pdf) ✅
 
-**90.** "Environment-induced dephasing versus von Neumann measurements in proton tunnelling, A. D. Godbeer, P. D. Stevenson and J. S. Al-Khalili, [Phys. Rev. A 90, 012102 (2014)](http://dx.doi.org/10.1103/PhysRevA.90.012102) ❌
+**90.** "Environment-induced dephasing versus von Neumann measurements in proton tunnelling, A. D. Godbeer, P. D. Stevenson and J. S. Al-Khalili, [Phys. Rev. A 90, 012102 (2014)](http://dx.doi.org/10.1103/PhysRevA.90.012102) ❌ [arxiv: 1310.2737](https://arxiv.org/abs/1310.2737) ✅
 
 **89.** "The TDHF Code Sky3D", J. A. Maruhn, P.-G. Reinhard, P. D. Stevenson and A. S. Umar, [Comput. Phys. Commun. 185, 2195 (2014)](http://dx.doi.org/10.1016/j.cpc.2014.04.008) ✅
 
