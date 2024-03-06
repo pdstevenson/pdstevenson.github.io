@@ -215,7 +215,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **45.** "Recent Results from Skyrme-TDHF, P. D. Stevenson, [proceedings of WONP'07, Havana, Cuba (2007)](http://personal.ph.surrey.ac.uk/~phs3ps/wonp.pdf) ✅
 
-**44.** "Alpha Decay of ^159Re and proton emission from 155Ta", R. D. Page, L. Bianco, I. G. Darby, J. Uusitalo, D. T. Joss, T. Grahn, R.-D. Herzberg, J. Pakarinen, J. Thompson, S. Eeckhaudt, P. T. Greenlees, P. M. Jones, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, A.-P. Leppänen, M. Nyman, P. Rahkila, J. Sarén, C. Scholey, A. Steer, M. B. Gómez Hornillos, J. S. Al-Khalili, A. J. Cannon, P. D. Stevenson, S. Ertürk, B. Gall, B. Hadinia, M. Venhart and J. Simpson, [Phys. Rev. C 75, 061302(R) (2007)](http://dx.doi.org/10.1103/PhysRevC.75.061302) ❌
+**44.** "Alpha Decay of 159Re and proton emission from 155Ta", R. D. Page, L. Bianco, I. G. Darby, J. Uusitalo, D. T. Joss, T. Grahn, R.-D. Herzberg, J. Pakarinen, J. Thompson, S. Eeckhaudt, P. T. Greenlees, P. M. Jones, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, A.-P. Leppänen, M. Nyman, P. Rahkila, J. Sarén, C. Scholey, A. Steer, M. B. Gómez Hornillos, J. S. Al-Khalili, A. J. Cannon, P. D. Stevenson, S. Ertürk, B. Gall, B. Hadinia, M. Venhart and J. Simpson, [Phys. Rev. C 75, 061302(R) (2007)](http://dx.doi.org/10.1103/PhysRevC.75.061302) ❌
 
 **43.** "Monopole Giant Resonances and TDHF Boundary Conditions", P. D. Stevenson, D. Almehed, P.-G. Reinhard and J. A. Maruhn, [Nucl. Phys. A 788, 343 (2007)](http://dx.doi.org/10.1016/j.nuclphysa.2007.01.091) ❌ 
 
