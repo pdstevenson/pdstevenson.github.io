@@ -27,7 +27,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **139.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, *in preparation*
 
-**138.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, *in preparation* 
+**138.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, *submitted to Comput. Phys. Commun.* 
 
 **137.** "*Variance Minimisation of the Lipkin-Meshkov-Glick Model on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead, *submitted to Phys. Rev. C*, [arxiv:2403.08625](https://arxiv.org/abs/2403.08625) ✅ [@scirate](https://scirate.com/arxiv/2403.08625)
 
