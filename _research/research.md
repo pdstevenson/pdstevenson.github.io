@@ -9,7 +9,7 @@ author_profile: true
 
 With PhD students [Isaac Hobday](https://www.surrey.ac.uk/people/isaac-hobday); [Khlood Al-Harthi](https://www.surrey.ac.uk/people/khlood-alharthi); [Lance Li](https://www.surrey.ac.uk/people/lance-li); and with many collaborators
 
-Atomic nuclei are made up of protons and neutrons.  Understand nuclear properties such as their size, shape, binding energy, and excited state spectrum is the remit of *nuclear structure*.  We work on theoretical models which in some way or another involve wrangling the many-body Schrödinger equation and the complicated nucleon-nucleon interactions into a form that allow for practical calculations to help us understand nuclear structure from a microscopic (= at the level of individual neutron and proton wave functions) level.
+Atomic nuclei are made up of protons and neutrons.  Understanding nuclear properties such as their size, shape, binding energy, and excited state spectrum is the remit of *nuclear structure*.  We work on theoretical models which in some way or another involve wrangling the many-body Schrödinger equation and the complicated nucleon-nucleon interactions into a form that allow for practical calculations to help us understand nuclear structure from a microscopic (= at the level of individual neutron and proton wave functions) level.
 
 The basic approach in my work is the self-consistent mean field using Skyrme-type effective interactions;  from there the effects of interaction properties are explored, and approximations relaxed to go beyond the restrictions of the mean-field approach.  
 
@@ -27,15 +27,23 @@ The picture below (from [Phys. Rev. C 103, L031304 (2021)](http://dx.doi.org/10.
 
 ## Quantum Computing
 
-With PhD students [Isaac Hobday](https://www.surrey.ac.uk/people/isaac-hobday); [Lance Li](https://www.surrey.ac.uk/people/lance-li); with [James Benstead](https://scholar.google.com/citations?hl=en&user=25DxbjwAAAAJ), [Jim Al-Khalili](https://www.surrey.ac.uk/people/jim-al-khalili) and other collaborators
+With PhD students [Isaac Hobday](https://www.surrey.ac.uk/people/isaac-hobday); [Lance Li](https://www.surrey.ac.uk/people/lance-li); [Joe Gibbs](https://scholar.google.com/citations?hl=en&user=FvrrWhAAAAAJ); with [James Benstead](https://scholar.google.com/citations?hl=en&user=25DxbjwAAAAJ), [Jim Al-Khalili](https://www.surrey.ac.uk/people/jim-al-khalili) and other collaborators
 
 Quantum computers are previously hypothetical and now realised devices which make use of properties of quantum mechanics to allow certain calculations to be achieved much more efficiently than on regular computers.  In particular, simulating many-body quantum systems (such as nuclei) is theoretically possible on quantum computers in a way that copes with the huge combinatorial increase in complexity of the problem when the number of nucleons becomes large.  
 
 Our work is on developing quantum algorithms that are able to perform practical calculations of nuclear properties and running them on todays limited-qubit and noisy quantum computers.
 
-The picture below (from [arxiv: 2205.05576](http://arxiv.org/abs/2205.05576)) shows the energy landscape of a model nuclear Hamiltonian as a function of parameters in a variational wave function ansatz.
+The picture below (from [arxiv: 2402.15577v1](http://arxiv.org/abs/2402.15577v1)) shows a quantum circuit used to prepare the ground state wave function of Ni-58 in a shell model picture in which two neutrons are created (with the "X" gates) and then distributed across other single particle levels (via the "G2" gates)
 
-<img src="/files/energy-t1t2.png" alt="energy landscape" width="50%">
+<img src="https://arxiv.org/html/2402.15577v1/x3.png" alt="quantum circuit" width="50%">
+
+## Nuclear Data and Machine Learning
+
+With PhD student Sam Sullivan; with James Benstead and Lee Morgan
+
+Nuclear data in general means all of the experimental data that has been compiled from years of experiments covering nuclear structure and reactions.  Some of the data is excellent, while some has large error bars, and yet more lacks information about errors or is partially complete in some way.  In other cases of interest, desired data does not exist becase the experiments required to measure the data are not practical or have otherwise not been performed.  
+
+We use machine learning methods to evaluate nuclear data and to understand how we might use models as a proxy for existing databases.  As a starting point, see [EPJ Web of Conf. 284, 03007 (2023)](https://www.epj-conferences.org/articles/epjconf/abs/2023/10/epjconf_nd2023_03007/epjconf_nd2023_03007.html) for some pre-machine-learning explorations of data of interest.
 
 ## Other Work
 
