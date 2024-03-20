@@ -5,6 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
+  - /about.html
 ---
 
 I am a Professor in the School of Maths and Physics of the [University of Surrey](http://www.surrey.ac.uk),  member of the [Nuclear Physics Group](https://www.surrey.ac.uk/theoretical-nuclear-physics-group) and the [Quantum Foundations and Technology](https://www.surrey.ac.uk/quantum-foundations-centre) group, and an AWE William Penney Fellow.
