@@ -5,7 +5,6 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
 ---
 
 I am a Professor in the School of Maths and Physics of the [University of Surrey](http://www.surrey.ac.uk),  member of the [Nuclear Physics Group](https://www.surrey.ac.uk/theoretical-nuclear-physics-group) and the [Quantum Foundations and Technology](https://www.surrey.ac.uk/quantum-foundations-centre) group, and an AWE William Penney Fellow.
@@ -17,3 +16,9 @@ I write a blog about nuclear physics (loosely) called [blog of the isotopes](htt
 See also my [official University of Surrey Page](https://www.surrey.ac.uk/people/paul-stevenson) page.
 
 You can contact me on [p.stevenson@surrey.ac.uk](mailto:p.stevenson@surrey.ac.uk)
+
+{% include base_path %}
+{% for post in site.posts limit:1 %}
+  {% include archive-single.html %}
+{% endfor %}
+  
