@@ -18,6 +18,10 @@ See also my [official University of Surrey Page](https://www.surrey.ac.uk/people
 
 You can contact me on [p.stevenson@surrey.ac.uk](mailto:p.stevenson@surrey.ac.uk)
 
+---
+
+Latest News Post:
+
 {% include base_path %}
 {% for post in site.posts limit:1 %}
   {% include archive-single.html %}
