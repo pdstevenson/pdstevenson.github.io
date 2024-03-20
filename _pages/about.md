@@ -20,7 +20,7 @@ You can contact me on [p.stevenson@surrey.ac.uk](mailto:p.stevenson@surrey.ac.uk
 
 ---
 
-Latest News Post:
+Latest News Post (click on title to expand):
 
 {% include base_path %}
 {% for post in site.posts limit:1 %}
