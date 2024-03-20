@@ -79,7 +79,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **113.** "*A time-dependent Hartree-Fock study of triple-alpha dynamics*", P. D. Stevenson and J. Willerton, [SciPost Phys. Proc. 3, 047 (2020)](https://dx.doi.org/10.21468/SciPostPhysProc.3.047) ✅
 
-**112.** "*Editorial*" P. Stevenson, A. Diaz-Torres, and A. Rios Huguet, proceedings of the EFB24 conference, SciPost Phys. Proc. 3 [eBook pdf (66Mb)](http://personal.ph.surrey.ac.uk/~phs3ps/complete_EFB24.pdf) ✅
+**112.** "*Editorial*" P. Stevenson, A. Diaz-Torres, and A. Rios Huguet, proceedings of the EFB24 conference, SciPost Phys. Proc. 3 [eBook pdf (66Mb)](http://pdstevenson.github.io/files/complete_EFB24.pdf) ✅
 
 **111.** "*Numerical Calculations of TDHF*", P. D. Stevenson, in Frontiers in Nulcear and Particle Physics Volume 2, Bentham Science, Sharjah, UAE, pp 1-18 (2019) [eBook](http://dx.doi.org/10.2174/9781681087641119020005) ❌
 
@@ -213,7 +213,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **46.** "Discovery of the proton emitting nucleus 159Re", D. T. Joss, I. G. Darby, R. D. Page, J. Uusitalo, S. Eeckhaudt, T. Grahn, P. T. Greenlees, P. M. Jones, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, A.-P. Leppänen, M. Nyman, J. Pakarinen, P. Rahkila, J. Sarén, C. Scholey, A. N. Steer, J. S. Al-Khalili, A. J. Cannon, P. D. Stevenson, S. Ertürk, B. Gall, B. Hadinia, M. Venhart and J. Simpson, [AIP Conf. Proc. 961, 28 (2007)](http://dx.doi.org/10.1063/1.2827272) ❌ 
 
-**45.** "Recent Results from Skyrme-TDHF, P. D. Stevenson, [proceedings of WONP'07, Havana, Cuba (2007)](http://personal.ph.surrey.ac.uk/~phs3ps/wonp.pdf) ✅
+**45.** "Recent Results from Skyrme-TDHF, P. D. Stevenson, [proceedings of WONP'07, Havana, Cuba (2007)]([wonp.pdf](https://pdstevenson.github.io/files/wonp.pdf) ✅
 
 **44.** "Alpha Decay of 159Re and proton emission from 155Ta", R. D. Page, L. Bianco, I. G. Darby, J. Uusitalo, D. T. Joss, T. Grahn, R.-D. Herzberg, J. Pakarinen, J. Thompson, S. Eeckhaudt, P. T. Greenlees, P. M. Jones, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, A.-P. Leppänen, M. Nyman, P. Rahkila, J. Sarén, C. Scholey, A. Steer, M. B. Gómez Hornillos, J. S. Al-Khalili, A. J. Cannon, P. D. Stevenson, S. Ertürk, B. Gall, B. Hadinia, M. Venhart and J. Simpson, [Phys. Rev. C 75, 061302(R) (2007)](http://dx.doi.org/10.1103/PhysRevC.75.061302) ❌
 
@@ -257,11 +257,11 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **24.** "Collisions of 16O+16O in a Full Skyrme-Force TDHF Treatment", J. A. Maruhn, P.-G. Reinhard and P. D. Stevenson, GSI Annual Report (2005)
 
-**23.** "Mean-field approach to shape changes in the neutron-rich tungsten region", P. D. Stevenson and M. P. Brine, [Proceedings of Workhop on Symmetries and Low Energy Phase Transitions, Camerino, Italy (2005)](http://personal.ph.surrey.ac.uk/~phs3ps/camerino-2005.pdf) ✅
+**23.** "Mean-field approach to shape changes in the neutron-rich tungsten region", P. D. Stevenson and M. P. Brine, [Proceedings of Workhop on Symmetries and Low Energy Phase Transitions, Camerino, Italy (2005)](http://pdstevenson.github.io/files/camerino-2005.pdf) ✅
 
 **22.** "Isoscalar and Isovector Giant Monopole Resonances Using TDHF", D. Almehed and P. D. Stevenson, [AIP Conference Proceedings 802 305 (2005)](http://dx.doi.org/10.1063/1.2140673) ❌
 
-**21.** "Giant Resonances in Normal and Exotic Nuclei", P. D. Stevenson, D. Almehed, P.-G. Reinhard, J. A. Maruhn, J. Rikovska Stone and M. R. Strayer, [Proceedings of Nuclear Structure Physics at the Extremes, Shimla, India (2005)](http://personal.ph.surrey.ac.uk/~phs3ps/stevenson-shimla.pdf) ✅
+**21.** "Giant Resonances in Normal and Exotic Nuclei", P. D. Stevenson, D. Almehed, P.-G. Reinhard, J. A. Maruhn, J. Rikovska Stone and M. R. Strayer, [Proceedings of Nuclear Structure Physics at the Extremes, Shimla, India (2005)](http://pdstevenson.github.io/files/stevenson-shimla.pdf) ✅
 
 **20.** "NUSTAR 2005", Paddy Regan and Paul Stevenson, Editorial, [J. Phys. G 31, E01 (2005)](http://dx.doi.org/10.1088/0954-3899/31/10/E01) ✅
 
@@ -291,14 +291,14 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **7.** "Structure of the Doubly-Mid-Shell Nucleus 170Dy", P. H. Regan, F. R. Xu, P. M. Walker, M. Oi, A. K. Rath and P. D. Stevenson, [Phys. Rev. C 65, 037302 (2002)](http://dx.doi.org/10.1103/PhysRevC.65.037302) ❌
 
-**6.** "N=Z and proton-rich nuclei in the Hartree-Fock mean field model with a separable nucleon-nucleon interaction", J. Rikovska Stone, P. D. Stevenson and M. R. Strayer, [Proceedings of Exotic nuclei at the proton drip line, Camerino, Italy (2001)](http://personal.ph.surrey.ac.uk/~phs3ps/camerino.ps) ✅
+**6.** "N=Z and proton-rich nuclei in the Hartree-Fock mean field model with a separable nucleon-nucleon interaction", J. Rikovska Stone, P. D. Stevenson and M. R. Strayer, [Proceedings of Exotic nuclei at the proton drip line, Camerino, Italy (2001)](http://pdstevenson.github.io/files/camerino.ps) ✅
 
-**5.** "Physics with a Density-Dependent Separable Monopole Interaction", P. Stevenson, M. R. Strayer and J. Rikovska Stone, [Proceedings of 3rd International Conference on Exotic Nuclei and Atomic Masses, ENAM'01, Hämeenlinna, Finland (2001)](http://personal.ph.surrey.ac.uk/~phs3ps/enampap.ps) ✅
+**5.** "Physics with a Density-Dependent Separable Monopole Interaction", P. Stevenson, M. R. Strayer and J. Rikovska Stone, [Proceedings of 3rd International Conference on Exotic Nuclei and Atomic Masses, ENAM'01, Hämeenlinna, Finland (2001)](http://pdstevenson.github.io/files/enampap.ps) ✅
 
 **4.** "Many-body perturbation calculation of spherical nuclei with a separable monopole interaction", P. Stevenson, M. R. Strayer and J. Rikovska Stone, [Phys. Rev. C 63, 054309 (2001)](http://dx.doi.org/10.1103/PhysRevC.63.054309) ❌
 
-**3.** "Hartree-Fock Mean-Field Models Using Separable Interactions", P. Stevenson, J. Rikovska Stone and M. R. Strayer, [Proceedings of the Second International Conference on "Fission and Neutron-rich Nuclei", St. Andrews, World Scientific Publishing (1999)](http://personal.ph.surrey.ac.uk/~phs3ps/standrews.ps) ✅
+**3.** "Hartree-Fock Mean-Field Models Using Separable Interactions", P. Stevenson, J. Rikovska Stone and M. R. Strayer, [Proceedings of the Second International Conference on "Fission and Neutron-rich Nuclei", St. Andrews, World Scientific Publishing (1999)](http://pdstevenson.github.io/files/standrews.ps) ✅
 
 **2.** "Separable Nuclear Multipole Interaction", P. Stevenson, J. Rikovska and M. R. Strayer, in ORNL Progress Report ORNL-6957 (1999)
 
-**1.** Nuclear Structure Calculations using many-body perturbation theory with a separable interaction", P. D. Stevenson, [D.Phil Thesis, Oxford University, Unpublished (1999)](http://personal.ph.surrey.ac.uk/~phs3ps/a4thesis.pdf) ✅
+**1.** Nuclear Structure Calculations using many-body perturbation theory with a separable interaction", P. D. Stevenson, [D.Phil Thesis, Oxford University, Unpublished (1999)](http://pdstevenson.github.io/files/a4thesis.pdf) ✅
