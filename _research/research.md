@@ -43,7 +43,9 @@ With PhD student Sam Sullivan; with James Benstead and Lee Morgan
 
 Nuclear data in general means all of the experimental data that has been compiled from years of experiments covering nuclear structure and reactions.  Some of the data is excellent, while some has large error bars, and yet more lacks information about errors or is partially complete in some way.  In other cases of interest, desired data does not exist becase the experiments required to measure the data are not practical or have otherwise not been performed.  
 
-We use machine learning methods to evaluate nuclear data and to understand how we might use models as a proxy for existing databases.  As a starting point, see [EPJ Web of Conf. 284, 03007 (2023)](https://www.epj-conferences.org/articles/epjconf/abs/2023/10/epjconf_nd2023_03007/epjconf_nd2023_03007.html) for some pre-machine-learning explorations of data of interest.
+We use machine learning methods to evaluate nuclear data and to understand how we might use models as a proxy for existing databases.  As a starting point, see [EPJ Web of Conf. 284, 03007 (2023)](https://www.epj-conferences.org/articles/epjconf/abs/2023/10/epjconf_nd2023_03007/epjconf_nd2023_03007.html) for some pre-machine-learning explorations of data of interest.  The plot below shows various ways of representing neutron resonance structures across a wide range of incident neutron energy.  Plot from paper linked to above.
+
+<img src="/files/ndata.png" alt="neutron capture cross section data" width="50%">
 
 ## Other Work
 
