@@ -29,7 +29,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **138.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, *submitted to Comput. Phys. Commun.* [arxiv:2403.12539](http://arxiv.org/abs/2403.12539) ✅ [@scirate](https://scirate.com/arxiv/2403.12539)
 
-**137.** "*Variance Minimisation of the Lipkin-Meshkov-Glick Model on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead, *submitted to Phys. Rev. C*, [arxiv:2403.08625](https://arxiv.org/abs/2403.08625) ✅ [@scirate](https://scirate.com/arxiv/2403.08625)
+**137.** "*Variance Minimisation of the Lipkin-Meshkov-Glick Model on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead, [*submitted to Phys. Rev. C*](https://authors.aps.org/Submissions/status?accode=CQ10925&author=Stevenson), [arxiv:2403.08625](https://arxiv.org/abs/2403.08625) ✅ [@scirate](https://scirate.com/arxiv/2403.08625)
 
 **136.** "*Isoscalar giant monopole resonance in Mo-100: TDHF calculations and ground state deformation*", P. D. Stevenson, Abhishek, and Yue Shi, [Nuovo Cimento C 47, 26 (2024)](http://dx.doi.org/10.1393/ncc/i2024-24026-y) ✅ [arxiv: 2310.00021](https://arxiv.org/abs/2310.00021) ✅ [@scirate](https://scirate.com/arxiv/2310.00021)
 
