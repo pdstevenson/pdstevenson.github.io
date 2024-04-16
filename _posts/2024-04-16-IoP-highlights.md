@@ -7,7 +7,7 @@ tags:
 
 Last week I and many of my group attended the Institute of Physics joint High Energy Physics, Astroparticle Physics, and Nuclear Physics Conference in Liverpool.  I was honoured to be asked to give a plenary talk to the whole conference on the subject of quantum computing in nuclear structure.  My colleague in the UK nuclear theoretical physics community, Jacek Dobaczewski from the University of York, took this picture of me as I talked:
 
-![me at IoP conference](files/IMG_2557.JPG)
+![me at IoP conference](https://pdstevenson.github.io/files/IMG_2557.JPG)
 
 I hope my talk was sufficiently understandable and useful to people across all the communities present.  I got some kind comments afterwards, so that's encouraging.  
 
