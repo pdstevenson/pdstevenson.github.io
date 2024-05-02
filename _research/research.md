@@ -39,7 +39,7 @@ The picture below (from [arxiv: 2402.15577v1](http://arxiv.org/abs/2402.15577v1)
 
 ## Nuclear Data and Machine Learning
 
-With PhD student Sam Sullivan; with James Benstead and Lee Morgan
+With PhD student [Sam Sullivan](https://www.surrey.ac.uk/people/samuel-sullivan); with [Payel Das](https://www.surrey.ac.uk/people/payel-das), James Benstead and Lee Morgan
 
 Nuclear data in general means all of the experimental data that has been compiled from years of experiments covering nuclear structure and reactions.  Some of the data is excellent, while some has large error bars, and yet more lacks information about errors or is partially complete in some way.  In other cases of interest, desired data does not exist becase the experiments required to measure the data are not practical or have otherwise not been performed.  
 
