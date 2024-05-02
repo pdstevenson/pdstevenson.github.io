@@ -27,7 +27,7 @@ The picture below (from [Phys. Rev. C 103, L031304 (2021)](http://dx.doi.org/10.
 
 ## Quantum Computing
 
-With PhD students [Isaac Hobday](https://www.surrey.ac.uk/people/isaac-hobday); [Lance Li](https://www.surrey.ac.uk/people/lance-li); [Joe Gibbs](https://scholar.google.com/citations?hl=en&user=FvrrWhAAAAAJ); with [James Benstead](https://scholar.google.com/citations?hl=en&user=25DxbjwAAAAJ), [Jim Al-Khalili](https://www.surrey.ac.uk/people/jim-al-khalili) and other collaborators
+With PhD students [Isaac Hobday](https://www.surrey.ac.uk/people/isaac-hobday); [Lance Li](https://www.surrey.ac.uk/people/lance-li); [Joe Gibbs](https://scholar.google.com/citations?hl=en&user=FvrrWhAAAAAJ); with postdoc [Bharti Bhoy](https://www.surrey.ac.uk/people/bharti-bhoy); with [James Benstead](https://scholar.google.com/citations?hl=en&user=25DxbjwAAAAJ), [Jim Al-Khalili](https://www.surrey.ac.uk/people/jim-al-khalili) and other collaborators
 
 Quantum computers are previously hypothetical and now realised devices which make use of properties of quantum mechanics to allow certain calculations to be achieved much more efficiently than on regular computers.  In particular, simulating many-body quantum systems (such as nuclei) is theoretically possible on quantum computers in a way that copes with the huge combinatorial increase in complexity of the problem when the number of nucleons becomes large.  
 
