@@ -7,7 +7,9 @@ author_profile: true
 
 Here is an (incomplete) list of talks and poster presentations
 
-**2024-01.** Art 2024: "Quantum Computing for Nuclear Structure", IoP HEPP-APP-NP conference, Liverpool, UK (invited) [slides](https://indico.cern.ch/event/1388874/contributions/5860278/attachments/2833305/4950665/stevenson-iop2024.pptx)
+**2024-02.** Apr 2024: "Variational Eigensolvers for Nuclear Structure", University of New Brunswick online seminar (invited)
+
+**2024-01.** Apr 2024: "Quantum Computing for Nuclear Structure", IoP HEPP-APP-NP conference, Liverpool, UK (invited) [slides](https://indico.cern.ch/event/1388874/contributions/5860278/attachments/2833305/4950665/stevenson-iop2024.pptx)
 
 **2023-04.** June 2023: "Mo-100 monopole & quadrupole strength with triaxiality: A time-dependent density functional study", COMEX7, Catania, Italy [slides](https://agenda.infn.it/event/21964/contributions/200569/attachments/107082/151069/stevenson-comex7.pdf)
 
