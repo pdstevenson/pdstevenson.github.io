@@ -21,7 +21,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **143.** "*VarVarQite: a quantum variatitonal approach to excited states*", I. Hobday, P. D. Stevenson, and J. Benstead, *in preparation*
 
-**142.** "*Sky3d v1.2 update*", Abhishek, Paul Stevenson, Yue Shi, Esra Yüksel, Sait Umar, [Comput. Phys. Commun. 301, 109239 (2024)](https://doi.org/10.1016/j.cpc.2024.109239)
+**142.** "*Sky3d v1.2 update*", Abhishek, Paul Stevenson, Yue Shi, Esra Yüksel, Sait Umar, [Comput. Phys. Commun. 301, 109239 (2024)](https://doi.org/10.1016/j.cpc.2024.109239) ✅ [arxiv:2405.08531](https://arxiv.org/abs/2405.08531) ✅ [@scirate](https://scirate.com/arxiv/2405.08531)
 
 **141.** "*Exploiting symmetries in nuclear Hamiltonians for ground state preparation*", Joe Gibbs, Paul Stevenson, and Zoë Holmes, *submitted to Quantum Science and Technology*, [arxiv:2402.10277](https://arxiv.org/abs/2402.10277) ✅ [@scirate](https://scirate.com/arxiv/2402.10277)
 
