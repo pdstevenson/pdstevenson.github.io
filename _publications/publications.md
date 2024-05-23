@@ -13,7 +13,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **148.** "*Time-dependent wave-packet approach to the 12C+12C reaction using DC-TDHF potentials*", Grant Close, Alexis Diaz-Torres and Paul Stevenson, *in preparation*
 
-**147.** "*Quantum mechanical treatment of nuclear surface friction in coupled-channels heavy-ion fusion*", Iain Lee, Paul D. Stevenson, and Alexis Diaz-Torres, *submitted to Phys. Lett. B*
+**147.** "*Quantum mechanical treatment of nuclear surface friction in coupled-channels heavy-ion fusion*", Iain Lee, Paul D. Stevenson, and Alexis Diaz-Torres, *accepted for publication in Phys. Lett. B*
 
 **146.** "*Solving coupled Non-linear Schrödinger Equations via Quantum Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili and Paul Stevenson, [arxiv:2402.01623](https://arxiv.org/abs/2402.01623) ✅ [@scirate](https://scirate.com/arxiv/2402.01623)
 
