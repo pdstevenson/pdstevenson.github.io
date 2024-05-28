@@ -19,7 +19,7 @@ The picture below shows some recent calculations of octupole excitations in even
 
 Nuclear reactions involve the interaction of nuclei with another object which could be another nucleus, or some external probe such as a photon.  The decay of nuclei in which the multiple objects are in the final state can also be considered as a kind of nuclear reaction.  Applying a time-depedent version of the mean-field methods used for structure calculations allow details of structure and reactions to be described in a single framework.  Applications include deep-inelastic reactions, Coulomb excitation, fusion and fission reactions, and a number of exotic relatives such as quasifission and fusion-fission.  
 
-The principal code used for these calculations, Sky3d, is published and freely available.  The code is hosted at [github](https://github.com/manybody/sky3d) and the latest published version, [Sky3d, 1.1 is available from Computer Physics Communications](http://dx.doi.org/10.17632/vzbrzvyrn4.1)
+The principal code used for these calculations, Sky3d, is published and freely available.  The code is hosted at [github](https://github.com/manybody/sky3d) and the latest published version, [Sky3d, 1.2 is available from Computer Physics Communications](https://doi.org/10.1016/j.cpc.2024.109239)
 
 The picture below (from [Phys. Rev. C 103, L031304 (2021)](http://dx.doi.org/10.1103/PhysRevC.103.L031304)) shows the fission pathway of the nucleus <sup>240</sup>Pu at finite temperature, showing different allowed trajectories caused by the statistical fluctuations inherent in quantum mechanics
 
