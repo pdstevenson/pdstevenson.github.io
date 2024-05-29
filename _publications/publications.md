@@ -13,7 +13,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **149.** "*Coulomb excitation of Pb-208*", J. Henderson, J. Heery, M. Rocchini, M. Siciliano, N. Sensharma, A. D. Ayangeakaa, R. Janssens, T. Kowalewski, Abhishek, P. D. Stevenson, E. Yüksel, B. A. Brown, T. R. Rodriguez, C. Y. Wu, S. Kisyov, C. Müller-Gatermann, V. Bildstein, L. Canete, C. Campbell, S. Carmichael, M. Carpenter, W. N. Catford, P. Copp, C. Cousins, M. Devlin, D. T. Doherty, P. Garrett, L. P. Gaffney, K. Hadyńska-Klęk, S. Hicks, H. Jayatissa, F. Kondev, D. Lascar, T. Lauritsen, G. Lotay, N. Marchini, M. Matejska-Minda, S. Nandi, A. Nannini, C. O'Shea, S. Pascu, C. Paxman, A. Perkoff, E. Peters, Z. Podolyák, A. Radich, R. Rathod, B. J. Reed, P. H. Regan, W. Reviol, E. Rubino, R. Russell, D. Seweryniak, J. Vanhoy, G. L. Wilson, K. Wrzosek-Lipska, S. Yates, and I. Zanon, *in preparation*
 
-**148.** "*Time-dependent wave-packet approach to the 12C+12C reaction using DC-TDHF potentials*", Grant Close, Alexis Diaz-Torres and Paul Stevenson, *in preparation*
+**148.** "*Time-dependent wave-packet approach to the <sup>12</sup>C+<sup>12</sup>C reaction using DC-TDHF potentials*", Grant Close, Alexis Diaz-Torres and Paul Stevenson, *in preparation*
 
 **147.** "*Quantum mechanical treatment of nuclear surface friction in coupled-channels heavy-ion fusion*", Iain Lee, Paul D. Stevenson, and Alexis Diaz-Torres, *Phys. Lett. B, [in press](https://doi.org/10.1016/j.physletb.2024.138755)* ✅
 
