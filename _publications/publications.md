@@ -21,7 +21,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **145.** "*In-beam gamma-ray spectroscopy of Ra-204 and the transition towards strongly deformed systems*", J. Heery *et al.*, *in preparation*
 
-**144.** "*Shell-model study of 58Ni using quantum computing algorithm*", Bharti Bhoy and Paul Stevenson, *submitted to New Journal of Physics*, [arxiv:2402.15577](https://arxiv.org/abs/2402.15577) ✅ [@scirate](https://scirate.com/arxiv/2402.15577)
+**144.** "*Shell-model study of 58Ni using quantum computing algorithm*", Bharti Bhoy and Paul Stevenson, *accepted for publication in New Journal of Physics*, [arxiv:2402.15577](https://arxiv.org/abs/2402.15577) ✅ [@scirate](https://scirate.com/arxiv/2402.15577)
 
 **143.** "*VarVarQite: a quantum variatitonal approach to excited states*", I. Hobday, P. D. Stevenson, and J. Benstead, *in preparation*
 
