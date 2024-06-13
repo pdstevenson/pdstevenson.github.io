@@ -7,6 +7,8 @@ author_profile: true
 
 Here is an (incomplete) list of talks and poster presentations
 
+**2024-03.** Jun 2024: "Porting Sky3d to GPU", DiRAC Hackathon, Edinburgh
+
 **2024-02.** Apr 2024: "Variational Eigensolvers for Nuclear Structure", University of New Brunswick online seminar (invited)
 
 **2024-01.** Apr 2024: "Quantum Computing for Nuclear Structure", IoP HEPP-APP-NP conference, Liverpool, UK (invited) [slides](https://indico.cern.ch/event/1388874/contributions/5860278/attachments/2833305/4950665/stevenson-iop2024.pptx)
