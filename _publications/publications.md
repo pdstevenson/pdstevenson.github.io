@@ -40,7 +40,7 @@ S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. U
 
 **140.** "*TDHF and QRPA octupole strength functions in Zr, Pb, and Hg isotopes*", Abhishek, Esra Yüksel, and Paul Stevenson, *in preparation*
 
-**139.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, *in preparation*
+**139.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, *[submitted](https://submission.springernature.com/submission-details/e0591640-ecbe-450e-8152-8635d19bfe55) to Quantum Information Processing*
 
 **138.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, [arxiv:2403.12539](http://arxiv.org/abs/2403.12539) ✅ [@scirate](https://scirate.com/arxiv/2403.12539)
 
