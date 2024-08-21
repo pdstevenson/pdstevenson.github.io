@@ -11,14 +11,14 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing.
 
-**153.** "*Comment on "Full quantum eigensolvers based on variance" by Li et al.*", P. D. Stevenson, *submitted to Physica Scripta*
+**153.** "*Comment on "Full quantum eigensolvers based on variance" by Li et al.*", P. D. Stevenson, *[submitted](https://publishingsupport.iopscience.iop.org/) to Physica Scripta*
 
 **152.** "*Collective Excitations in <sup>150</sup>Gd*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G.H. Bhat, R.N Mao, K. Nomura, C. Costache, Z.P. Li, N. Mǎrginean, C. Mihai, T. Naz, N. Paar, Zs. Podolyák, P.H. Regan,, 9 A.E. Turturicǎ, R. Borcea, M. Boromiza, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N.M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R.E. Mihai, A. Mitu, N. Nazir, A. Negret, C.R. Nițǎ, E.B. O’Sullivan, C. Petrone,
 S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ujeniuc, *in preparation*
 
 **151.** "*TDHF and the compound nucleus*", P. D. Stevenson, *proceedings of CNR24, in preparation*
 
-**150.** "*Maximal octupole collectivity across the Z = 64 isotopic chain: B(E3) values in <sup>150</sup>Gd*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G. H. Bhat, R. N. Mao, K. Nomura, C. Costache, Z. P. Li, N. Mǎrginean, C. Mihai, T. Naz, Zs. Podolyák, P. H. Regan, A. E. Turturicǎ, R. Borcea, M. Boromiza, A. Bruce, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N. M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R. E. Mihai, A. Mitu, N. Nazir, A. Negret, C. R. Nițǎ, E. O'Sullivan, C. Petrone, S. E. Poulton, J. A. Sheikh, H. K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ukeniuc, *submitted*
+**150.** "*Maximal octupole collectivity across the Z = 64 isotopic chain: B(E3) values in <sup>150</sup>Gd*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G. H. Bhat, R. N. Mao, K. Nomura, C. Costache, Z. P. Li, N. Mǎrginean, C. Mihai, T. Naz, Zs. Podolyák, P. H. Regan, A. E. Turturicǎ, R. Borcea, M. Boromiza, A. Bruce, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N. M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R. E. Mihai, A. Mitu, N. Nazir, A. Negret, C. R. Nițǎ, E. O'Sullivan, C. Petrone, S. E. Poulton, J. A. Sheikh, H. K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ukeniuc, *[submitted](https://authors.aps.org/Submissions/status?accode=LU19501&author=Henderson)*
 
 **149.** "*Collectivity in a doubly-magic system: Four-fold Coulomb excitation of <sup>208</sup>Pb*", J. Henderson, J. Heery, M. Rocchini, M. Siciliano, N. Sensharma, A. D. Ayangeakaa, R. V. F. Janssens, T. Kowalewski, Abhishek, P. D. Stevenson, E. Yüksel, B. A. Brown, T. R. Rodriguez, L. M. Robledo, C. Y. Wu, S. Kisyov, C. Müller-Gatermann, V. Bildstein, L. Canete, C. Campbell, S. Carmichael, M. P. Carpenter, W. N. Catford, P. Copp, C. Cousins, M. Devlin, D. T. Doherty, P. Garrett, L. P. Gaffney, K. Hadyńska-Klęk, D. Hartley, S. Hicks, H. Jayatissa, D. Kalaydjieva, F. Kondev, D. Lascar, T. Lauritsen, G. Lotay, N. Marchini, M. Matejska-Minda, S. Nandi, A. Nannini, C. O'Shea, S. Pascu, C. Paxman, A. Perkoff, E. Peters, Z. Podolyák, A. Radich, R. Rathod, B. J. Reed, P. H. Regan, W. Reviol, E. Rubino, R. Russell, D. Seweryniak, J. Vanhoy, G. L. Wilson, K. Wrzosek-Lipska, S. Yates, and I. Zanon, *submitted*
 
@@ -44,7 +44,7 @@ S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. U
 
 **138.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, [arxiv:2403.12539](http://arxiv.org/abs/2403.12539) ✅ [@scirate](https://scirate.com/arxiv/2403.12539)
 
-**137.** "*Variance Minimisation of the Lipkin-Meshkov-Glick Model on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead, [*submitted to Phys. Rev. C*](https://authors.aps.org/Submissions/status?accode=CQ10925&author=Stevenson), [arxiv:2403.08625](https://arxiv.org/abs/2403.08625) ✅ [@scirate](https://scirate.com/arxiv/2403.08625)
+**137.** "*Variance Minimisation of the Lipkin-Meshkov-Glick Model on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead, [*submitted](https://authors.aps.org/Submissions/status?accode=CQ10925&author=Stevenson) to Phys. Rev. C*, [arxiv:2403.08625](https://arxiv.org/abs/2403.08625) ✅ [@scirate](https://scirate.com/arxiv/2403.08625)
 
 **136.** "*Isoscalar giant monopole resonance in Mo-100: TDHF calculations and ground state deformation*", P. D. Stevenson, Abhishek, and Yue Shi, [Nuovo Cimento C 47, 26 (2024)](http://dx.doi.org/10.1393/ncc/i2024-24026-y) ✅ [arxiv: 2310.00021](https://arxiv.org/abs/2310.00021) ✅ [@scirate](https://scirate.com/arxiv/2310.00021)
 
