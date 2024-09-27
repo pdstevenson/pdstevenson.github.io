@@ -15,7 +15,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **153.** "*Comment on "Full quantum eigensolvers based on variance" by Li et al.*", P. D. Stevenson, [preprint](/files/li-comment.pdf) ✅
 
-**152.** "*Collective Excitations in <sup>150</sup>Gd*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G.H. Bhat, R.N Mao, K. Nomura, C. Costache, Z.P. Li, N. Mǎrginean, C. Mihai, T. Naz, N. Paar, Zs. Podolyák, P.H. Regan,, 9 A.E. Turturicǎ, R. Borcea, M. Boromiza, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N.M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R.E. Mihai, A. Mitu, N. Nazir, A. Negret, C.R. Nițǎ, E.B. O’Sullivan, C. Petrone,
+**152.** "*Collective Excitations in <sup>150</sup>Gd*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G.H. Bhat, R.N Mao, K. Nomura, C. Costache, Z.P. Li, N. Mǎrginean, C. Mihai, T. Naz, N. Paar, Zs. Podolyák, P.H. Regan, A.E. Turturicǎ, R. Borcea, M. Boromiza, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N.M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R.E. Mihai, A. Mitu, N. Nazir, A. Negret, C.R. Nițǎ, E.B. O’Sullivan, C. Petrone,
 S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ujeniuc, *in preparation*
 
 **151.** "*TDHF and the compound nucleus*", P. D. Stevenson, *proceedings of CNR24, in preparation*
@@ -112,7 +112,7 @@ S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. U
 
 **105.** "*Magnetic Dipole Transitions with the Full Skyrme Interaction*", M. C. Barton and P. D. Stevenson, (2017) [arXiv: 1709.07823](http://arxiv.org/abs/1709.07823) ✅
 
-**104.** "Excited States and Reduced Transition Probabilities in 168Os", T. Grahn, D. T. Joss, R. D. Page, B. Sayğı, S. Stolze, D. O'Donnell, M. Akmali, K. Andgren, L. Bianco, D. M. Cullen, A. Dewald, P. T. Greenlees, K. Heyde, H. Iwasaki, U. Jakobsson, J. Jolie, P. Jones, D. S. Judson, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, N. Lumley, P. J. R. Mason, O. Möller, K. Nomura, M. Nyman, A. Petts, P. Peura, N. Pietralla, Th. Pissula, P. Rahkila, P. J. Sapple, J. Sarén, C. Scholey, J. Simpson, J. Sorri, P. D. Stevenson, J. Uusiatalo, H. V. Watkins, and J. L. Wood, [Phys. Rev. C 94, 044327 (2016)](http://dx.doi.org/10.1103/PhysRevC.94.044327) ❌ 
+**104.** "Excited States and Reduced Transition Probabilities in <sup>168</sup>Os", T. Grahn, D. T. Joss, R. D. Page, B. Sayğı, S. Stolze, D. O'Donnell, M. Akmali, K. Andgren, L. Bianco, D. M. Cullen, A. Dewald, P. T. Greenlees, K. Heyde, H. Iwasaki, U. Jakobsson, J. Jolie, P. Jones, D. S. Judson, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, N. Lumley, P. J. R. Mason, O. Möller, K. Nomura, M. Nyman, A. Petts, P. Peura, N. Pietralla, Th. Pissula, P. Rahkila, P. J. Sapple, J. Sarén, C. Scholey, J. Simpson, J. Sorri, P. D. Stevenson, J. Uusiatalo, H. V. Watkins, and J. L. Wood, [Phys. Rev. C 94, 044327 (2016)](http://dx.doi.org/10.1103/PhysRevC.94.044327) ❌ 
 
 **103.** "The Skyrme tensor force in heavy ion collisions", P. D. Stevenson, E. B. Suckling, S. Fracasso, M. C. Barton and A. S. Umar, [Phys. Rev. C 93, 054617 (2016)](http://dx.doi.org/10.1103/PhysRevC.93.054617) ❌ [arxiv: 1507.00645](http://arxiv.org/abs/1507.00645) ✅
 
