@@ -11,6 +11,8 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing.
 
+**155.** "*Nuclear response through time-series forecasting*", Prakruthi Kodihalli Manjunatha and Paul Stevenson, *in preparation*
+
 **154.** "*A quantum code for the nuclear shell model*", B. Bhoy and P. Stevenson, *in preparation*
 
 **153.** "*Comment on "Full quantum eigensolvers based on variance" by Li et al.*", P. D. Stevenson, [preprint](/files/li-comment.pdf) ✅
