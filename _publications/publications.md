@@ -28,27 +28,27 @@ S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. U
 
 **148.** "*Time-dependent wave-packet approach to the <sup>12</sup>C+<sup>12</sup>C reaction using DC-TDHF potentials*", Grant Close, Alexis Diaz-Torres and Paul Stevenson, *in preparation*
 
-**147.** "*Quantum mechanical treatment of nuclear surface friction in coupled-channels heavy-ion fusion*", Iain Lee, Paul D. Stevenson, and Alexis Diaz-Torres, [Phys. Lett. B 854, 138755 (2024)](https://doi.org/10.1016/j.physletb.2024.138755) ✅
+**147.** "*Solving coupled Non-linear Schrödinger Equations via Quantum Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili and Paul Stevenson, *accepted for publication in EPJ ST*, [arxiv:2402.01623](https://arxiv.org/abs/2402.01623) ✅ [@scirate](https://scirate.com/arxiv/2402.01623)
 
-**146.** "*Solving coupled Non-linear Schrödinger Equations via Quantum Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili and Paul Stevenson, *accepted for publication in EPJ ST*, [arxiv:2402.01623](https://arxiv.org/abs/2402.01623) ✅ [@scirate](https://scirate.com/arxiv/2402.01623)
+**146.** "*In-beam gamma-ray spectroscopy of Ra-204 and the transition towards strongly deformed systems*", J. Heery *et al.*, *in preparation*
 
-**145.** "*In-beam gamma-ray spectroscopy of Ra-204 and the transition towards strongly deformed systems*", J. Heery *et al.*, *in preparation*
+**145.** "*VarVarQite: a quantum variatitonal approach to excited states*", I. Hobday, P. D. Stevenson, and J. Benstead, *in preparation*
 
-**144.** "*Shell-model study of <sup>58</sup>Ni using quantum computing algorithm*", Bharti Bhoy and Paul Stevenson, [New Journal of Physics 26, 075001 (2024)](https://iopscience.iop.org/article/10.1088/1367-2630/ad5756) ✅, [arxiv:2402.15577](https://arxiv.org/abs/2402.15577) ✅ [@scirate](https://scirate.com/arxiv/2402.15577)
+**144.** "*Sky3d v1.2 update*", Abhishek, Paul Stevenson, Yue Shi, Esra Yüksel, Sait Umar, [Comput. Phys. Commun. 301, 109239 (2024)](https://doi.org/10.1016/j.cpc.2024.109239) ✅ [arxiv:2405.08531](https://arxiv.org/abs/2405.08531) ✅ [@scirate](https://scirate.com/arxiv/2405.08531)
 
-**143.** "*VarVarQite: a quantum variatitonal approach to excited states*", I. Hobday, P. D. Stevenson, and J. Benstead, *in preparation*
+**143.** "*Exploiting symmetries in nuclear Hamiltonians for ground state preparation*", Joe Gibbs, Paul Stevenson, and Zoë Holmes, *submitted to Quantum Machine Intelligence*, [arxiv:2402.10277](https://arxiv.org/abs/2402.10277) ✅ [@scirate](https://scirate.com/arxiv/2402.10277)
 
-**142.** "*Sky3d v1.2 update*", Abhishek, Paul Stevenson, Yue Shi, Esra Yüksel, Sait Umar, [Comput. Phys. Commun. 301, 109239 (2024)](https://doi.org/10.1016/j.cpc.2024.109239) ✅ [arxiv:2405.08531](https://arxiv.org/abs/2405.08531) ✅ [@scirate](https://scirate.com/arxiv/2405.08531)
+**142.** "*TDHF and QRPA octupole strength functions in Zr, Pb, and Hg isotopes*", Abhishek, Esra Yüksel, and Paul Stevenson, *in preparation*
 
-**141.** "*Exploiting symmetries in nuclear Hamiltonians for ground state preparation*", Joe Gibbs, Paul Stevenson, and Zoë Holmes, *submitted to Quantum Machine Intelligence*, [arxiv:2402.10277](https://arxiv.org/abs/2402.10277) ✅ [@scirate](https://scirate.com/arxiv/2402.10277)
+**141.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, *[submitted](https://submission.springernature.com/submission-details/e0591640-ecbe-450e-8152-8635d19bfe55) to Quantum Information Processing* [arxiv: 2408.11606](https://doi.org/10.48550/arXiv.2408.11606) ✅ [@scirate](https://scirate.com/arxiv/2408.11606)
 
-**140.** "*TDHF and QRPA octupole strength functions in Zr, Pb, and Hg isotopes*", Abhishek, Esra Yüksel, and Paul Stevenson, *in preparation*
+**140.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, [arxiv:2403.12539](http://arxiv.org/abs/2403.12539) ✅ [@scirate](https://scirate.com/arxiv/2403.12539)
 
-**139.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, *[submitted](https://submission.springernature.com/submission-details/e0591640-ecbe-450e-8152-8635d19bfe55) to Quantum Information Processing* [arxiv: 2408.11606](https://doi.org/10.48550/arXiv.2408.11606) ✅ [@scirate](https://scirate.com/arxiv/2408.11606)
+**139.** "*Variance Minimisation of the Lipkin-Meshkov-Glick Model on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead, [*submitted*](https://authors.aps.org/Submissions/status?accode=CQ10925&author=Stevenson) to Phys. Rev. C, [arxiv:2403.08625](https://arxiv.org/abs/2403.08625) ✅ [@scirate](https://scirate.com/arxiv/2403.08625)
 
-**138.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, [arxiv:2403.12539](http://arxiv.org/abs/2403.12539) ✅ [@scirate](https://scirate.com/arxiv/2403.12539)
+**138.** "*Shell-model study of <sup>58</sup>Ni using quantum computing algorithm*", Bharti Bhoy and Paul Stevenson, [New Journal of Physics 26, 075001 (2024)](https://iopscience.iop.org/article/10.1088/1367-2630/ad5756) ✅, [arxiv:2402.15577](https://arxiv.org/abs/2402.15577) ✅ [@scirate](https://scirate.com/arxiv/2402.15577)
 
-**137.** "*Variance Minimisation of the Lipkin-Meshkov-Glick Model on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead, [*submitted*](https://authors.aps.org/Submissions/status?accode=CQ10925&author=Stevenson) to Phys. Rev. C, [arxiv:2403.08625](https://arxiv.org/abs/2403.08625) ✅ [@scirate](https://scirate.com/arxiv/2403.08625)
+**137.** "*Quantum mechanical treatment of nuclear surface friction in coupled-channels heavy-ion fusion*", Iain Lee, Paul D. Stevenson, and Alexis Diaz-Torres, [Phys. Lett. B 854, 138755 (2024)](https://doi.org/10.1016/j.physletb.2024.138755) ✅
 
 **136.** "*Isoscalar giant monopole resonance in Mo-100: TDHF calculations and ground state deformation*", P. D. Stevenson, Abhishek, and Yue Shi, [Nuovo Cimento C 47, 26 (2024)](http://dx.doi.org/10.1393/ncc/i2024-24026-y) ✅ [arxiv: 2310.00021](https://arxiv.org/abs/2310.00021) ✅ [@scirate](https://scirate.com/arxiv/2310.00021)
 
