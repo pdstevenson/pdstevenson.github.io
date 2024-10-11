@@ -13,22 +13,22 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **155.** "*Nuclear response through time-series forecasting*", Prakruthi Kodihalli Manjunatha and Paul Stevenson, *in preparation*
 
-**154.** "*Shell-model study of <sup>58</sup>Ni using quantum computing algorithm*", B. Bhoy and P. Stevenson, *[in preparation for JOSS](https://github.com/BhartiBhoy/QuantComp_58Ni/blob/master/Joss_58Ni.md)*
-
-**153.** "*Collective Excitations in <sup>150</sup>Gd*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G.H. Bhat, R.N Mao, K. Nomura, C. Costache, Z.P. Li, N. Mǎrginean, C. Mihai, T. Naz, N. Paar, Zs. Podolyák, P.H. Regan, A.E. Turturicǎ, R. Borcea, M. Boromiza, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N.M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R.E. Mihai, A. Mitu, N. Nazir, A. Negret, C.R. Nițǎ, E.B. O’Sullivan, C. Petrone,
+**154.** "*Collective Excitations in <sup>150</sup>Gd*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G.H. Bhat, R.N Mao, K. Nomura, C. Costache, Z.P. Li, N. Mǎrginean, C. Mihai, T. Naz, N. Paar, Zs. Podolyák, P.H. Regan, A.E. Turturicǎ, R. Borcea, M. Boromiza, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N.M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R.E. Mihai, A. Mitu, N. Nazir, A. Negret, C.R. Nițǎ, E.B. O’Sullivan, C. Petrone,
 S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ujeniuc, *in preparation*
 
-**152.** "*TDHF and the compound nucleus*", P. D. Stevenson, *proceedings of CNR24, in preparation*
+**153.** "*TDHF and the compound nucleus*", P. D. Stevenson, *proceedings of CNR24, in preparation*
 
-**151.** "*Time-dependent wave-packet approach to the <sup>12</sup>C+<sup>12</sup>C reaction using DC-TDHF potentials*", Grant Close, Alexis Diaz-Torres and Paul Stevenson, *in preparation*
+**152.** "*Time-dependent wave-packet approach to the <sup>12</sup>C+<sup>12</sup>C reaction using DC-TDHF potentials*", Grant Close, Alexis Diaz-Torres and Paul Stevenson, *in preparation*
 
-**150.** "*In-beam gamma-ray spectroscopy of Ra-204 and the transition towards strongly deformed systems*", J. Heery *et al.*, *in preparation*
+**151.** "*In-beam gamma-ray spectroscopy of Ra-204 and the transition towards strongly deformed systems*", J. Heery *et al.*, *in preparation*
 
-**149.** "*VarVarQite: a quantum variatitonal approach to excited states*", I. Hobday, P. D. Stevenson, and J. Benstead, *in preparation*
+**150.** "*VarVarQite: a quantum variatitonal approach to excited states*", I. Hobday, P. D. Stevenson, and J. Benstead, *in preparation*
 
-**148.** "*TDHF and QRPA octupole strength functions in Zr, Pb, and Hg isotopes*", Abhishek, Esra Yüksel, and Paul Stevenson, *in preparation*
+**149.** "*TDHF and QRPA octupole strength functions in Zr, Pb, and Hg isotopes*", Abhishek, Esra Yüksel, and Paul Stevenson, *in preparation*
 
-**147.** "*Maximal octupole collectivity across the Z = 64 isotopic chain: B(E3) values in <sup>150</sup>Gd*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G. H. Bhat, R. N. Mao, K. Nomura, C. Costache, Z. P. Li, N. Mǎrginean, C. Mihai, T. Naz, Zs. Podolyák, P. H. Regan, A. E. Turturicǎ, R. Borcea, M. Boromiza, A. Bruce, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N. M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R. E. Mihai, A. Mitu, N. Nazir, A. Negret, C. R. Nițǎ, E. O'Sullivan, C. Petrone, S. E. Poulton, J. A. Sheikh, H. K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ukeniuc, *submitted*
+**148.** "*Shell-model study of <sup>58</sup>Ni using quantum computing algorithm*", B. Bhoy and P. Stevenson, *[in preparation for JOSS](https://github.com/BhartiBhoy/QuantComp_58Ni/blob/master/Joss_58Ni.md)*
+
+**147.** "*Maximal octupole collectivity across the Z = 64 isotopic chain: B(E3) values in <sup>150</sup>Gd*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G. H. Bhat, R. N. Mao, K. Nomura, C. Costache, Z. P. Li, N. Mǎrginean, C. Mihai, T. Naz, Zs. Podolyák, P. H. Regan, A. E. Turturicǎ, R. Borcea, M. Boromiza, A. Bruce, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N. M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R. E. Mihai, A. Mitu, N. Nazir, A. Negret, C. R. Nițǎ, E. O'Sullivan, C. Petrone, S. E. Poulton, J. A. Sheikh, H. K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ukeniuc, *[submitted](https://authors.aps.org/Submissions/status?accode=LU20235&author=Pascu)*
 
 **146.** "*Collectivity in a doubly-magic system: Four-fold Coulomb excitation of <sup>208</sup>Pb*", J. Henderson, J. Heery, M. Rocchini, M. Siciliano, N. Sensharma, A. D. Ayangeakaa, R. V. F. Janssens, T. Kowalewski, Abhishek, P. D. Stevenson, E. Yüksel, B. A. Brown, T. R. Rodriguez, L. M. Robledo, C. Y. Wu, S. Kisyov, C. Müller-Gatermann, V. Bildstein, L. Canete, C. Campbell, S. Carmichael, M. P. Carpenter, W. N. Catford, P. Copp, C. Cousins, M. Devlin, D. T. Doherty, P. Garrett, L. P. Gaffney, K. Hadyńska-Klęk, D. Hartley, S. Hicks, H. Jayatissa, D. Kalaydjieva, F. Kondev, D. Lascar, T. Lauritsen, G. Lotay, N. Marchini, M. Matejska-Minda, S. Nandi, A. Nannini, C. O'Shea, S. Pascu, C. Paxman, A. Perkoff, E. Peters, Z. Podolyák, A. Radich, R. Rathod, B. J. Reed, P. H. Regan, W. Reviol, E. Rubino, R. Russell, D. Seweryniak, J. Vanhoy, G. L. Wilson, K. Wrzosek-Lipska, S. Yates, and I. Zanon, *[submitted](https://authors.aps.org/Submissions/status?accode=LU19501&author=Henderson)*
 
