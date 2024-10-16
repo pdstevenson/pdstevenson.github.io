@@ -32,7 +32,7 @@ S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. U
 
 **146.** "*Collectivity in a doubly-magic system: Four-fold Coulomb excitation of <sup>208</sup>Pb*", J. Henderson, J. Heery, M. Rocchini, M. Siciliano, N. Sensharma, A. D. Ayangeakaa, R. V. F. Janssens, T. Kowalewski, Abhishek, P. D. Stevenson, E. Yüksel, B. A. Brown, T. R. Rodriguez, L. M. Robledo, C. Y. Wu, S. Kisyov, C. Müller-Gatermann, V. Bildstein, L. Canete, C. Campbell, S. Carmichael, M. P. Carpenter, W. N. Catford, P. Copp, C. Cousins, M. Devlin, D. T. Doherty, P. Garrett, L. P. Gaffney, K. Hadyńska-Klęk, D. Hartley, S. Hicks, H. Jayatissa, D. Kalaydjieva, F. Kondev, D. Lascar, T. Lauritsen, G. Lotay, N. Marchini, M. Matejska-Minda, S. Nandi, A. Nannini, C. O'Shea, S. Pascu, C. Paxman, A. Perkoff, E. Peters, Z. Podolyák, A. Radich, R. Rathod, B. J. Reed, P. H. Regan, W. Reviol, E. Rubino, R. Russell, D. Seweryniak, J. Vanhoy, G. L. Wilson, K. Wrzosek-Lipska, S. Yates, and I. Zanon, *[submitted](https://authors.aps.org/Submissions/status?accode=LU19501&author=Henderson)*
 
-**145.** "*Comment on "Full quantum eigensolvers based on variance" by Li et al.*", P. D. Stevenson, [preprint](/files/li-comment.pdf) ✅
+**145.** "*Comment on "Full quantum eigensolvers based on variance" by Li et al.*", P. D. Stevenson, [report, University of Surrey doi:10.15126/901326 (2024)](https://doi.org/10.15126/901326) ✅
 
 **144.** "*Exploiting symmetries in nuclear Hamiltonians for ground state preparation*", Joe Gibbs, Paul Stevenson, and Zoë Holmes, *submitted to Quantum Machine Intelligence*, [arxiv:2402.10277](https://arxiv.org/abs/2402.10277) ✅ [@scirate](https://scirate.com/arxiv/2402.10277)
 
