@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Professor in the School of Maths and Physics of the [University of Surrey](http://www.surrey.ac.uk),  member of the [Nuclear Physics Group](https://www.surrey.ac.uk/theoretical-nuclear-physics-group) and the [Quantum Foundations and Technology](https://www.surrey.ac.uk/quantum-foundations-centre) group, and an AWE William Penney Fellow.
 
-My research is mainly in theoretical nuclear physics and quantum computing, with some occasional projects in quantum biology and chemsitry, and in computational methods.  Further details can be found in the [Research](/research) tabs, with a full list of outputs in the [Publications](/publications) tab.
+My research is mainly in theoretical nuclear physics and quantum computing, with some occasional projects in quantum biology and chemsitry, and in computational methods.  Further details can be found in the [Research](/research) tabs, with a full list of outputs in the [Publications](/publications) tab.  Here is my [IMDB page](https://www.imdb.com/name/nm7933575/?ref_=fn_al_nm_15).
 
 I write a blog about nuclear physics (loosely) called [blog of the isotopes](http://blogoftheisotopes.blogspot.com) and contribute occassionally to blogs about [plotting](http://spplotters.blogspot.com), and the [Physics Department's blog](http://blogs.surrey.ac.uk/physics).
 
