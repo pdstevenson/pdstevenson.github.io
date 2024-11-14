@@ -23,7 +23,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **150.** "*Nonlinear Nuclear Response Through Time-Dependent Hartree-Fock*", P. D. Stevenson, *proceedings of CNR24, submitted* [preprint](/files/stevenson-cnr24.pdf) ✅
 
-**149.** "*Shell-model study of <sup>58</sup>Ni using quantum computing algorithm*", B. Bhoy and P. Stevenson, *[in preparation for JOSS](https://github.com/BhartiBhoy/QuantComp_58Ni/blob/master/Joss_58Ni.md)*
+**149.** "*Shell-model study of <sup>58</sup>Ni using quantum computing algorithm*", B. Bhoy and P. Stevenson, *[in preparation for JOSS](https://github.com/BhartiBhoy/QuantComp_58Ni/blob/master/paper/paper.md)*
 
 **148.** "*Collective Excitations in <sup>150</sup>Gd*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G.H. Bhat, R.N Mao, K. Nomura, C. Costache, Z.P. Li, N. Mǎrginean, C. Mihai, T. Naz, N. Paar, Zs. Podolyák, P.H. Regan, A.E. Turturicǎ, R. Borcea, M. Boromiza, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N.M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R.E. Mihai, A. Mitu, N. Nazir, A. Negret, C.R. Nițǎ, E.B. O’Sullivan, C. Petrone,
 S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ujeniuc, *[submitted](https://authors.aps.org/Submissions/status?accode=CV10863&author=Pascu)*
