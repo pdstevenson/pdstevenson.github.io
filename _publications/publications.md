@@ -38,7 +38,7 @@ S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. U
 
 **143.** "*Solving coupled Non-linear Schrödinger Equations via Quantum Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili and Paul Stevenson, *accepted for publication in EPJ ST*, [arxiv:2402.01623](https://arxiv.org/abs/2402.01623) ✅ 
 
-**142.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, *submitted to Mathematical Problems of Computer Science* [arxiv: 2408.11606](https://doi.org/10.48550/arXiv.2408.11606) ✅ 
+**142.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, *[submitted](http://mpcs.sci.am/index.php/mpcs/authorDashboard/submission/854) to Mathematical Problems of Computer Science* [arxiv: 2408.11606](https://doi.org/10.48550/arXiv.2408.11606) ✅ 
 
 **141.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, [arxiv:2403.12539](http://arxiv.org/abs/2403.12539) ✅ 
 
