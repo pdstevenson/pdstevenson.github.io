@@ -2,7 +2,7 @@
 title: 'Solving coupled non-linear differential equations on quantum computer'
 date: 2024-09-25
 permalink: /posts/2024/11/epjspaper/
-tags: Paper; quantum computing; nuclear physics
+tags: Paper; 'quantum computing'; 'nuclear physics'
 ---
 
 This week, we (PhD student Lance, co-supervisor Jim, and me) have published a new paper on a method of solution of non-linear coupled Schrödinger equtions on quantum computer.  
