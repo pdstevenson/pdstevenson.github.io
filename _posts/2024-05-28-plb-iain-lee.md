@@ -2,7 +2,7 @@
 title: 'New Paper in Phys. Lett. B'
 date: 2024-05-28
 permalink: /posts/2024/05/iain-lee-plb-paper/
-tags:
+tags: Paper; 'nuclear physics'
 ---
 
 A new paper appeared today in Physics Letters B, [here](https://www.sciencedirect.com/science/article/pii/S0370269324003137), which features the work of now-graduated PhD student Iain Lee, on friction in heavy ion reactions.
