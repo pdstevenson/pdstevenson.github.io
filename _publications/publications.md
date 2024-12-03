@@ -36,7 +36,7 @@ S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. U
 
 **144.** "*Exploiting symmetries in nuclear Hamiltonians for ground state preparation*", Joe Gibbs, Paul Stevenson, and Zoë Holmes, *submitted to Quantum Machine Intelligence*, [arxiv:2402.10277](https://arxiv.org/abs/2402.10277) ✅ 
 
-**143.** "*Solving coupled Non-linear Schrödinger Equations via Quantum Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili and Paul Stevenson, [ Eur. Phys. J. Spec. Top., *in press* (2024)](https://doi.org/10.1140/epjs/s11734-024-01384-z) ✅, [arxiv:2402.01623](https://arxiv.org/abs/2402.01623) ✅ 
+**143.** "*Solving coupled Non-linear Schrödinger Equations via Quantum Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili and Paul Stevenson, [ Eur. Phys. J. Spec. Top., *in press* (2024)](https://doi.org/10.1140/epjs/s11734-024-01384-z) ✅, [arxiv:2402.01623](https://arxiv.org/abs/2402.01623) ✅ <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="171394071"></div>
 
 **142.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, *[submitted](http://mpcs.sci.am/index.php/mpcs/authorDashboard/submission/854) to Mathematical Problems of Computer Science* [arxiv: 2408.11606](https://doi.org/10.48550/arXiv.2408.11606) ✅ 
 
