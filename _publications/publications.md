@@ -9,7 +9,9 @@ You can also find my publications at [google scholar](https://scholar.google.com
 
 A ✅ following a link indicates freely-available content.  Links followed by ❌ are to subscription journal versions or other paid content.  For articles where I do not provide a link to a free version, a free version is likely still available and can most easily be found through Google Scholar or Unpaywall. 
 
-Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing.
+Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing
+
+**156.** "*The alpha-particle condensation in diluted <sup>16</sup>O at finite temperature*", Miriam Davies, Esra Yüksel, Jean-Paul Ebran, Elias Khan, and Paul Stevenson, *in preparation*
 
 **155.** "*Nuclear response through time-series forecasting*", Prakruthi Kodihalli Manjunatha and Paul Stevenson, *in preparation*
 
