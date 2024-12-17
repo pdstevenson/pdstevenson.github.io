@@ -7,6 +7,8 @@ author_profile: true
 
 Here is an (incomplete) list of talks and poster presentations
 
+**2024-04.** Dec 2024: "Imaginary Time Mean-Field and Shell Model on Quantum Computers", 5th Gogny Conference, Paris, France (invited)
+
 **2024-03.** Jun 2024: "Porting Sky3d to GPU", DiRAC Hackathon, Edinburgh
 
 **2024-02.** Apr 2024: "Variational Eigensolvers for Nuclear Structure", University of New Brunswick online seminar (invited)
