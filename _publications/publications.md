@@ -244,53 +244,53 @@ S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. U
 
 **42.** "Probing single-particle structures beyond the proton drip line", R. D. Page, L. Bianco, I. G. Darby, D. T. Joss, T. Grahn, R.-D. Herzberg, J. Pakarinen, J. Thomson, J. Uusitalo, S. Eeckhaudt, P. T. Greenlees, P. M. Jones, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, A.-P. Leppänen, M. Nyman, P. Rahkila, J. Sarén, C. Scholey, A. Steer, M. Venhart, J. Simpson, J. S. Al-Khalili, A. J. Cannon, P. D. Stevenson, S. Erturk, B. Gall and B. Hadinia, [AIP Conf. Proc. 961, 137 (2007)](http://dx.doi.org/10.1063/1.2827246) ❌
 
-**41.** "Nuclear Theory at the University of Surrey", J. S. Al-khalili, W. Gelletly, R. C. Johnson, M. Oi, P. D. Stevenson, I. J. Thompson, N. Timofeyuk, J. A. Tostevin, P. M. Walker & Q. Zhao, [Nuclear Physics News 13, 4-11 (2006)](https://doi.org/10.1080/10506890308230486) ❌
+**41.** "Dipole Response in Neutron-Rich Magnesium", M. P. Brine, P. D. Stevenson, J. A. Maruhn and P.-G. Reinhard, [Int. J. Mod. Phys. E 15, 1417 (2006)](http://dx.doi.org/10.1142/S0218301306005009) ❌
 
-**40.** "Dipole Response in Neutron-Rich Magnesium", M. P. Brine, P. D. Stevenson, J. A. Maruhn and P.-G. Reinhard, [Int. J. Mod. Phys. E 15, 1417 (2006)](http://dx.doi.org/10.1142/S0218301306005009) ❌
+**40.** "Probing the limit of nuclear existence: Proton emission from 159Re", D. T. Joss, I. G. Darby, R. D. Page, J. Uusitalo, S. Eeckhaudt, T. Grahn, P. T. Greenlees, P. M. Jones, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, A.-P. Leppänen, M. Nyman, J. Pakarinen, P. Rahkila, J. Sarén, C. Scholey, A. Steer, A. J. Cannon, P. D. Stevenson, J. S. Al-Khalili, S. Ertürk, M. Venhart, B. Gall, B. Hadinia and J. Simpson, [Phys. Lett. B 641, 34 (2006)](http://dx.doi.org/10.1016/j.physletb.2006.08.014) ❌
 
-**39.** "Probing the limit of nuclear existence: Proton emission from 159Re", D. T. Joss, I. G. Darby, R. D. Page, J. Uusitalo, S. Eeckhaudt, T. Grahn, P. T. Greenlees, P. M. Jones, R. Julin, S. Juutinen, S. Ketelhut, M. Leino, A.-P. Leppänen, M. Nyman, J. Pakarinen, P. Rahkila, J. Sarén, C. Scholey, A. Steer, A. J. Cannon, P. D. Stevenson, J. S. Al-Khalili, S. Ertürk, M. Venhart, B. Gall, B. Hadinia and J. Simpson, [Phys. Lett. B 641, 34 (2006)](http://dx.doi.org/10.1016/j.physletb.2006.08.014) ❌
+**39.** "Spin-Excitation Mechanisms in Skyrme-Force Time-Dependent Hartree-Fock", J. A. Maruhn, P.-G. Reinhard, P. D. Stevenson and M. R. Strayer, [Phys. Rev. C 74, 027601 (2006)](http://dx.doi.org/10.1103/PhysRevC.74.027601) ❌
 
-**38.** "Spin-Excitation Mechanisms in Skyrme-Force Time-Dependent Hartree-Fock", J. A. Maruhn, P.-G. Reinhard, P. D. Stevenson and M. R. Strayer, [Phys. Rev. C 74, 027601 (2006)](http://dx.doi.org/10.1103/PhysRevC.74.027601) ❌
+**38.** "Shape-driving effects in the triaxial nucleus 128Xe", J. N. Orce, A. M. Bruce, A. Emmanouilidis, A. P. Byrne, G. D. Dracoulis, T. Kibédi, M. Caamaño, H. El-Masri, C. J. Pearson, Zs. Podolyák, P. D. Stevenson, P. M. Walker, F. R. Xu, D. M. Cullen, and C. Wheldon , [Phys. Rev. C 74, 034318 (2006)](http://dx.doi.org/10.1103/PhysRevC.74.034318) ❌
 
-**37.** "Shape-driving effects in the triaxial nucleus 128Xe", J. N. Orce, A. M. Bruce, A. Emmanouilidis, A. P. Byrne, G. D. Dracoulis, T. Kibédi, M. Caamaño, H. El-Masri, C. J. Pearson, Zs. Podolyák, P. D. Stevenson, P. M. Walker, F. R. Xu, D. M. Cullen, and C. Wheldon , [Phys. Rev. C 74, 034318 (2006)](http://dx.doi.org/10.1103/PhysRevC.74.034318) ❌
+**37.** "Deformed Halo Nuclei in Mean-Field Approach, F. R. Xu, J. C. Pei and P. D. Stevenson, Proceedings of 6th China-Japan Joint Nuclear Physics Symposium, [AIP Conference Proceedings 865, 96 (2006)](http://dx.doi.org/10.1063/1.2398834) ❌
 
-**36.** "Deformed Halo Nuclei in Mean-Field Approach, F. R. Xu, J. C. Pei and P. D. Stevenson, Proceedings of 6th China-Japan Joint Nuclear Physics Symposium, [AIP Conference Proceedings 865, 96 (2006)](http://dx.doi.org/10.1063/1.2398834) ❌
+**36.** "Simulating the quantum Zeno and anti-Zeno effects during position measurements", L. E. Edney, P. D. Stevenson and J. S. Al-Khalili, SEPS Undergraduate Physics Journal 1, 4 (2006)
 
-**35.** "Simulating the quantum Zeno and anti-Zeno effects during position measurements", L. E. Edney, P. D. Stevenson and J. S. Al-Khalili, SEPS Undergraduate Physics Journal 1, 4 (2006)
+**35.** "Pushing nuclei to the extreme", Paul Stevenson and Phil Walker, Physics World, April (2006)
 
-**34.** "Pushing nuclei to the extreme", Paul Stevenson and Phil Walker, Physics World, April (2006)
+**34.** "Reaction cross-sections for light nuclei on 12C using relativistic mean field formalism", B. K. Sharma, S. K. Patra, Raj K. Gupta, A. Shulka, P. Arumagam, P. D. Stevenson and W. Greiner, [J. Phys. G 32, 2089 (2006)](http://dx.doi.org/10.1088/0954-3899/32/11/004) ❌
 
-**33.** "Reaction cross-sections for light nuclei on 12C using relativistic mean field formalism", B. K. Sharma, S. K. Patra, Raj K. Gupta, A. Shulka, P. Arumagam, P. D. Stevenson and W. Greiner, [J. Phys. G 32, 2089 (2006)](http://dx.doi.org/10.1088/0954-3899/32/11/004) ❌
+**33.** "Clustering in superheavy nuclei within the relativistic mean-field approach", B. K. Sharma, P. Arumugam, S. K. Patra, P. D. Stevenson, Raj K. Gupta and W. Greiner, [J. Phys. G 32, L1 (2006)](http://dx.doi.org/10.1088/0954-3899/32/1/L01) ❌
 
-**32.** "Clustering in superheavy nuclei within the relativistic mean-field approach", B. K. Sharma, P. Arumugam, S. K. Patra, P. D. Stevenson, Raj K. Gupta and W. Greiner, [J. Phys. G 32, L1 (2006)](http://dx.doi.org/10.1088/0954-3899/32/1/L01) ❌
+**32.** "Deformation effects on the structure of N=7 halo nuclei", J. C. Pei, F. R. Xu and P. D. Stevenson, [Nucl. Phys. A 765, 29-38 (2006)](http://dx.doi.org/10.1016/j.nuclphysa.2005.10.004) ❌
 
-**31.** "Deformation effects on the structure of N=7 halo nuclei", J. C. Pei, F. R. Xu and P. D. Stevenson, [Nucl. Phys. A 765, 29-38 (2006)](http://dx.doi.org/10.1016/j.nuclphysa.2005.10.004) ❌
+**31.** "Role of boundary conditions in dynamic studies of nuclear giant resonances", P.-G. Reinhard, P. D. Stevenson, D. Almehed. J. A. Maruhn and M. R. Strayer, [Phys. Rev. E 73, 036709 (2006)](http://dx.doi.org/10.1103/PhysRevE.73.036709) ❌
 
-**30.** "Role of boundary conditions in dynamic studies of nuclear giant resonances", P.-G. Reinhard, P. D. Stevenson, D. Almehed. J. A. Maruhn and M. R. Strayer, [Phys. Rev. E 73, 036709 (2006)](http://dx.doi.org/10.1103/PhysRevE.73.036709) ❌
+**30.** "Shape evolution in the neutron-rich tungsten region", P. D. Stevenson, M. P. Brine, Zs. Podolyák, P. H. Regan, P. M. Walker and J. Rikovska Stone, [Phys. Rev. C 72, 047303 (2005)](http://dx.doi.org/10.1103/PhysRevC.72.047303) ❌
 
-**29.** "Shape evolution in the neutron-rich tungsten region", P. D. Stevenson, M. P. Brine, Zs. Podolyák, P. H. Regan, P. M. Walker and J. Rikovska Stone, [Phys. Rev. C 72, 047303 (2005)](http://dx.doi.org/10.1103/PhysRevC.72.047303) ❌
+**29.** "Densities of superheavy nuclei at closed shells ", F. R. Xu, J. C. Pei and P. D. Stevenson, [J. Phys. G 31, S1541 (2005)](http://dx.doi.org/10.1088/0954-3899/31/10/028) ❌
 
-**28.** "Densities of superheavy nuclei at closed shells ", F. R. Xu, J. C. Pei and P. D. Stevenson, [J. Phys. G 31, S1541 (2005)](http://dx.doi.org/10.1088/0954-3899/31/10/028) ❌
+**28.** "Properties of Isovector Giant Monopole Resonances", D. Almehed and P. D. Stevenson, [J. Phys. G 31, S1819 (2005)](http://dx.doi.org/10.1088/0954-3899/31/10/079) ❌
 
-**27.** "Properties of Isovector Giant Monopole Resonances", D. Almehed and P. D. Stevenson, [J. Phys. G 31, S1819 (2005)](http://dx.doi.org/10.1088/0954-3899/31/10/079) ❌
+**27.** "Dipole giant resonances in deformed heavy nuclei", J. A. Maruhn, P.-G. Reinhard, P. D. Stevenson, J. Rikovska Stone and M. R. Strayer, [Phys. Rev. C 71, 064328 (2005)](http://dx.doi.org/10.1103/PhysRevC.71.064328) ❌
 
-**26.** "Dipole giant resonances in deformed heavy nuclei", J. A. Maruhn, P.-G. Reinhard, P. D. Stevenson, J. Rikovska Stone and M. R. Strayer, [Phys. Rev. C 71, 064328 (2005)](http://dx.doi.org/10.1103/PhysRevC.71.064328) ❌
+**26.** "Density distributions of superheavy nuclei", J. C. Pei, F. R. Xu and P. D. Stevenson, [Phys. Rev. C 71, 034302 (2005)](http://dx.doi.org/10.1103/PhysRevC.71.034302) 
 
-**25.** "Density distributions of superheavy nuclei", J. C. Pei, F. R. Xu and P. D. Stevenson, [Phys. Rev. C 71, 034302 (2005)](http://dx.doi.org/10.1103/PhysRevC.71.034302) 
+**25.** "Collisions of 16O+16O in a Full Skyrme-Force TDHF Treatment", J. A. Maruhn, P.-G. Reinhard and P. D. Stevenson, GSI Annual Report (2005)
 
-**24.** "Collisions of 16O+16O in a Full Skyrme-Force TDHF Treatment", J. A. Maruhn, P.-G. Reinhard and P. D. Stevenson, GSI Annual Report (2005)
+**24.** "Mean-field approach to shape changes in the neutron-rich tungsten region", P. D. Stevenson and M. P. Brine, [Proceedings of Workhop on Symmetries and Low Energy Phase Transitions, Camerino, Italy (2005)](http://pdstevenson.github.io/files/camerino-2005.pdf) ✅
 
-**23.** "Mean-field approach to shape changes in the neutron-rich tungsten region", P. D. Stevenson and M. P. Brine, [Proceedings of Workhop on Symmetries and Low Energy Phase Transitions, Camerino, Italy (2005)](http://pdstevenson.github.io/files/camerino-2005.pdf) ✅
+**23.** "Isoscalar and Isovector Giant Monopole Resonances Using TDHF", D. Almehed and P. D. Stevenson, [AIP Conference Proceedings 802 305 (2005)](http://dx.doi.org/10.1063/1.2140673) ❌
 
-**22.** "Isoscalar and Isovector Giant Monopole Resonances Using TDHF", D. Almehed and P. D. Stevenson, [AIP Conference Proceedings 802 305 (2005)](http://dx.doi.org/10.1063/1.2140673) ❌
+**22.** "Giant Resonances in Normal and Exotic Nuclei", P. D. Stevenson, D. Almehed, P.-G. Reinhard, J. A. Maruhn, J. Rikovska Stone and M. R. Strayer, [Proceedings of Nuclear Structure Physics at the Extremes, Shimla, India (2005)](http://pdstevenson.github.io/files/stevenson-shimla.pdf) ✅
 
-**21.** "Giant Resonances in Normal and Exotic Nuclei", P. D. Stevenson, D. Almehed, P.-G. Reinhard, J. A. Maruhn, J. Rikovska Stone and M. R. Strayer, [Proceedings of Nuclear Structure Physics at the Extremes, Shimla, India (2005)](http://pdstevenson.github.io/files/stevenson-shimla.pdf) ✅
+**21.** "NUSTAR 2005", Paddy Regan and Paul Stevenson, Editorial, [J. Phys. G 31, E01 (2005)](http://dx.doi.org/10.1088/0954-3899/31/10/E01) ✅
 
-**20.** "NUSTAR 2005", Paddy Regan and Paul Stevenson, Editorial, [J. Phys. G 31, E01 (2005)](http://dx.doi.org/10.1088/0954-3899/31/10/E01) ✅
+**20.** "Isomers in neutron-rich A≈190 nuclides from 208Pb fragmentation", M. Caamaño, P. M. Walker, P. H. Regan, M. Pfützner, Zs. Podolyák, J. Gerl, M. Hellström, P. Mayet, M.N. Mineva, A. Aprahamian, J. Benlliure, A.M . Bruce, P. A. Butler, D. Cortina Gil, D. M. Cullen, J. Döring, T. Enqvist, C. Fox, J. Garcés Narro, H. Geissel, W. Gelletly, J. Giovinazzo, M. Górska, H. Grawe, R. Grzywacz, A. Kleinböhl, W. Korten, M. Lewitowicz, R. Lucas, H. Mach, C. D. O'Leary, F. De Oliveira, C. J. Pearson, F. Rejmund, M. Rejmund, M. Sawicka, H. Schaffner, C. Schlegel, K. Schmidt, K.-H. Schmidt, P. D. Stevenson, Ch. Theisen, F. Vivès, D. D. Warner, C. Wheldon, H. J. Wollersheim, S. Wooding, F. Xu and O. Yordanov, [Eur. Phys. J. A23, 201-215 (2005)](http://dx.doi.org/10.1140/epja/i2004-10079-7) ❌
 
-**19.** "Isomers in neutron-rich A≈190 nuclides from 208Pb fragmentation", M. Caamaño, P. M. Walker, P. H. Regan, M. Pfützner, Zs. Podolyák, J. Gerl, M. Hellström, P. Mayet, M.N. Mineva, A. Aprahamian, J. Benlliure, A.M . Bruce, P. A. Butler, D. Cortina Gil, D. M. Cullen, J. Döring, T. Enqvist, C. Fox, J. Garcés Narro, H. Geissel, W. Gelletly, J. Giovinazzo, M. Górska, H. Grawe, R. Grzywacz, A. Kleinböhl, W. Korten, M. Lewitowicz, R. Lucas, H. Mach, C. D. O'Leary, F. De Oliveira, C. J. Pearson, F. Rejmund, M. Rejmund, M. Sawicka, H. Schaffner, C. Schlegel, K. Schmidt, K.-H. Schmidt, P. D. Stevenson, Ch. Theisen, F. Vivès, D. D. Warner, C. Wheldon, H. J. Wollersheim, S. Wooding, F. Xu and O. Yordanov, [Eur. Phys. J. A23, 201-215 (2005)](http://dx.doi.org/10.1140/epja/i2004-10079-7) ❌
+**19.** "Giant Resonances from TDHF", P. D. Stevenson, M. R. Strayer, J. Rikovska Stone and W. G. Newton, [Int. J. Mod. Phys. E, 13, 181 (2004)](http://dx.doi.org/10.1142/S0218301304001928) ❌ [arxiv: nucl-th/0310020 ](http://arxiv.org/abs/nucl-th/0310020) ✅
 
-**18.** "Giant Resonances from TDHF", P. D. Stevenson, M. R. Strayer, J. Rikovska Stone and W. G. Newton, [Int. J. Mod. Phys. E, 13, 181 (2004)](http://dx.doi.org/10.1142/S0218301304001928) ❌ [arxiv: nucl-th/0310020 ](http://arxiv.org/abs/nucl-th/0310020) ✅
+**18.** "Nuclear Theory at the University of Surrey", J. S. Al-khalili, W. Gelletly, R. C. Johnson, M. Oi, P. D. Stevenson, I. J. Thompson, N. Timofeyuk, J. A. Tostevin, P. M. Walker & Q. Zhao, [Nuclear Physics News 13, 4-11 (2006)](https://doi.org/10.1080/10506890308230486) ❌
 
 **17.** "Automatic generation of vacuum amplitude many-body perturbation series", P. D. Stevenson, [Int. J. Mod. Phys. C 14, 1135 (2003)](http://dx.doi.org/10.1142/S0129183103005236) ❌ [arxiv: physics/0303069](http://arxiv.org/abs/physics/0303069) ✅
 
