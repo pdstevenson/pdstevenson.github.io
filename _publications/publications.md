@@ -34,17 +34,17 @@ S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. U
 
 **147.** "*Collectivity in a doubly-magic system: Four-fold Coulomb excitation of <sup>208</sup>Pb*", J. Henderson, J. Heery, M. Rocchini, M. Siciliano, N. Sensharma, A. D. Ayangeakaa, R. V. F. Janssens, T. Kowalewski, Abhishek, P. D. Stevenson, E. Yüksel, B. A. Brown, T. R. Rodriguez, L. M. Robledo, C. Y. Wu, S. Kisyov, C. Müller-Gatermann, V. Bildstein, L. Canete, C. Campbell, S. Carmichael, M. P. Carpenter, W. N. Catford, P. Copp, C. Cousins, M. Devlin, D. T. Doherty, P. Garrett, L. P. Gaffney, K. Hadyńska-Klęk, D. Hartley, S. Hicks, H. Jayatissa, D. Kalaydjieva, F. Kondev, D. Lascar, T. Lauritsen, G. Lotay, N. Marchini, M. Matejska-Minda, S. Nandi, A. Nannini, C. O'Shea, S. Pascu, C. Paxman, A. Perkoff, E. Peters, Z. Podolyák, A. Radich, R. Rathod, B. J. Reed, P. H. Regan, W. Reviol, E. Rubino, R. Russell, D. Seweryniak, J. Vanhoy, G. L. Wilson, K. Wrzosek-Lipska, S. Yates, and I. Zanon, *[accepted for publication in Phys. Rev. Lett.](https://authors.aps.org/Submissions/status?accode=LU19501&author=Henderson)*
 
-**146.** "*Comment on "Full quantum eigensolvers based on variance" by Li et al.*", P. D. Stevenson, [report, University of Surrey (2024)](https://doi.org/10.15126/901326) doi:10.15126/901326 ✅
+**146.** "*Exploiting symmetries in nuclear Hamiltonians for ground state preparation*", Joe Gibbs, Paul Stevenson, and Zoë Holmes, *submitted to Quantum Machine Intelligence*, [arxiv:2402.10277](https://arxiv.org/abs/2402.10277) ✅ 
 
-**145.** "*Exploiting symmetries in nuclear Hamiltonians for ground state preparation*", Joe Gibbs, Paul Stevenson, and Zoë Holmes, *submitted to Quantum Machine Intelligence*, [arxiv:2402.10277](https://arxiv.org/abs/2402.10277) ✅ 
+**145.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, *[submitted](http://mpcs.sci.am/index.php/mpcs/authorDashboard/submission/854) to Mathematical Problems of Computer Science* [arxiv: 2408.11606](https://doi.org/10.48550/arXiv.2408.11606) ✅ 
 
-**144.** "*Solving coupled Non-linear Schrödinger Equations via Quantum Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili and Paul Stevenson, [ Eur. Phys. J. Spec. Top., *in press* (2024)](https://doi.org/10.1140/epjs/s11734-024-01384-z) ✅, [arxiv:2402.01623](https://arxiv.org/abs/2402.01623) ✅ 
+**144.** "*Variance Minimisation of the Lipkin-Meshkov-Glick Model on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead, [*submitted*](https://authors.aps.org/Submissions/status?accode=CQ10925&author=Stevenson) to Phys. Rev. C, [arxiv:2403.08625](https://arxiv.org/abs/2403.08625) ✅ 
 
-**143.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, *[submitted](http://mpcs.sci.am/index.php/mpcs/authorDashboard/submission/854) to Mathematical Problems of Computer Science* [arxiv: 2408.11606](https://doi.org/10.48550/arXiv.2408.11606) ✅ 
+**143.** "*Comment on "Full quantum eigensolvers based on variance" by Li et al.*", P. D. Stevenson, [report, University of Surrey (2024)](https://doi.org/10.15126/901326) doi:10.15126/901326 ✅
 
-**142.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, [arxiv:2403.12539](http://arxiv.org/abs/2403.12539) ✅ 
+**142.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, [arxiv:2403.12539](http://arxiv.org/abs/2403.12539) (2024) ✅ 
 
-**141.** "*Variance Minimisation of the Lipkin-Meshkov-Glick Model on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead, [*submitted*](https://authors.aps.org/Submissions/status?accode=CQ10925&author=Stevenson) to Phys. Rev. C, [arxiv:2403.08625](https://arxiv.org/abs/2403.08625) ✅ 
+**141.** "*Solving coupled Non-linear Schrödinger Equations via Quantum Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili and Paul Stevenson, [ Eur. Phys. J. Spec. Top., *in press* (2024)](https://doi.org/10.1140/epjs/s11734-024-01384-z) ✅, [arxiv:2402.01623](https://arxiv.org/abs/2402.01623) ✅ 
 
 **140.** "*Sky3d v1.2 update*", Abhishek, Paul Stevenson, Yue Shi, Esra Yüksel, Sait Umar, [Comput. Phys. Commun. 301, 109239 (2024)](https://doi.org/10.1016/j.cpc.2024.109239) ✅ [arxiv:2405.08531](https://arxiv.org/abs/2405.08531) ✅ 
 
