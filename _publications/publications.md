@@ -42,7 +42,7 @@ S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. U
 
 **143.** "*Comment on "Full quantum eigensolvers based on variance" by Li et al.*", P. D. Stevenson, [report, University of Surrey (2024)](https://doi.org/10.15126/901326) <span style="color:LightGray">doi:10.15126/901326</span> ✅
 
-**142.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, [arxiv:2403.12539](http://arxiv.org/abs/2403.12539) (2024) ✅ 
+**142.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, [arxiv:2403.12539 (2024)](http://arxiv.org/abs/2403.12539) ✅ 
 
 **141.** "*Solving coupled Non-linear Schrödinger Equations via Quantum Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili and Paul Stevenson, [ Eur. Phys. J. Spec. Top., *in press* (2024)](https://doi.org/10.1140/epjs/s11734-024-01384-z) ✅, [arxiv:2402.01623](https://arxiv.org/abs/2402.01623) ✅ 
 
