@@ -23,7 +23,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **152.** "*TDHF and QRPA octupole strength functions in Zr, Pb, and Hg isotopes*", Abhishek, Esra Yüksel, and Paul Stevenson, *in preparation*
 
-**151.** "*Nonlinear Nuclear Response Through Time-Dependent Hartree-Fock*", P. D. Stevenson, *proceedings of CNR24, submitted* [preprint](/files/stevenson-cnr24.pdf) ✅
+**151.** "*Nonlinear Nuclear Response Through Time-Dependent Hartree-Fock*", P. D. Stevenson, *accepted for publication in EPJ Web of Conferences* [preprint](/files/stevenson-cnr24.pdf) ✅
 
 **150.** "*Shell-model study of <sup>58</sup>Ni using quantum computing algorithm*", B. Bhoy and P. Stevenson, *[in preparation for JOSS](https://github.com/BhartiBhoy/QuantComp_58Ni/blob/master/paper/paper.md)*
 
