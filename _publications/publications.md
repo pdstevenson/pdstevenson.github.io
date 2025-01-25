@@ -11,6 +11,8 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing
 
+**158.** "*Isomers in <sup>210,212</sup>Hg, <sup>206</sup>Pt: seniority conservation in the second νg<sub>9/2</sub> orbital and persistence of the N=126 shell closure below Z=82*", J. Wu, A. I. Morales, T. T. Yeung, S. Nishamura, A. Marqués, M. Liu, C. Yuan, Z. Podolyák, T. Davinson, N. Fukuda, T. Isobe, M. Niikura, V. H. Phong, T. R. Rodríguez, K. P. Rykaczewski, J. L. Tain, R. Yokoyama, Abishek, G. Alcalá, A. Algora, J. M. Allmond, J. Agramunt, C. Appleton, H. Baba, R. Caballero-Folch, F. Calvino, M. P. Carpenter, I. Dillmann, A. Estrade, T. Gao, C. J. Griffin, R. K. Grzywacz, O. Hall, Y. Hirayama, B. M. Hue, E. Ideguchi, G. Kiss, K. Kokubun, F. G. Kondev, R. Mizuno, M. Mukai, N. Nepal, M. N. Nurhafiza, S. Ota, S. E. A. Orrigo, M. Pallás, B. C. Rasco, D. Rodríguez-García, H. Sakurai, P. Stevenson, L. Sexton, Y. Shimizu, H. Takeda, A. Tarifeño-Saldivia, A. Tolosa-Delgado, J. A. Victoria, A. Vitéz-Sveiczer, Y. X. Watanabe, P. J. Woods, J. M. Yap, and E. Yüksel, *in preparation*
+
 **157.** "*The alpha-particle condensation in diluted <sup>16</sup>O at finite temperature*", Miriam Davies, Esra Yüksel, Jean-Paul Ebran, Elias Khan, and Paul Stevenson, *in preparation*
 
 **156.** "*Nuclear response through time-series forecasting*", Prakruthi Kodihalli Manjunatha and Paul Stevenson, *in preparation*
