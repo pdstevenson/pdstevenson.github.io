@@ -17,7 +17,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **156.** "*Nuclear response through time-series forecasting*", Prakruthi Kodihalli Manjunatha and Paul Stevenson, *in preparation*
 
-**155.** "*Time-dependent wave-packet approach to the <sup>12</sup>C+<sup>12</sup>C reaction using DC-TDHF potentials*", Grant Close, Alexis Diaz-Torres and Paul Stevenson, [arXiv:2502.11240](https://arxiv.org/abs/2502.11240) ✅
+**155.** "*Time-dependent wave-packet approach to the <sup>12</sup>C+<sup>12</sup>C reaction using DC-TDHF potentials*", Grant Close, Alexis Diaz-Torres and Paul Stevenson, *submitted to Phys. Rev. Lett., [arXiv:2502.11240](https://arxiv.org/abs/2502.11240) ✅
 
 **154.** "*In-beam gamma-ray spectroscopy of Ra-204 and the transition towards strongly deformed systems*", J. Heery *et al.*, *in preparation*
 
