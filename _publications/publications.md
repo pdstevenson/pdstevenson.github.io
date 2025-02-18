@@ -39,7 +39,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **145.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, *[submitted](http://mpcs.sci.am/index.php/mpcs/authorDashboard/submission/854) to Mathematical Problems of Computer Science* [arxiv: 2408.11606](https://dx.doi.org/10.48550/arXiv.2408.11606) ✅ 
 
-**144.** "*Variance Minimisation of the Lipkin-Meshkov-Glick Model on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead, [*submitted*](https://authors.aps.org/Submissions/status?accode=CQ10925&author=Stevenson) to Phys. Rev. C, [arxiv:2403.08625](https://arxiv.org/abs/2403.08625) ✅ 
+**144.** "*Variance Minimisation for Nuclear Structure on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead, [*submitted*](https://authors.aps.org/Submissions/status?accode=CQ10925&author=Stevenson) to Phys. Rev. C, [arxiv:2403.08625](https://arxiv.org/abs/2403.08625) ✅ 
 
 **143.** "*Comment on "Full quantum eigensolvers based on variance" by Li et al.*", P. D. Stevenson, [report, University of Surrey (2024)](https://dx.doi.org/10.15126/901326) <span style="color:LightGray">doi:10.15126/901326</span> ✅
 
