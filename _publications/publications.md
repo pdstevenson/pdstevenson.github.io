@@ -27,7 +27,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **151.** "*Shell-model study of <sup>58</sup>Ni using quantum computing algorithm*", B. Bhoy and P. Stevenson, *[in preparation for JOSS](https://github.com/BhartiBhoy/QuantComp_58Ni/blob/master/paper/paper.md)*
 
-**150.** "*Time-dependent wave-packet approach to the <sup>12</sup>C+<sup>12</sup>C reaction using DC-TDHF potentials*", Grant Close, Alexis Diaz-Torres and Paul Stevenson, *submitted to Phys. Rev. Lett.*, [arXiv:2502.11240](https://arxiv.org/abs/2502.11240) ✅
+**150.** "*Time-dependent wave-packet approach to the <sup>12</sup>C+<sup>12</sup>C reaction using DC-TDHF potentials*", Grant Close, Alexis Diaz-Torres and Paul Stevenson, *[submitted to Phys. Rev. Lett.](https://authors.aps.org/Submissions/status?accode=LB18908&author=Stevenson&commit=Submit)*, [arXiv:2502.11240](https://arxiv.org/abs/2502.11240) ✅
 
 **149.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, *[submitted](http://mpcs.sci.am/index.php/mpcs/authorDashboard/submission/854) to Mathematical Problems of Computer Science* [arxiv: 2408.11606](https://dx.doi.org/10.48550/arXiv.2408.11606) ✅ 
 
