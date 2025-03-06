@@ -21,7 +21,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **154.** "*TDHF and QRPA octupole strength functions in Zr, Pb, and Hg isotopes*", Abhishek, Esra Yüksel, and Paul Stevenson, *in preparation*
 
-**153.** "*The alpha-particle condensation in diluted <sup>16</sup>O at finite temperature*", Miriam Davies, Esra Yüksel, Jean-Paul Ebran, Elias Khan, and Paul Stevenson, [*submitted to Phys. Rev. C*](https://authors.aps.org/Submissions/status?accode=CC10928&author=Davies&commit=Submit), [arxiv:2503.01604](https://arxiv.org/abs/2503.01604)
+**153.** "*The alpha-particle condensation in diluted <sup>16</sup>O at finite temperature*", Miriam Davies, Esra Yüksel, Jean-Paul Ebran, Elias Khan, and Paul Stevenson, [*submitted to Phys. Rev. C*](https://authors.aps.org/Submissions/status?accode=CC10928&author=Davies&commit=Submit), [arxiv:2503.01604](https://arxiv.org/abs/2503.01604) ✅
 
 **152.** "*Nonlinear Nuclear Response Through Time-Dependent Hartree-Fock*", P. D. Stevenson, *accepted for publication in EPJ Web of Conferences* [preprint](/files/stevenson-cnr24.pdf) ✅
 
