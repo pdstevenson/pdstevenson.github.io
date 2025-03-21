@@ -23,15 +23,15 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **153.** "*The alpha-particle condensation in diluted <sup>16</sup>O at finite temperature*", Miriam Davies, Esra Yüksel, Jean-Paul Ebran, Elias Khan, and Paul Stevenson, [*submitted to Phys. Rev. C*](https://authors.aps.org/Submissions/status?accode=CC10928&author=Davies&commit=Submit), [arxiv:2503.01604](https://arxiv.org/abs/2503.01604) ✅
 
-**152.** "*Nonlinear Nuclear Response Through Time-Dependent Hartree-Fock*", P. D. Stevenson, [EPJ Web of Conferences 322, 06006 (2025)](https://doi.org/10.1051/epjconf/202532206006)) ✅
+**152.** "*Nonlinear Nuclear Response Through Time-Dependent Hartree-Fock*", P. D. Stevenson, [EPJ Web of Conferences 322, 06006 (2025)](https://doi.org/10.1051/epjconf/202532206006) ✅
 
 **151.** "*Shell-model study of <sup>58</sup>Ni using quantum computing algorithm*", B. Bhoy and P. Stevenson, *[in preparation for JOSS](https://github.com/BhartiBhoy/QuantComp_58Ni/blob/master/paper/paper.md)*
 
 **150.** "*Time-dependent wave-packet approach to the <sup>12</sup>C+<sup>12</sup>C reaction using DC-TDHF potentials*", Grant Close, Alexis Diaz-Torres and Paul Stevenson, *[submitted to Phys. Rev. Lett.](https://authors.aps.org/Submissions/status?accode=LB18908&author=Stevenson&commit=Submit)*, [arXiv:2502.11240](https://arxiv.org/abs/2502.11240) ✅
 
-**149.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, *[submitted](http://mpcs.sci.am/index.php/mpcs/authorDashboard/submission/854) to Mathematical Problems of Computer Science* [arxiv: 2408.11606](https://dx.doi.org/10.48550/arXiv.2408.11606) ✅ 
+**149.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, [*submitted to Mathematical Problems of Computer Science*](http://mpcs.sci.am/index.php/mpcs/authorDashboard/submission/854) [arxiv: 2408.11606](https://dx.doi.org/10.48550/arXiv.2408.11606) ✅ 
 
-**148.** "*Variance Minimisation for Nuclear Structure on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead, [*submitted*](https://authors.aps.org/Submissions/status?accode=CQ10925&author=Stevenson) to Phys. Rev. C, [arxiv:2403.08625](https://arxiv.org/abs/2403.08625) ✅ 
+**148.** "*Variance Minimisation for Nuclear Structure on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead, [*submitted to Phys. Rev. C*](https://authors.aps.org/Submissions/status?accode=CQ10925&author=Stevenson), [arxiv:2403.08625](https://arxiv.org/abs/2403.08625) ✅ 
 
 **147.** "*Collective Excitations in <sup>150</sup>Gd*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G.H. Bhat, R.N Mao, K. Nomura, C. Costache, Z.P. Li, N. Mǎrginean, C. Mihai, T. Naz, N. Paar, Zs. Podolyák, P.H. Regan, A.E. Turturicǎ, R. Borcea, M. Boromiza, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N.M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R.E. Mihai, A. Mitu, N. Nazir, A. Negret, C.R. Nițǎ, E.B. O’Sullivan, C. Petrone, S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ujeniuc, [Phys. Rev. C 111, 034302 (2025)](https://doi.org/10.1103/PhysRevC.111.034302) ✅ 
 
