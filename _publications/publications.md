@@ -27,7 +27,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **150.** "*Time-dependent wave-packet approach to the <sup>12</sup>C+<sup>12</sup>C reaction using DC-TDHF potentials*", Grant Close, Alexis Diaz-Torres and Paul Stevenson, *[submitted to Phys. Rev. Lett.](https://authors.aps.org/Submissions/status?accode=LB18908&author=Stevenson&commit=Submit)*, [arXiv:2502.11240](https://arxiv.org/abs/2502.11240) ✅
 
-**149.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, [Math. Prob. Comp. Sci. 63, 60 (2025)](https://mpcs.sci.am/index.php/mpcs/article/view/885) ✅ [arxiv: 2408.11606](https://dx.doi.org/10.48550/arXiv.2408.11606) ✅ 
+**149.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, [Math. Prob. Comp. Sci. 63, 60 (2025)](https://doi.org/10.51408/1963-0132) ✅ [arxiv: 2408.11606](https://dx.doi.org/10.48550/arXiv.2408.11606) ✅ 
 
 **148.** "*Variance Minimisation for Nuclear Structure on a Quantum Computer*", I. Hobday, P. Stevenson, and J. Benstead, [*accepted for publication in Phys. Rev. C*](https://authors.aps.org/Submissions/status?accode=CQ10925&author=Stevenson), [arxiv:2403.08625](https://arxiv.org/abs/2403.08625) ✅ 
 
