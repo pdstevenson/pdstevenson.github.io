@@ -13,7 +13,7 @@ and Lance's is [A quantum computing solution to the nuclear Hartree-Fock equatio
 digital object identifiers (DOIs) to make the theses easier to share and cite.  You can grab the full theses and citation information in the links above.  
 
 • Since summer is starting, we have some MSc students joining the group: Lloyd, James, and Robbie will be doing quantum computing projects, and Adam a nuclear physics one.  More on that either here
-or on my [http://blogoftheisotopes.blogspot.com](blog) when the projects get going
+or on my [blog](http://blogoftheisotopes.blogspot.com) when the projects get going
 
 • A paper on solving Diophantine equations on quantum computers has been published as [Lara Tatli and Paul Stevenson, Math. Prob. Comp. Sci. 63, 60 (2025)](http://doi.org/10.51408/1963-0132).
 This was some work that grew out of a summer vacation projcet done by Lara, who is an undergraduate at Durham Uni.  It is my first paper in this journal which I
