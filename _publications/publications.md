@@ -11,13 +11,13 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing
 
-**157.** "*Nuclear response through time-series forecasting*", Prakruthi Kodihalli Manjunatha and Paul Stevenson, *in preparation*
+**157.** "*Precision measurement of B(E3) value in 150Gd confirms enhanced octupole collectivity*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G.H. Bhat, R.N Mao, K. Nomura, C. Costache, Z.P. Li, N. Mǎrginean, C. Mihai, T. Naz, N. Paar, Zs. Podolyák, P.H. Regan, A.E. Turturicǎ, R. Borcea, M. Boromiza, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N.M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R.E. Mihai, A. Mitu, N. Nazir, A. Negret, C.R. Nițǎ, E.B. O’Sullivan, C. Petrone, S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ujeniuc, *Proceedings of COMEX, in preparation*
 
-**156.** "*Reaction rates with temperature-dependent cross sections using quantum dynamical reaction theory in the (n,188Os) reaction*", Nicholas Lightfoot, Alexis Diaz-Torres, and Paul Stevenson, *in preparation*
+**156.** "*Investigation of Fusion Cross-Sections of 80Sr Formed via Symmetric and Asymmetric Channels to Understand Light Particle Emission Spectra*", Maninder Kaur, B.R. Behera, Gulzar Singh, Varinderjit Singh, Meenu Thakur, Kushal Kapoor, Priya Sharma, S. Nath, N. Madhavan, S. Muralithar, G. Mohanto, Ish Mukul, Davinder Siwal, Tathagata Banerjee, A. Jhingan, T. Varughese, M.B. Chatterjee, A. Saxena, B.K. Nayak and Paul Stevenson, *in preparation*
 
-**155.** "*VarVarQite: a quantum variatitonal approach to excited states*", I. Hobday, P. D. Stevenson, and J. Benstead, *in preparation*
+**155.** "*Reaction rates with temperature-dependent cross sections using quantum dynamical reaction theory in the (n,188Os) reaction*", Nicholas Lightfoot, Alexis Diaz-Torres, and Paul Stevenson, *in preparation*
 
-**154.** "*TDHF and QRPA octupole strength functions in Zr, Pb, and Hg isotopes*", Abhishek, Esra Yüksel, and Paul Stevenson, *in preparation*
+**154.** "*VarVarQite: a quantum variatitonal approach to excited states*", I. Hobday, P. D. Stevenson, and J. Benstead, *in preparation*
 
 **153.** "*Isomers in <sup>210,212</sup>Hg, <sup>206</sup>Pt: seniority conservation in the second νg<sub>9/2</sub> orbital and persistence of the N=126 shell closure below Z=82*", J. Wu, A. I. Morales, T. T. Yeung, S. Nishamura, A. Marqués, M. Liu, C. Yuan, Z. Podolyák, T. Davinson, N. Fukuda, T. Isobe, M. Niikura, V. H. Phong, T. R. Rodríguez, K. P. Rykaczewski, J. L. Tain, R. Yokoyama, Abishek, G. Alcalá, A. Algora, J. M. Allmond, J. Agramunt, C. Appleton, H. Baba, R. Caballero-Folch, F. Calvino, M. P. Carpenter, I. Dillmann, A. Estrade, T. Gao, C. J. Griffin, R. K. Grzywacz, O. Hall, Y. Hirayama, B. M. Hue, E. Ideguchi, G. Kiss, K. Kokubun, F. G. Kondev, R. Mizuno, M. Mukai, N. Nepal, M. N. Nurhafiza, S. Ota, S. E. A. Orrigo, M. Pallás, B. C. Rasco, D. Rodríguez-García, H. Sakurai, L. Sexton, Y. Shimizu, P. D. Stevenson, H. Suzuki, H. Takeda, A. Tarifeño-Saldivia, A. Tolosa-Delgado, J. A. Victoria, A. Vitéz-Sveiczer, Y. X. Watanabe, P. J. Woods, J. M. Yap, and E. Yüksel, [*submitted to Phys. Rev. Lett.*](https://authors.aps.org/Submissions/status?accode=LC20272&author=Wu&commit=Submit)
 
