@@ -7,7 +7,7 @@ author_profile: true
 
 ## Nuclear Structure and Reactions
 
-With PhD students [Isaac Hobday](https://www.surrey.ac.uk/people/isaac-hobday); [Khlood Al-Harthi](https://www.surrey.ac.uk/people/khlood-alharthi); [Lance Li](https://www.surrey.ac.uk/people/lance-li); and with many collaborators
+With PhD student [Khlood Al-Harthi](https://www.surrey.ac.uk/people/khlood-alharthi); with [Esra Yüksel](https://www.surrey.ac.uk/people/esra-yuksel) and with many collaborators
 
 Atomic nuclei are made up of protons and neutrons.  Understanding nuclear properties such as their size, shape, binding energy, and excited state spectrum is the remit of *nuclear structure*.  We work on theoretical models which in some way or another involve wrangling the many-body Schrödinger equation and the complicated nucleon-nucleon interactions into a form that allow for practical calculations to help us understand nuclear structure from a microscopic (= at the level of individual neutron and proton wave functions) level.
 
