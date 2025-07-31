@@ -27,19 +27,19 @@ The picture below (from [Phys. Rev. C 103, L031304 (2021)](http://dx.doi.org/10.
 
 ## Quantum Computing
 
-With PhD students [Isaac Hobday](https://www.surrey.ac.uk/people/isaac-hobday); [Lance Li](https://www.surrey.ac.uk/people/lance-li); [Joe Gibbs](https://scholar.google.com/citations?hl=en&user=FvrrWhAAAAAJ); with postdoc [Bharti Bhoy](https://www.surrey.ac.uk/people/bharti-bhoy); with [James Benstead](https://scholar.google.com/citations?hl=en&user=25DxbjwAAAAJ), [Jim Al-Khalili](https://www.surrey.ac.uk/people/jim-al-khalili) and other collaborators
+With current MSc students Lloyd La Ronde, Robbie Giles, and James Garcia; withPhD student [Joe Gibbs](https://scholar.google.com/citations?hl=en&user=FvrrWhAAAAAJ) and previous PhD students [Isaac Hobday](https://www.surrey.ac.uk/people/isaac-hobday) and [Lance Li](https://www.surrey.ac.uk/people/lance-li); with current postdoc [Chandan Sarma](https://www.surrey.ac.uk/people/chandan-sarma) and previous postdoc [Bharti Bhoy](https://www.surrey.ac.uk/people/bharti-bhoy); with [James Benstead](https://scholar.google.com/citations?hl=en&user=25DxbjwAAAAJ), [Jim Al-Khalili](https://www.surrey.ac.uk/people/jim-al-khalili), [Bhoomika Maheshwari](https://scholar.google.com/citations?hl=en&user=f_gKvV8AAAAJ) and other collaborators
 
 Quantum computers are previously hypothetical and now realised devices which make use of properties of quantum mechanics to allow certain calculations to be achieved much more efficiently than on regular computers.  In particular, simulating many-body quantum systems (such as nuclei) is theoretically possible on quantum computers in a way that copes with the huge combinatorial increase in complexity of the problem when the number of nucleons becomes large.  
 
-Our work is on developing quantum algorithms that are able to perform practical calculations of nuclear properties and running them on todays limited-qubit and noisy quantum computers.
+Our work is on developing quantum algorithms that are able to perform practical calculations of nuclear properties and running them on todays limited-qubit and noisy quantum computers, as well as planning for future systems of larger noise-free (or error-corrected) qubits.
 
-The picture below (from [arxiv: 2402.15577v1](http://arxiv.org/abs/2402.15577v1)) shows a quantum circuit used to prepare the ground state wave function of Ni-58 in a shell model picture in which two neutrons are created (with the "X" gates) and then distributed across other single particle levels (via the "G2" gates)
+The picture below (from [ New Journal of Physics 26, 075001 (2024)](https://iopscience.iop.org/article/10.1088/1367-2630/ad5756) shows a quantum circuit used to prepare the ground state wave function of Ni-58 in a shell model picture in which two neutrons are created (with the "X" gates) and then distributed across other single particle levels (via the "G<sup>2</sup>" gates)
 
 <img src="https://arxiv.org/html/2402.15577v1/x3.png" alt="quantum circuit" width="50%">
 
 ## Nuclear Data and Machine Learning
 
-With PhD student [Sam Sullivan](https://www.surrey.ac.uk/people/samuel-sullivan); with [Payel Das](https://www.surrey.ac.uk/people/payel-das), James Benstead and Lee Morgan
+With PhD student [Sam Sullivan](https://www.surrey.ac.uk/people/samuel-sullivan); with [Payel Das](https://www.surrey.ac.uk/people/payel-das), James Benstead, Aaron Stott and Lee Morgan
 
 Nuclear data in general means all of the experimental data that has been compiled from years of experiments covering nuclear structure and reactions.  Some of the data is excellent, while some has large error bars, and yet more lacks information about errors or is partially complete in some way.  In other cases of interest, desired data does not exist becase the experiments required to measure the data are not practical or have otherwise not been performed.  
 
