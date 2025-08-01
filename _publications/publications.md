@@ -13,7 +13,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **159.** "*UK Nuclear Data Meeting in Glasow: A report*", Bjorn Seitz, David Ireland, and Paul Stevenson, *in preparation for Nuclear Physics News International*
 
-**158.** "*Quantum Computing for Nuclear Structure*", Paul Stevenson, Chandan Sarma, Robbie Giles, Lloyd LaRonde, and Bhoomika Maheshwari, *submitted to proceedings of 17<sup>th</sup> International Conference of Nuclear Structure Properties (NSP2025), Sivas, Türkiye* [preprint](http://pdstevenson.github.io/files/stevenson-etal-sivas.pdf)
+**158.** "*Quantum Computing for Nuclear Structure*", Paul Stevenson, Chandan Sarma, Robbie Giles, Lloyd LaRonde, and Bhoomika Maheshwari, *submitted to proceedings of 17<sup>th</sup> International Conference of Nuclear Structure Properties (NSP2025), Sivas, Türkiye* (2025) [preprint](http://pdstevenson.github.io/files/Stevenson-etal-sivas.pdf)
 
 **157.** "*Precision measurement of B(E3) value in <sup>150</sup>Gd confirms enhanced octupole collectivity*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G.H. Bhat, R.N Mao, K. Nomura, C. Costache, Z.P. Li, N. Mǎrginean, C. Mihai, T. Naz, N. Paar, Zs. Podolyák, P.H. Regan, A.E. Turturicǎ, R. Borcea, M. Boromiza, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N.M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R.E. Mihai, A. Mitu, N. Nazir, A. Negret, C.R. Nițǎ, E.B. O’Sullivan, C. Petrone, S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ujeniuc, *Proceedings of COMEX, in preparation*
 
