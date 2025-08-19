@@ -11,6 +11,8 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing
 
+**160.** "*Quantum simulation of nuclear shell model: bridging theory and hardware limitations*", Chandan Sarma and Paul Stevenson, *in preparation*
+
 **159.** "*UK Nuclear Data Meeting in Glasow: A report*", Bjorn Seitz, David Ireland, and Paul Stevenson, *in preparation for Nuclear Physics News International*
 
 **158.** "*Quantum Computing for Nuclear Structure*", Paul Stevenson, Chandan Sarma, Robbie Giles, Lloyd LaRonde, and Bhoomika Maheshwari, *submitted to proceedings of 17<sup>th</sup> International Conference of Nuclear Structure Properties (NSP2025), Sivas, Türkiye* (2025) [preprint](http://pdstevenson.github.io/files/Stevenson-etal-sivas.pdf) ✅
