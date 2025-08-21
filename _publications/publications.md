@@ -13,7 +13,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **160.** "*Quantum simulation of nuclear shell model: bridging theory and hardware limitations*", Chandan Sarma and Paul Stevenson, *in preparation*
 
-**159.** "*UK Nuclear Data Meeting in Glasow: A report*", Bjorn Seitz, David Ireland, and Paul Stevenson, *in preparation for Nuclear Physics News International*
+**159.** "*UK Nuclear Data Meeting in Glasgow: A report*", Bjorn Seitz, David Ireland, and Paul Stevenson, *in preparation for Nuclear Physics News International*
 
 **158.** "*Quantum Computing for Nuclear Structure*", Paul Stevenson, Chandan Sarma, Robbie Giles, Lloyd LaRonde, and Bhoomika Maheshwari, *submitted to proceedings of 17<sup>th</sup> International Conference of Nuclear Structure Properties (NSP2025), Sivas, Türkiye* (2025) [preprint](http://pdstevenson.github.io/files/Stevenson-etal-sivas.pdf) ✅
 
@@ -31,7 +31,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **151.** "*Nonlinear Nuclear Response Through Time-Dependent Hartree-Fock*", P. D. Stevenson, [EPJ Web of Conferences 322, 06006 (2025)](https://doi.org/10.1051/epjconf/202532206006) ✅
 
-**150.** "*Time-dependent wave-packet approach to the <sup>12</sup>C+<sup>12</sup>C reaction using DC-TDHF potentials*", Grant Close, Alexis Diaz-Torres and Paul Stevenson, *[submitted to Phys. Rev. Lett.](https://authors.aps.org/Submissions/status?accode=LB18908&author=Stevenson&commit=Submit)*, [arXiv:2502.11240](https://arxiv.org/abs/2502.11240) ✅
+**150.** "*Time-dependent wave-packet approach to the <sup>12</sup>C+<sup>12</sup>C reaction using DC-TDHF potentials*", Grant Close, Alexis Diaz-Torres and Paul Stevenson, *submitted to Phys. Lett. B*, [arXiv:2502.11240](https://arxiv.org/abs/2502.11240) ✅
 
 **149.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, [Math. Prob. Comp. Sci. 63, 60 (2025)](https://doi.org/10.51408/1963-0132) ✅ [arxiv: 2408.11606](https://dx.doi.org/10.48550/arXiv.2408.11606) ✅ 
 
