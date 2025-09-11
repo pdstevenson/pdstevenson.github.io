@@ -7,6 +7,8 @@ author_profile: true
 
 Here is an (incomplete) list of talks and poster presentations
 
+**2025-01.** Sep 2025: "Quantum Computing for Nuclear Physics", ACAT25, Hamburg, Germany (invited) 
+
 **2024-04.** Dec 2024: "Imaginary Time Mean-Field and Shell Model on Quantum Computers", 5th Gogny Conference, Paris, France (invited) [slides](https://indico.ijclab.in2p3.fr/event/10090/contributions/33920/attachments/24646/35974/stevenson-gogny5.pptx)
 
 **2024-03.** Jun 2024: "Porting Sky3d to GPU", DiRAC Hackathon, Edinburgh
