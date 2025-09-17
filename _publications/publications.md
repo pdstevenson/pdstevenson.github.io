@@ -21,7 +21,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **156.** "*Investigation of Fusion Cross-Sections of <sup>80</sup>Sr Formed via Symmetric and Asymmetric Channels to Understand Light Particle Emission Spectra*", Maninder Kaur, B.R. Behera, Gulzar Singh, Varinderjit Singh, Meenu Thakur, Kushal Kapoor, Priya Sharma, S. Nath, N. Madhavan, S. Muralithar, G. Mohanto, Ish Mukul, Davinder Siwal, Tathagata Banerjee, A. Jhingan, T. Varughese, M.B. Chatterjee, A. Saxena, B.K. Nayak and Paul Stevenson, [*submitted to Phys. Rev. C*](https://authors.aps.org/Submissions/status?accode=CH10951&author=Kaur&commit=Submit)
 
-**155.** "*Reaction rates with temperature-dependent cross sections using quantum dynamical reaction theory in the (n,188Os) reaction*", Nicholas Lightfoot, Alexis Diaz-Torres, and Paul Stevenson, *in preparation*
+**155.** "*Reaction rates with temperature-dependent cross sections: A quantum dynamical microscopic model for the neutron capture reaction on the <sup>188</sup>Os target*", Nicholas Lightfoot, Alexis Diaz-Torres, and Paul Stevenson, [arXiv: 2509.12404](https://arxiv.org/abs/2509.12404) ✅
 
 **154.** "*VarVarQite: a quantum variatitonal approach to excited states*", I. Hobday, P. D. Stevenson, and J. Benstead, *in preparation*
 
@@ -31,7 +31,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **151.** "*Nonlinear Nuclear Response Through Time-Dependent Hartree-Fock*", P. D. Stevenson, [EPJ Web of Conferences 322, 06006 (2025)](https://doi.org/10.1051/epjconf/202532206006) ✅
 
-**150.** "*Time-dependent wave-packet approach to the <sup>12</sup>C+<sup>12</sup>C reaction using DC-TDHF potentials*", Grant Close, Alexis Diaz-Torres and Paul Stevenson, *accepted for publication in Phys. Lett. B*, [arXiv:2502.11240](https://arxiv.org/abs/2502.11240) ✅
+**150.** "*Time-dependent wave-packet approach to the <sup>12</sup>C+<sup>12</sup>C reaction using DC-TDHF potentials*", Grant Close, Alexis Diaz-Torres and Paul Stevenson, [Phys. Lett. B, in press](https://doi.org/10.1016/j.physletb.2025.139881) ✅ [arXiv:2502.11240](https://arxiv.org/abs/2502.11240) ✅
 
 **149.** "*A quantum diophantine equation solver*", Lara Tatli and Paul Stevenson, [Math. Prob. Comp. Sci. 63, 60 (2025)](https://doi.org/10.51408/1963-0132) ✅ [arxiv: 2408.11606](https://dx.doi.org/10.48550/arXiv.2408.11606) ✅ 
 
