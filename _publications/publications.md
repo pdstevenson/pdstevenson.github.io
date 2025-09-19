@@ -21,7 +21,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **156.** "*Investigation of Fusion Cross-Sections of <sup>80</sup>Sr Formed via Symmetric and Asymmetric Channels to Understand Light Particle Emission Spectra*", Maninder Kaur, B.R. Behera, Gulzar Singh, Varinderjit Singh, Meenu Thakur, Kushal Kapoor, Priya Sharma, S. Nath, N. Madhavan, S. Muralithar, G. Mohanto, Ish Mukul, Davinder Siwal, Tathagata Banerjee, A. Jhingan, T. Varughese, M.B. Chatterjee, A. Saxena, B.K. Nayak and Paul Stevenson, [*submitted to Phys. Rev. C*](https://authors.aps.org/Submissions/status?accode=CH10951&author=Kaur&commit=Submit)
 
-**155.** "*Reaction rates with temperature-dependent cross sections: A quantum dynamical microscopic model for the neutron capture reaction on the <sup>188</sup>Os target*", Nicholas Lightfoot, Alexis Diaz-Torres, and Paul Stevenson, [arXiv: 2509.12404](https://arxiv.org/abs/2509.12404) ✅
+**155.** "*Reaction rates with temperature-dependent cross sections: A quantum dynamical microscopic model for the neutron capture reaction on the <sup>188</sup>Os target*", Nicholas Lightfoot, Alexis Diaz-Torres, and Paul Stevenson, [*submitted to Phys. Rev. C*](https://authors.aps.org/Submissions/status?accode=CJ10939&author=Lightfoot&commit=Submit), [arXiv: 2509.12404](https://arxiv.org/abs/2509.12404) ✅
 
 **154.** "*VarVarQite: a quantum variatitonal approach to excited states*", I. Hobday, P. D. Stevenson, and J. Benstead, *in preparation*
 
