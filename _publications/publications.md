@@ -11,6 +11,8 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing
 
+**161.** "*From Classical to Quantum Machine Learning: Bridging Approaches in Fission Barrier*", Serkan Akkoyun, Cafer Mert Yeşilkanat, and Paul Stevenson, *in preparation*
+
 **160.** "*Quantum simulation of nuclear shell model: bridging theory and hardware limitations*", Chandan Sarma and Paul Stevenson, *in preparation*
 
 **159.** "*UK Nuclear Data Meeting in Glasgow: A report*", Bjorn Seitz, David Ireland, and Paul Stevenson, *in preparation for Nuclear Physics News International*
