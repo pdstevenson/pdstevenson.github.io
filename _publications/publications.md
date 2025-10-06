@@ -11,6 +11,10 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing
 
+**163.** "*Thermal effects on stellar neutron capture reactions using a quantum dynamical model*", N. Lightfoot, A. Diaz-Torres, and P. Stevenson, *in preparation for proceedings of Mazurian Lakes conference*"
+
+**162.** "*Interpolation and Application of Lutetium Neutron Optical Model Parameters*", Adam Giambrone, Aaron Stott, and Paul Stevenson, *in preparation*
+
 **161.** "*From Classical to Quantum Machine Learning: Bridging Approaches in Fission Barrier*", Serkan Akkoyun, Cafer Mert Yeşilkanat, and Paul Stevenson, *in preparation*
 
 **160.** "*Quantum simulation of nuclear shell model: bridging theory and hardware limitations*", Chandan Sarma and Paul Stevenson, [arXiv: 2510.02124 (2025)](https://doi.org/10.48550/arXiv.2510.02124) ✅
