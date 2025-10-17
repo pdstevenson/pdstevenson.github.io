@@ -11,6 +11,8 @@ A ‚úÖ following a link indicates freely-available content.  Links followed by ‚ù
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing
 
+**165.** "*Comparison of Quantum Algorithms for Excited State Finding with a Nuclear Hamiltonian*", Robbie Giles, Paul Stevenson, and Ben Murdin, *in preparation*
+
 **164.** "*Single-step Quantum Simulation of Two Nucleons*", Bhoomika Maheshwari, Paul Stevenson, and P. Van Isacker, *in preparation for proceedings of Mazurian Lakes conference*"
 
 **163.** "*Thermal effects on stellar neutron capture reactions using a quantum dynamical model*", N. Lightfoot, A. Diaz-Torres, and P. Stevenson, *in preparation for proceedings of Mazurian Lakes conference*"
