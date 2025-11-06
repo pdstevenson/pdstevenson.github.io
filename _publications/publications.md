@@ -23,7 +23,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **161.** "*From Classical to Quantum Machine Learning: Bridging Approaches in Fission Barrier*", Serkan Akkoyun, Cafer Mert Yeşilkanat, and Paul Stevenson, *in preparation*
 
-**160.** "*Quantum simulation of nuclear shell model: bridging theory and hardware limitations*", Chandan Sarma and Paul Stevenson, [arXiv: 2510.02124 (2025)](https://doi.org/10.48550/arXiv.2510.02124) ✅ [*submitted to Discover Quantum Science*](https://submission.springernature.com/submission-details/5078fa75-d425-4257-a475-c5a4dfe3d949?journal_id=44464)
+**160.** "*A low-circuit-depth quantum computing approach to the nuclear shell model *", Chandan Sarma and Paul Stevenson, [arXiv: 2510.02124 (2025)](https://doi.org/10.48550/arXiv.2510.02124) ✅ [*submitted to Discover Quantum Science*](https://submission.springernature.com/submission-details/5078fa75-d425-4257-a475-c5a4dfe3d949?journal_id=44464)
 
 **159.** "*UK Nuclear Data Meeting in Glasgow: A report*", Bjorn Seitz, David Ireland, and Paul Stevenson, *in preparation for Nuclear Physics News International*
 
