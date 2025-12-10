@@ -27,7 +27,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **160.** "*A low-circuit-depth quantum computing approach to the nuclear shell model*", Chandan Sarma and Paul Stevenson, [arXiv: 2510.02124 (2025)](https://doi.org/10.48550/arXiv.2510.02124) ✅ [*submitted to Discover Quantum Science*](https://submission.springernature.com/submission-details/5078fa75-d425-4257-a475-c5a4dfe3d949?journal_id=44464)
 
-**159.** "*University of Glasgow Workshop on Nuclear Data*", B. Seitz, and P. Stevenson, [Nuclear Physics News International 35, 24 (2025)](https://doi.org/10.1080/10619127.2025.2565135)
+**159.** "*University of Glasgow Workshop on Nuclear Data*", B. Seitz, and P. Stevenson, [Nuclear Physics News International 35, 24 (2025)](https://doi.org/10.1080/10619127.2025.2565135) ❌
 
 **158.** "*Quantum Computing for Nuclear Structure*", Paul Stevenson, Chandan Sarma, Robbie Giles, Lloyd LaRonde, and Bhoomika Maheshwari, *submitted to proceedings of 17<sup>th</sup> International Conference of Nuclear Structure Properties (NSP2025), Sivas, Türkiye* (2025) [preprint](http://pdstevenson.github.io/files/Stevenson-etal-sivas.pdf) ✅
 
