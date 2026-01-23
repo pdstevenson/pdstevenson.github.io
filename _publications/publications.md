@@ -59,11 +59,11 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **144.** "*Exploiting symmetries in nuclear Hamiltonians for ground state preparation*", Joe Gibbs, Paul Stevenson, and Zoë Holmes, [Quantum Mach. Intell. 7, 14 (2025)](https://doi.org/10.1007/s42484-025-00242-y) ✅ [arxiv:2402.10277](https://arxiv.org/abs/2402.10277) ✅ 
 
-**143.** "*Comment on "Full quantum eigensolvers based on variance" by Li et al.*", P. D. Stevenson, [report, University of Surrey (2024)](https://dx.doi.org/10.15126/901326) <span style="color:LightGray">doi:10.15126/901326</span> ✅
+**143.** "*Solving coupled Non-linear Schrödinger Equations via Quantum Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili and Paul Stevenson, [ Eur. Phys. J. Spec. Top. 234, 6323–6341 (2025)](https://dx.doi.org/10.1140/epjs/s11734-024-01384-z) ✅, [arxiv:2402.01623](https://arxiv.org/abs/2402.01623) ✅ 
 
-**142.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, [arxiv:2403.12539 (2024)](http://arxiv.org/abs/2403.12539) ✅ 
+**142.** "*Comment on "Full quantum eigensolvers based on variance" by Li et al.*", P. D. Stevenson, [report, University of Surrey (2024)](https://dx.doi.org/10.15126/901326) <span style="color:LightGray">doi:10.15126/901326</span> ✅
 
-**141.** "*Solving coupled Non-linear Schrödinger Equations via Quantum Imaginary Time Evolution*", Yang Hong Li, Jim Al-Khalili and Paul Stevenson, [ Eur. Phys. J. Spec. Top., *in press* (2024)](https://dx.doi.org/10.1140/epjs/s11734-024-01384-z) ✅, [arxiv:2402.01623](https://arxiv.org/abs/2402.01623) ✅ 
+**141.** "*A program for 3D nuclear time-dependent density-functional theory with full Skyrme interaction: hit3d*", Yue Shi, Paul D. Stevenson, and Nobuo Hinohara, [arxiv:2403.12539 (2024)](http://arxiv.org/abs/2403.12539) ✅ 
 
 **140.** "*Sky3d v1.2 update*", Abhishek, Paul Stevenson, Yue Shi, Esra Yüksel, Sait Umar, [Comput. Phys. Commun. 301, 109239 (2024)](https://dx.doi.org/10.1016/j.cpc.2024.109239) ✅ [arxiv:2405.08531](https://arxiv.org/abs/2405.08531) ✅ 
 
