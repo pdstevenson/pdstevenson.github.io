@@ -11,7 +11,7 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing
 
-**168.** "*The role of the surface energy in nuclear octupole excitations*", Khlood Al-Harthi and Paul Stevenson, *submitted to Mod. Phys. Lett. A*, [preprint](http://pdstevenson.github.io/files/octupole.pdf)
+**168.** "*The role of the surface energy in nuclear octupole excitations*", Khlood Al-Harthi and Paul Stevenson, *submitted to Mod. Phys. Lett. A*, [arXiv:2601.17822](http://arxiv.org/abs/2601.17822) ✅ 
 
 **167.** Sam Sullivan *et al.*, proceedings of ND2025, *in preparation*
 
