@@ -27,7 +27,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **161.** "*From Classical to Quantum Machine Learning: Different Approaches in Fission Barrier Height Estimation*", Serkan Akkoyun, Cafer Mert Yeşilkanat, and Paul Stevenson, [arXiv: 2511.18350](https://doi.org/10.48550/arxiv.2511.18350) ✅ 
 
-**160.** "*A low-circuit-depth quantum computing approach to the nuclear shell model*", Chandan Sarma and Paul Stevenson, [arXiv: 2510.02124 (2025)](https://doi.org/10.48550/arXiv.2510.02124) ✅ [*submitted to Discover Quantum Science*](https://submission.springernature.com/submission-details/5078fa75-d425-4257-a475-c5a4dfe3d949?journal_id=44464)
+**160.** "*A low-circuit-depth quantum computing approach to the nuclear shell model*", Chandan Sarma and Paul Stevenson, [arXiv: 2510.02124 (2025)](https://doi.org/10.48550/arXiv.2510.02124) ✅ [*accepted for publication in Discover Quantum Science*](https://submission.springernature.com/submission-details/5078fa75-d425-4257-a475-c5a4dfe3d949?journal_id=44464)
 
 **159.** "*University of Glasgow Workshop on Nuclear Data*", B. Seitz, and P. Stevenson, [Nuclear Physics News International 35, 24 (2025)](https://doi.org/10.1080/10619127.2025.2565135) ❌
 
