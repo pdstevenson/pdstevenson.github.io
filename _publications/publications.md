@@ -11,6 +11,8 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing
 
+**169.** "*Low T-count preparation of nuclear eignestates with tensor networks*", Joe Gibbs, Zoë Holmes, Chandan Sarma, Lukasz Cincio, and Paul Stevenson, *in preparation*
+
 **168.** "*Bayesian calibration of local-chain optical model potentials and propagation of uncertainty through compound nucleus calculations*, Samuel Sullivan, Paul Stevenson, Kyle Beyer, Filomena Nunes,  James Benstead, and Lee Morgan, *in preparation*
 
 **167.** "*The role of the surface energy in nuclear octupole excitations*", Khlood Al-Harthi and Paul Stevenson, [*submitted to Mod. Phys. Lett. A*](https://www.editorialmanager.com/mpla/default2.aspx), [arXiv:2601.17822](http://arxiv.org/abs/2601.17822) ✅ 
