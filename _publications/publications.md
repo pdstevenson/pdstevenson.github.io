@@ -11,9 +11,9 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing
 
-**169.** "*Low T-count preparation of nuclear eignestates with tensor networks*", Joe Gibbs, Zoë Holmes, Chandan Sarma, Lukasz Cincio, and Paul Stevenson, *in preparation*
+**169.** "*Low T-count preparation of nuclear eigenstates with tensor networks*", Joe Gibbs, Zoë Holmes, Chandan Sarma, Lukasz Cincio, and Paul Stevenson, *in preparation*
 
-**168.** "*Bayesian calibration of local-chain optical model potentials and propagation of uncertainty through compound nucleus calculations*, Samuel Sullivan, Paul Stevenson, Kyle Beyer, Filomena Nunes,  James Benstead, and Lee Morgan, *in preparation*
+**168.** "*Bayesian calibration of a regional optical potential and propagation of optical model uncertainty through compound nucleus calculations*, Samuel Sullivan, Paul Stevenson, Kyle Beyer, Filomena Nunes,  James Benstead, and Lee Morgan, *in preparation*
 
 **167.** "*The role of the surface energy in nuclear octupole excitations*", Khlood Al-Harthi and Paul Stevenson, [*submitted to Mod. Phys. Lett. A*](https://www.editorialmanager.com/mpla/default2.aspx), [arXiv:2601.17822](http://arxiv.org/abs/2601.17822) ✅ 
 
@@ -23,9 +23,9 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **164.** "*Comparison of Quantum Algorithms for Excited State Finding with a Nuclear Hamiltonian*", Robbie Giles, Paul Stevenson, and Ben Murdin, *in preparation*
 
-**163.** "*Single-step Quantum Simulation of Two Nucleons*", Bhoomika Maheshwari, Paul Stevenson, and P. Van Isacker, *accepted for publication in proceedings of Mazurian Lakes conference*", [arXiv: 2512.12798](https://arxiv.org/abs/2512.12798) ✅ 
+**163.** "*Single-step Quantum Simulation of Two Nucleons*", Bhoomika Maheshwari, Paul Stevenson, and P. Van Isacker, *accepted for publication in proceedings of Mazurian Lakes conference*, [arXiv: 2512.12798](https://arxiv.org/abs/2512.12798) ✅ 
 
-**162.** "*Thermal effects on stellar neutron capture reactions using a quantum dynamical model*", N. Lightfoot, A. Diaz-Torres, and P. Stevenson, *in preparation for proceedings of Mazurian Lakes conference*"
+**162.** "*Thermal effects on stellar neutron capture reactions using a quantum dynamical model*", N. Lightfoot, A. Diaz-Torres, and P. Stevenson, *accepted for publication in proceedings of Mazurian Lakes conference*
 
 **161.** "*Interpolation and Application of Lutetium Neutron Optical Model Parameters*", Adam Giambrone, Aaron Stott, and Paul Stevenson, *in preparation*
 
