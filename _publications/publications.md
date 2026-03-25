@@ -17,7 +17,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **167.** "*The role of the surface energy in nuclear octupole excitations*", Khlood Al-Harthi and Paul Stevenson, [*submitted to Mod. Phys. Lett. A*](https://www.editorialmanager.com/mpla/default2.aspx), [arXiv:2601.17822](http://arxiv.org/abs/2601.17822) ✅ 
 
-**166.** Sam Sullivan *et al.*, proceedings of ND2025, *in preparation*
+**166.** "*Machine-learning parameters of nuclear reaction models*", Samuel Sullivan, Paul Stevenson, James Benstead, and Lee Morgan, proceedings of ND2025, *in preparation*
 
 **165.** "*New region of maximum octupole collectivity in the rare-earth nuclei: the case of Gd isotopes*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G. H. Bhat, R. N. Mao, K. Nomura, C. Costache, Z. P. Li, N. Mǎrginean, C. Mihai, T. Naz, Zs. Podolyák, P. H. Regan, A. E. Turturicǎ, R. Borcea, M. Boromiza, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N. M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R. E. Mihai, A. Mitu, N. Nazir, A. Negret, C.R. Nițǎ, E. B. O’Sullivan, C. Petrone, S. E. Poulton, J.A. Sheikh, H. K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ujeniuc, *in preparation for proceedings of INPC2025*
 
