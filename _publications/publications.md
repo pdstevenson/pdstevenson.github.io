@@ -11,23 +11,23 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing
 
-**170.** "*Assessing the need for quantum algorithms through a nuclear many‑body physics example*", James Benstead and Paul Stevenson, [*submitted to Discover Applied Science*](https://submission.springernature.com/submission-details/0f446cf4-f83e-4541-a4f6-74e38e03249e)
+**170.** "*Single-step Quantum Simulation of Two Nucleons*", Bhoomika Maheshwari, Paul Stevenson, and P. Van Isacker, [Acta Phys. Pol. B Proc. Suppl. 19, 1-A2 (2026)[https://doi.org/10.5506/APhysPolBSupp.19.1-A2], ✅ [arXiv: 2512.12798](https://arxiv.org/abs/2512.12798) ✅ 
 
-**169.** "*Low T-count preparation of nuclear eigenstates with tensor networks*", Joe Gibbs, Zoë Holmes, Chandan Sarma, Lukasz Cincio, and Paul Stevenson, [arXiv:2603.11156](https://arxiv.org/abs/2603.11156) ✅ 
+**169.** "*Thermal effects on stellar neutron capture reactions using a quantum dynamical model*", N. Lightfoot, A. Diaz-Torres, and P. Stevenson, [Acta Phys. Pol. Proc. Suppl. B 19, 1-A7 (2026)](https://doi.org/10.5506/APhysPolBSupp.19.1-A7) ✅ 
 
-**168.** "*Bayesian calibration of a regional optical potential and propagation of optical model uncertainty through compound nucleus calculations*, Samuel Sullivan, Paul Stevenson, Kyle Beyer, Filomena Nunes,  James Benstead, and Lee Morgan, *in preparation*
+**168.** "*Assessing the need for quantum algorithms through a nuclear many‑body physics example*", James Benstead and Paul Stevenson, [*submitted to Discover Applied Science*](https://submission.springernature.com/submission-details/0f446cf4-f83e-4541-a4f6-74e38e03249e)
 
-**167.** "*The role of the surface energy in nuclear octupole excitations*", Khlood Al-Harthi and Paul Stevenson, [*submitted to Mod. Phys. Lett. A*](https://www.editorialmanager.com/mpla/default2.aspx), [arXiv:2601.17822](http://arxiv.org/abs/2601.17822) ✅ 
+**167.** "*Low T-count preparation of nuclear eigenstates with tensor networks*", Joe Gibbs, Zoë Holmes, Chandan Sarma, Lukasz Cincio, and Paul Stevenson, [arXiv:2603.11156](https://arxiv.org/abs/2603.11156) ✅ 
 
-**166.** "*Machine-learning parameters of nuclear reaction models*", Samuel Sullivan, Paul Stevenson, James Benstead, and Lee Morgan, proceedings of ND2025, *in preparation*
+**166.** "*Bayesian calibration of a regional optical potential and propagation of optical model uncertainty through compound nucleus calculations*, Samuel Sullivan, Paul Stevenson, Kyle Beyer, Filomena Nunes,  James Benstead, and Lee Morgan, *in preparation*
 
-**165.** "*New region of maximum octupole collectivity in the rare-earth nuclei: the case of Gd isotopes*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G. H. Bhat, R. N. Mao, K. Nomura, C. Costache, Z. P. Li, N. Mǎrginean, C. Mihai, T. Naz, Zs. Podolyák, P. H. Regan, A. E. Turturicǎ, R. Borcea, M. Boromiza, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N. M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R. E. Mihai, A. Mitu, N. Nazir, A. Negret, C.R. Nițǎ, E. B. O’Sullivan, C. Petrone, S. E. Poulton, J.A. Sheikh, H. K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ujeniuc, *in preparation for proceedings of INPC2025*
+**165.** "*The role of the surface energy in nuclear octupole excitations*", Khlood Al-Harthi and Paul Stevenson, [*submitted to Mod. Phys. Lett. A*](https://www.editorialmanager.com/mpla/default2.aspx), [arXiv:2601.17822](http://arxiv.org/abs/2601.17822) ✅ 
 
-**164.** "*Comparison of Quantum Algorithms for Excited State Finding with a Nuclear Hamiltonian*", Robbie Giles, Paul Stevenson, and Ben Murdin, *in preparation*
+**164.** "*Machine-learning parameters of nuclear reaction models*", Samuel Sullivan, Paul Stevenson, James Benstead, and Lee Morgan, proceedings of ND2025, *in preparation*
 
-**163.** "*Single-step Quantum Simulation of Two Nucleons*", Bhoomika Maheshwari, Paul Stevenson, and P. Van Isacker, [Acta Phys. Pol. B Proc. Suppl. 19, 1-A2 (2026)[https://doi.org/10.5506/APhysPolBSupp.19.1-A2], ✅ [arXiv: 2512.12798](https://arxiv.org/abs/2512.12798) ✅ 
+**163.** "*New region of maximum octupole collectivity in the rare-earth nuclei: the case of Gd isotopes*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G. H. Bhat, R. N. Mao, K. Nomura, C. Costache, Z. P. Li, N. Mǎrginean, C. Mihai, T. Naz, Zs. Podolyák, P. H. Regan, A. E. Turturicǎ, R. Borcea, M. Boromiza, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N. M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R. E. Mihai, A. Mitu, N. Nazir, A. Negret, C.R. Nițǎ, E. B. O’Sullivan, C. Petrone, S. E. Poulton, J.A. Sheikh, H. K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ujeniuc, *in preparation for proceedings of INPC2025*
 
-**162.** "*Thermal effects on stellar neutron capture reactions using a quantum dynamical model*", N. Lightfoot, A. Diaz-Torres, and P. Stevenson, [Acta Phys. Pol. Proc. Suppl. B 19, 1-A7 (2026)](https://doi.org/10.5506/APhysPolBSupp.19.1-A7) ✅ 
+**162.** "*Comparison of Quantum Algorithms for Excited State Finding with a Nuclear Hamiltonian*", Robbie Giles, Paul Stevenson, and Ben Murdin, *in preparation*
 
 **161.** "*Interpolation and Application of Lutetium Neutron Optical Model Parameters*", Adam Giambrone, Aaron Stott, and Paul Stevenson, *in preparation*
 
