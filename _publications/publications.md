@@ -25,9 +25,9 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **164.** "*Comparison of Quantum Algorithms for Excited State Finding with a Nuclear Hamiltonian*", Robbie Giles, Paul Stevenson, and Ben Murdin, *in preparation*
 
-**163.** "*Single-step Quantum Simulation of Two Nucleons*", Bhoomika Maheshwari, Paul Stevenson, and P. Van Isacker, *accepted for publication in proceedings of Mazurian Lakes conference*, [arXiv: 2512.12798](https://arxiv.org/abs/2512.12798) ✅ 
+**163.** "*Single-step Quantum Simulation of Two Nucleons*", Bhoomika Maheshwari, Paul Stevenson, and P. Van Isacker, [Acta Phys. Pol. B Proc. Suppl. 19, 1-A2 (2026)[https://doi.org/10.5506/APhysPolBSupp.19.1-A2], ✅ [arXiv: 2512.12798](https://arxiv.org/abs/2512.12798) ✅ 
 
-**162.** "*Thermal effects on stellar neutron capture reactions using a quantum dynamical model*", N. Lightfoot, A. Diaz-Torres, and P. Stevenson, *accepted for publication in proceedings of Mazurian Lakes conference*
+**162.** "*Thermal effects on stellar neutron capture reactions using a quantum dynamical model*", N. Lightfoot, A. Diaz-Torres, and P. Stevenson, [Acta Phys. Pol. Proc. Suppl. B 19, 1-A7 (2026)](https://doi.org/10.5506/APhysPolBSupp.19.1-A7) ✅ 
 
 **161.** "*Interpolation and Application of Lutetium Neutron Optical Model Parameters*", Adam Giambrone, Aaron Stott, and Paul Stevenson, *in preparation*
 
