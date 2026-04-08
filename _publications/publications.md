@@ -34,7 +34,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **160.** "*Low T-count preparation of nuclear eigenstates with tensor networks*", Joe Gibbs, Zoë Holmes, Chandan Sarma, Lukasz Cincio, and Paul Stevenson, [arXiv:2603.11156](https://arxiv.org/abs/2603.11156) ✅ 
 
-**159.** "*Bayesian calibration of a regional optical potential and propagation of optical model uncertainty through compound nucleus calculations*, Samuel Sullivan, Paul Stevenson, Kyle Beyer, Filomena Nunes,  James Benstead, and Lee Morgan, *in preparation*
+**159.** "*Bayesian calibration of a regional optical potential and propagation of optical model uncertainty through compound nucleus calculations*, Samuel Sullivan, Paul Stevenson, Kyle Beyer, Filomena Nunes,  James Benstead, and Lee Morgan, *[submitted to Phys. Rev. C](https://authors.aps.org/Submissions/status?accode=CQ11059&author=Sullivan&commit=Submit)*
 
 **158.** "*The role of the surface energy in nuclear octupole excitations*", Khlood Al-Harthi and Paul Stevenson, [*submitted to Mod. Phys. Lett. A*](https://www.editorialmanager.com/mpla/default2.aspx), [arXiv:2601.17822](http://arxiv.org/abs/2601.17822) ✅ 
 
