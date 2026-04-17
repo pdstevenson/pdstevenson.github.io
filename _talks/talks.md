@@ -7,6 +7,10 @@ author_profile: true
 
 Here is an (incomplete) list of talks and poster presentations
 
+**2026-02.** Apr 2026: "Nuclear Data in UK Academia", JEFF Nuclear Data Week, NEA-OECD, Paris, France (invited) [slides](https://pdstevenson.github.io/files/2530_stevenson.pptx)
+
+**2026-01.** Jan 2026: "Quantum Computing Adventures in Nuclear Structure", Colloquium, GANIL, Caen, France (invited)
+
 **2025-05.** Sep 2025: "Quantum Computation for Nuclear Group and Excited States", EuNPC, Caen, France [slides](https://indico.in2p3.fr/event/30430/contributions/156779/)
 
 **2025-04.** Sep 2025: "Quantum Computing for Nuclear Physics", ACAT25, Hamburg, Germany (invited) 
