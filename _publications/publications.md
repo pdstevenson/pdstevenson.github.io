@@ -15,7 +15,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **170.** "*Interpolation and Application of Lutetium Neutron Optical Model Parameters*", Adam Giambrone, Aaron Stott, and Paul Stevenson, *in preparation*
 
-**169.** "*Comparative Analysis of Classical and Quantum Machine Learning Models for Predicting Nuclear Binding Energy and Introduction a Graphical User Interface", Serkan Akkoyun, Paul Stevenson, and Cafer Mert Yeşilkanat, *submitted to Applied Soft Computing*
+**169.** "*Comparative Analysis of Classical and Quantum Machine Learning Models for Predicting Nuclear Binding Energy and Introduction a Graphical User Interface*", Serkan Akkoyun, Paul Stevenson, and Cafer Mert Yeşilkanat, *submitted to Applied Soft Computing*
 
 **168.** "*Investigation of Fusion Cross-Sections of <sup>80</sup>Sr Formed via Symmetric and Asymmetric Channels to Understand Light Particle Emission Spectra*", Maninder Kaur, B.R. Behera, Gulzar Singh, Varinderjit Singh, Meenu Thakur, Kushal Kapoor, Priya Sharma, S. Nath, N. Madhavan, S. Muralithar, G. Mohanto, Ish Mukul, Davinder Siwal, Tathagata Banerjee, A. Jhingan, T. Varughese, M.B. Chatterjee, A. Saxena, B.K. Nayak and Paul Stevenson, [*accepted for publication in Phys. Rev. C*](https://authors.aps.org/Submissions/status?accode=CH10951&author=Kaur&commit=Submit)
 
@@ -25,7 +25,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **165.** "*Precision measurement of B(E3) value in <sup>150</sup>Gd confirms enhanced octupole collectivity*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G.H. Bhat, R.N Mao, K. Nomura, C. Costache, Z.P. Li, N. Mǎrginean, C. Mihai, T. Naz, N. Paar, Zs. Podolyák, P.H. Regan, A.E. Turturicǎ, R. Borcea, M. Boromiza, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N.M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R.E. Mihai, A. Mitu, N. Nazir, A. Negret, C.R. Nițǎ, E.B. O’Sullivan, C. Petrone, S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ujeniuc, *Proceedings of COMEX, in preparation*
 
-**164.** "*Machine-learning parameters of nuclear reaction models*", Samuel Sullivan, Paul Stevenson, James Benstead, and Lee Morgan, proceedings of ND2025, *in preparation*
+**164.** "*Machine-learning parameters of nuclear reaction models*", Samuel Sullivan, Paul Stevenson, James Benstead, and Lee Morgan, proceedings of ND2025, *submitted to EPJ Web of Conferences*
 
 **163.** "*New region of maximum octupole collectivity in the rare-earth nuclei: the case of Gd isotopes*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G. H. Bhat, R. N. Mao, K. Nomura, C. Costache, Z. P. Li, N. Mǎrginean, C. Mihai, T. Naz, Zs. Podolyák, P. H. Regan, A. E. Turturicǎ, R. Borcea, M. Boromiza, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N. M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R. E. Mihai, A. Mitu, N. Nazir, A. Negret, C.R. Nițǎ, E. B. O’Sullivan, C. Petrone, S. E. Poulton, J.A. Sheikh, H. K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ujeniuc, *in preparation for proceedings of INPC2025*
 
