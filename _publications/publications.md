@@ -35,7 +35,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **162.** "*Assessing the need for quantum algorithms through a nuclear many‑body physics example*", James Benstead and Paul Stevenson, [*submitted to Discover Applied Science*](https://submission.springernature.com/submission-details/0f446cf4-f83e-4541-a4f6-74e38e03249e)
 
-**161.** "*Low T-count preparation of nuclear eigenstates with tensor networks*", Joe Gibbs, Zoë Holmes, Chandan Sarma, Lukasz Cincio, and Paul Stevenson, [arXiv:2603.11156](https://arxiv.org/abs/2603.11156) ✅ 
+**161.** "*Low T-count preparation of nuclear eigenstates with tensor networks*", Joe Gibbs, Zoë Holmes, Chandan Sarma, Lukasz Cincio, and Paul Stevenson, [*submitted to PRX Quantum*](https://authors.aps.org/Submissions/status?accode=QS10287&author=Gibbs&commit=Submit) [arXiv:2603.11156](https://arxiv.org/abs/2603.11156) ✅ 
 
 **160.** "*Bayesian calibration of a regional optical potential and propagation of optical model uncertainty through compound nucleus calculations*, Samuel Sullivan, Paul Stevenson, Kyle Beyer, Filomena Nunes,  James Benstead, and Lee Morgan, *[submitted to Phys. Rev. C](https://authors.aps.org/Submissions/status?accode=CQ11059&author=Sullivan&commit=Submit)*
 
