@@ -41,7 +41,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **159.** "*Investigation of Fusion Cross-Sections of <sup>80</sup>Sr Formed via Symmetric and Asymmetric Channels to Understand Light Particle Emission Spectra*", Maninder Kaur, B.R. Behera, Gulzar Singh, Varinderjit Singh, Meenu Thakur, Kushal Kapoor, Priya Sharma, S. Nath, N. Madhavan, S. Muralithar, G. Mohanto, Ish Mukul, Davinder Siwal, Tathagata Banerjee, A. Jhingan, T. Varughese, M.B. Chatterjee, A. Saxena, B.K. Nayak and Paul Stevenson, [Phys. Rev. C 113, 054612 (2026)](https://doi.org/10.1103/hyxd-f6sd)
 
-**158.** "*The role of the surface energy in nuclear octupole excitations*", Khlood Al-Harthi and Paul Stevenson, [*Mod. Phys. Lett. A, in press*](https://doi.org/10.1142/S0217732326501373) ❌ [arXiv:2601.17822](http://arxiv.org/abs/2601.17822) ✅ 
+**158.** "*The role of the surface energy in nuclear octupole excitations*", Khlood Al-Harthi and Paul Stevenson, [Mod. Phys. Lett. A, 41, 2650137 (2026)](https://doi.org/10.1142/S0217732326501373) ❌ [arXiv:2601.17822](http://arxiv.org/abs/2601.17822) ✅ 
 
 **157.** "*Single-step Quantum Simulation of Two Nucleons*", Bhoomika Maheshwari, Paul Stevenson, and P. Van Isacker, [Acta Phys. Pol. B Proc. Suppl. 19, 1-A2 (2026)](https://doi.org/10.5506/APhysPolBSupp.19.1-A2), ✅ [arXiv: 2512.12798](https://arxiv.org/abs/2512.12798) ✅ 
 
