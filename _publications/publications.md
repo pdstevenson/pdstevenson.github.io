@@ -17,7 +17,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **171.** "*Aspects of Symmetry in Nuclear Quantum Computing Variational Algorithms*", Paul Stevenson, Chandan Sarma, Lloyd La Ronde, Serkan Akkoyun, Bhoomika Maheshwari and Piet Van Isacker, *in preparation*
 
-**170.** "*Full-Spectrum Quantum Simulation for the Nuclear Shell Model*", Bhoomika Maheshwari, Paul Stevenson, and Piet Van Isacker, *submitted to Phys. Lett. B*
+**170.** "*Full-Spectrum Quantum Simulation for the Nuclear Shell Model*", Bhoomika Maheshwari, Paul Stevenson, and Piet Van Isacker, *submitted to Phys. Lett. B*, [arXiv: 2607.08235](https://arxiv.org/abs/2607.08235) ✅
 
 **169.** "*Qubit-efficient Variational Algorithm for Nuclear Structure*", Chandan Sarma and Paul Stevenson, *submitted to Phys. Lett. B*, [arXiv:2605.30261](https://doi.org/10.48550/arxiv.2605.30261) ✅
 
