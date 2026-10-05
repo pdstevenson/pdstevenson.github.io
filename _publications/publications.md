@@ -15,6 +15,8 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **172.** "*Interpolation and Application of Lutetium Neutron Optical Model Parameters*", Adam Giambrone, Aaron Stott, and Paul Stevenson, *in preparation*
 
+**172.** "*Reconciling anomalous quadrupole deformation with Coulomb excitation of 200,202Hg*", G. Willmott, J. Henderson, J. Heery P. Stevenson, D. T. Doherty, A. Ertoprak, B. P. Kay, L. Morrison, C. Müller-Gatermann, C. O’Shea, P. H. Regan, W. Reviol, D. M. Rhodes, R. Russell, N. Sensharma, D. Seweryniak, M. Siciliano, R. S. Sidhu, I. Tolstukhin, C. Y. Wu, *in preparation*
+
 **171.** "*Aspects of Symmetry in Nuclear Quantum Computing Variational Algorithms*", Paul Stevenson, Chandan Sarma, Lloyd La Ronde, Serkan Akkoyun, Bhoomika Maheshwari and Piet Van Isacker, *in preparation*
 
 **170.** "*Fault-tolerant quantum algorithms for simulating atomic nuclei*", James Benstead, Michael Garn, Neil Gaspar, Sean Greenaway, Angus Kan, Lloyd La Ronde, Chandan Sarma, and Paul Stevenson, [arXiv:2607.21563](https://arxiv.org/abs/2607.21563) ✅
