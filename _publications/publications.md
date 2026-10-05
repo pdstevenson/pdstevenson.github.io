@@ -11,23 +11,21 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing
 
-**174.** "*Comparison of Quantum Algorithms for Excited State Finding with a Nuclear Hamiltonian*", Robbie Giles, Paul Stevenson, and Ben Murdin, *in preparation*
+**173.** "*Comparison of Quantum Algorithms for Excited State Finding with a Nuclear Hamiltonian*", Robbie Giles, Paul Stevenson, and Ben Murdin, *in preparation*
 
-**173.** "*Interpolation and Application of Lutetium Neutron Optical Model Parameters*", Adam Giambrone, Aaron Stott, and Paul Stevenson, *in preparation*
+**172.** "*Interpolation and Application of Lutetium Neutron Optical Model Parameters*", Adam Giambrone, Aaron Stott, and Paul Stevenson, *in preparation*
 
-**172.** "*Aspects of Symmetry in Nuclear Quantum Computing Variational Algorithms*", Paul Stevenson, Chandan Sarma, Lloyd La Ronde, Serkan Akkoyun, Bhoomika Maheshwari and Piet Van Isacker, *in preparation*
+**171.** "*Aspects of Symmetry in Nuclear Quantum Computing Variational Algorithms*", Paul Stevenson, Chandan Sarma, Lloyd La Ronde, Serkan Akkoyun, Bhoomika Maheshwari and Piet Van Isacker, *in preparation*
 
-**171.** "*Fault-tolerant quantum algorithms for simulating atomic nuclei*", James Benstead, Michael Garn, Neil Gaspar, Sean Greenaway, Angus Kan, Lloyd La Ronde, Chandan Sarma, and Paul Stevenson, [arXiv:2607.21563](https://arxiv.org/abs/2607.21563) ✅
+**170.** "*Fault-tolerant quantum algorithms for simulating atomic nuclei*", James Benstead, Michael Garn, Neil Gaspar, Sean Greenaway, Angus Kan, Lloyd La Ronde, Chandan Sarma, and Paul Stevenson, [arXiv:2607.21563](https://arxiv.org/abs/2607.21563) ✅
 
-**170.** "*Full-Spectrum Quantum Simulation for the Nuclear Shell Model*", Bhoomika Maheshwari, Paul Stevenson, and Piet Van Isacker, *submitted to Phys. Lett. B*, [arXiv: 2607.08235](https://arxiv.org/abs/2607.08235) ✅
+**169.** "*Full-Spectrum Quantum Simulation for the Nuclear Shell Model*", Bhoomika Maheshwari, Paul Stevenson, and Piet Van Isacker, *submitted to Phys. Lett. B*, [arXiv: 2607.08235](https://arxiv.org/abs/2607.08235) ✅
 
-**169.** "*Qubit-efficient Variational Algorithm for Nuclear Structure*", Chandan Sarma and Paul Stevenson, *submitted to Phys. Lett. B*, [arXiv:2605.30261](https://doi.org/10.48550/arxiv.2605.30261) ✅
+**168.** "*Qubit-efficient Variational Algorithm for Nuclear Structure*", Chandan Sarma and Paul Stevenson, *submitted to Phys. Lett. B*, [arXiv:2605.30261](https://doi.org/10.48550/arxiv.2605.30261) ✅
 
-**168.** "*Comparative Analysis of Classical and Quantum Machine Learning Models for Predicting Nuclear Binding Energy and Introduction a Graphical User Interface*", Serkan Akkoyun, Paul Stevenson, and Cafer Mert Yeşilkanat, *submitted to J. Phys. G*
+**167.** "*Comparative Analysis of Classical and Quantum Machine Learning Models for Predicting Nuclear Binding Energy and Introduction a Graphical User Interface*", Serkan Akkoyun, Paul Stevenson, and Cafer Mert Yeşilkanat, *submitted to J. Phys. G*
 
-**167.** "*Reaction rates with temperature-dependent cross sections: A quantum dynamical microscopic model for the neutron capture reaction on the <sup>188</sup>Os target*", Nicholas Lightfoot, Alexis Diaz-Torres, and Paul Stevenson, [arXiv: 2509.12404](https://arxiv.org/abs/2509.12404) ✅
-
-**166.** "*Precision measurement of B(E3) value in <sup>150</sup>Gd confirms enhanced octupole collectivity*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G.H. Bhat, R.N Mao, K. Nomura, C. Costache, Z.P. Li, N. Mǎrginean, C. Mihai, T. Naz, N. Paar, Zs. Podolyák, P.H. Regan, A.E. Turturicǎ, R. Borcea, M. Boromiza, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N.M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R.E. Mihai, A. Mitu, N. Nazir, A. Negret, C.R. Nițǎ, E.B. O’Sullivan, C. Petrone, S.E. Poulton, J.A. Sheikh, H.K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ujeniuc, *Proceedings of COMEX, in preparation*
+**166.** "*Reaction rates with temperature-dependent cross sections: A quantum dynamical microscopic model for the neutron capture reaction on the <sup>188</sup>Os target*", Nicholas Lightfoot, Alexis Diaz-Torres, and Paul Stevenson, [arXiv: 2509.12404](https://arxiv.org/abs/2509.12404) ✅
 
 **165.** "*Machine-learning parameters of nuclear reaction models*", Samuel Sullivan, Paul Stevenson, James Benstead, and Lee Morgan, proceedings of ND2025, *submitted to EPJ Web of Conferences*
 
