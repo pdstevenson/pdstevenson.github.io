@@ -11,13 +11,15 @@ A ✅ following a link indicates freely-available content.  Links followed by �
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing
 
-**173.** "*Comparison of Quantum Algorithms for Excited State Finding with a Nuclear Hamiltonian*", Robbie Giles, Paul Stevenson, and Ben Murdin, *in preparation*
+**175.** "*Comparison of Quantum Algorithms for Excited State Finding with a Nuclear Hamiltonian*", Robbie Giles, Paul Stevenson, and Ben Murdin, *in preparation*
 
-**172.** "*Interpolation and Application of Lutetium Neutron Optical Model Parameters*", Adam Giambrone, Aaron Stott, and Paul Stevenson, *in preparation*
+**174.** "*Interpolation and Application of Lutetium Neutron Optical Model Parameters*", Adam Giambrone, Aaron Stott, and Paul Stevenson, *in preparation*
 
-**172.** "*Reconciling anomalous quadrupole deformation with Coulomb excitation of 200,202Hg*", G. Willmott, J. Henderson, J. Heery P. Stevenson, D. T. Doherty, A. Ertoprak, B. P. Kay, L. Morrison, C. Müller-Gatermann, C. O’Shea, P. H. Regan, W. Reviol, D. M. Rhodes, R. Russell, N. Sensharma, D. Seweryniak, M. Siciliano, R. S. Sidhu, I. Tolstukhin, C. Y. Wu, *in preparation*
+**173.** "*Quantum Computing in Low Energy Nuclear Physics*", Paul Stevenson, Lloyd La Ronde, and Chandan Sarma, *submitted to Proceedings of Science (PoS)*
 
-**171.** "*Aspects of Symmetry in Nuclear Quantum Computing Variational Algorithms*", Paul Stevenson, Chandan Sarma, Lloyd La Ronde, Serkan Akkoyun, Bhoomika Maheshwari and Piet Van Isacker, *in preparation*
+**172.** "*Reconciling anomalous quadrupole deformation with Coulomb excitation of <sup>200,202</sup>Hg*", G. Willmott, J. Henderson, J. Heery P. Stevenson, D. T. Doherty, A. Ertoprak, B. P. Kay, L. Morrison, C. Müller-Gatermann, C. O’Shea, P. H. Regan, W. Reviol, D. M. Rhodes, R. Russell, N. Sensharma, D. Seweryniak, M. Siciliano, R. S. Sidhu, I. Tolstukhin, C. Y. Wu, *in preparation*
+
+**171.** "*Aspects of Symmetry in Nuclear Quantum Computing Variational Algorithms*", Paul Stevenson, Chandan Sarma, Lloyd La Ronde, Serkan Akkoyun, Bhoomika Maheshwari and Piet Van Isacker, *accepted for publication in Symmetry*
 
 **170.** "*Fault-tolerant quantum algorithms for simulating atomic nuclei*", James Benstead, Michael Garn, Neil Gaspar, Sean Greenaway, Angus Kan, Lloyd La Ronde, Chandan Sarma, and Paul Stevenson, [arXiv:2607.21563](https://arxiv.org/abs/2607.21563) ✅
 
