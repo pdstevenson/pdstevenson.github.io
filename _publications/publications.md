@@ -19,27 +19,27 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **172.** "*Reconciling anomalous quadrupole deformation with Coulomb excitation of <sup>200,202</sup>Hg*", G. Willmott, J. Henderson, J. Heery P. Stevenson, D. T. Doherty, A. Ertoprak, B. P. Kay, L. Morrison, C. Müller-Gatermann, C. O’Shea, P. H. Regan, W. Reviol, D. M. Rhodes, R. Russell, N. Sensharma, D. Seweryniak, M. Siciliano, R. S. Sidhu, I. Tolstukhin, C. Y. Wu, *in preparation*
 
-**171.** "*Aspects of Symmetry in Nuclear Quantum Computing Variational Algorithms*", Paul Stevenson, Chandan Sarma, Lloyd La Ronde, Serkan Akkoyun, Bhoomika Maheshwari and Piet Van Isacker, *accepted for publication in Symmetry*
+**171.** "*Fault-tolerant quantum algorithms for simulating atomic nuclei*", James Benstead, Michael Garn, Neil Gaspar, Sean Greenaway, Angus Kan, Lloyd La Ronde, Chandan Sarma, and Paul Stevenson, [arXiv:2607.21563](https://arxiv.org/abs/2607.21563) ✅
 
-**170.** "*Fault-tolerant quantum algorithms for simulating atomic nuclei*", James Benstead, Michael Garn, Neil Gaspar, Sean Greenaway, Angus Kan, Lloyd La Ronde, Chandan Sarma, and Paul Stevenson, [arXiv:2607.21563](https://arxiv.org/abs/2607.21563) ✅
+**170.** "*Full-Spectrum Quantum Simulation for the Nuclear Shell Model*", Bhoomika Maheshwari, Paul Stevenson, and Piet Van Isacker, *submitted to Phys. Lett. B*, [arXiv: 2607.08235](https://arxiv.org/abs/2607.08235) ✅
 
-**169.** "*Full-Spectrum Quantum Simulation for the Nuclear Shell Model*", Bhoomika Maheshwari, Paul Stevenson, and Piet Van Isacker, *submitted to Phys. Lett. B*, [arXiv: 2607.08235](https://arxiv.org/abs/2607.08235) ✅
+**169.** "*Qubit-efficient Variational Algorithm for Nuclear Structure*", Chandan Sarma and Paul Stevenson, *submitted to Phys. Lett. B*, [arXiv:2605.30261](https://doi.org/10.48550/arxiv.2605.30261) ✅
 
-**168.** "*Qubit-efficient Variational Algorithm for Nuclear Structure*", Chandan Sarma and Paul Stevenson, *submitted to Phys. Lett. B*, [arXiv:2605.30261](https://doi.org/10.48550/arxiv.2605.30261) ✅
+**168.** "*Comparative Analysis of Classical and Quantum Machine Learning Models for Predicting Nuclear Binding Energy and Introduction a Graphical User Interface*", Serkan Akkoyun, Paul Stevenson, and Cafer Mert Yeşilkanat, *submitted to J. Phys. G*
 
-**167.** "*Comparative Analysis of Classical and Quantum Machine Learning Models for Predicting Nuclear Binding Energy and Introduction a Graphical User Interface*", Serkan Akkoyun, Paul Stevenson, and Cafer Mert Yeşilkanat, *submitted to J. Phys. G*
+**167.** "*Reaction rates with temperature-dependent cross sections: A quantum dynamical microscopic model for the neutron capture reaction on the <sup>188</sup>Os target*", Nicholas Lightfoot, Alexis Diaz-Torres, and Paul Stevenson, [arXiv: 2509.12404](https://arxiv.org/abs/2509.12404) ✅
 
-**166.** "*Reaction rates with temperature-dependent cross sections: A quantum dynamical microscopic model for the neutron capture reaction on the <sup>188</sup>Os target*", Nicholas Lightfoot, Alexis Diaz-Torres, and Paul Stevenson, [arXiv: 2509.12404](https://arxiv.org/abs/2509.12404) ✅
+**166.** "*Machine-learning parameters of nuclear reaction models*", Samuel Sullivan, Paul Stevenson, James Benstead, and Lee Morgan, proceedings of ND2025, *submitted to EPJ Web of Conferences*
 
-**165.** "*Machine-learning parameters of nuclear reaction models*", Samuel Sullivan, Paul Stevenson, James Benstead, and Lee Morgan, proceedings of ND2025, *submitted to EPJ Web of Conferences*
+**165.** "*From Classical to Quantum Machine Learning: Different Approaches in Fission Barrier Height Estimation*", Serkan Akkoyun, Cafer Mert Yeşilkanat, and Paul Stevenson, [arXiv: 2511.18350](https://doi.org/10.48550/arxiv.2511.18350) ✅ 
 
-**164.** "*From Classical to Quantum Machine Learning: Different Approaches in Fission Barrier Height Estimation*", Serkan Akkoyun, Cafer Mert Yeşilkanat, and Paul Stevenson, [arXiv: 2511.18350](https://doi.org/10.48550/arxiv.2511.18350) ✅ 
+**164.** "*Assessing the need for quantum algorithms through a nuclear many‑body physics example*", James Benstead and Paul Stevenson, [*submitted to Discover Applied Science*](https://submission.springernature.com/submission-details/0f446cf4-f83e-4541-a4f6-74e38e03249e)
 
-**163.** "*Assessing the need for quantum algorithms through a nuclear many‑body physics example*", James Benstead and Paul Stevenson, [*submitted to Discover Applied Science*](https://submission.springernature.com/submission-details/0f446cf4-f83e-4541-a4f6-74e38e03249e)
+**163.** "*Low T-count preparation of nuclear eigenstates with tensor networks*", Joe Gibbs, Zoë Holmes, Chandan Sarma, Lukasz Cincio, and Paul Stevenson, [*submitted to PRX Quantum*](https://authors.aps.org/Submissions/status?accode=QS10287&author=Gibbs&commit=Submit) [arXiv:2603.11156](https://arxiv.org/abs/2603.11156) ✅ 
 
-**162.** "*Low T-count preparation of nuclear eigenstates with tensor networks*", Joe Gibbs, Zoë Holmes, Chandan Sarma, Lukasz Cincio, and Paul Stevenson, [*submitted to PRX Quantum*](https://authors.aps.org/Submissions/status?accode=QS10287&author=Gibbs&commit=Submit) [arXiv:2603.11156](https://arxiv.org/abs/2603.11156) ✅ 
+**162.** "*Bayesian calibration of a regional optical potential and propagation of optical model uncertainty through compound nucleus calculations*, Samuel Sullivan, Paul Stevenson, Kyle Beyer, Filomena Nunes,  James Benstead, and Lee Morgan, *[submitted to Phys. Rev. C](https://authors.aps.org/Submissions/status?accode=CQ11059&author=Sullivan&commit=Submit)*, [arXiv: 2609.20120](https://arxiv.org/abs/2609.20120) ✅ 
 
-**161.** "*Bayesian calibration of a regional optical potential and propagation of optical model uncertainty through compound nucleus calculations*, Samuel Sullivan, Paul Stevenson, Kyle Beyer, Filomena Nunes,  James Benstead, and Lee Morgan, *[submitted to Phys. Rev. C](https://authors.aps.org/Submissions/status?accode=CQ11059&author=Sullivan&commit=Submit)*, [arXiv: 2609.20120](https://arxiv.org/abs/2609.20120) ✅ 
+**161.** "*Aspects of Symmetry in Nuclear Quantum Computing Variational Algorithms*", Paul Stevenson, Chandan Sarma, Lloyd La Ronde, Serkan Akkoyun, Bhoomika Maheshwari and Piet Van Isacker, [Symmetry 18, 1716 (2026)](https://doi.org/10.3390/sym18101716) ✅
 
 **160.** "*New region of maximum octupole collectivity in the rare-earth nuclei: the case of Gd isotopes*", S. Pascu, E. Yüksel, Abhishek, P. Stevenson, G. H. Bhat, R. N. Mao, K. Nomura, C. Costache, Z. P. Li, N. Mǎrginean, C. Mihai, T. Naz, Zs. Podolyák, P. H. Regan, A. E. Turturicǎ, R. Borcea, M. Boromiza, D. Bucurescu, S. Cǎlinescu, C. Clisu, A. Coman, I. Dinescu, S. Doshi, D. Filipescu, N. M. Florea, A. Gandhi, I. Gheorghe, A. Ionescu, R. Licǎ, R. Mǎrginean, R. E. Mihai, A. Mitu, N. Nazir, A. Negret, C.R. Nițǎ, E. B. O’Sullivan, C. Petrone, S. E. Poulton, J.A. Sheikh, H. K. Singh, L. Stan, S. Toma, G. Turturicǎ, and S. Ujeniuc, [EPJ Web of Conferences 378, 01011 (2026)](https://doi.org/10.1051/epjconf/202637801011) ✅
 
