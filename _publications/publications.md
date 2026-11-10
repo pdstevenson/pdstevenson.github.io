@@ -27,7 +27,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **168.** "*Comparative Analysis of Classical and Quantum Machine Learning Models for Predicting Nuclear Binding Energy and Introduction a Graphical User Interface*", Serkan Akkoyun, Paul Stevenson, and Cafer Mert Yeşilkanat, *submitted to Rad. Phys. Chem.*
 
-**167.** "*Reaction rates with temperature-dependent cross sections: A quantum dynamical microscopic model for the neutron capture reaction on the <sup>188</sup>Os target*", Nicholas Lightfoot, Alexis Diaz-Torres, and Paul Stevenson, [arXiv: 2509.12404](https://arxiv.org/abs/2509.12404) ✅
+**167.** "*Reaction rates with temperature-dependent cross sections: A quantum dynamical microscopic model for the neutron capture reaction on the <sup>188</sup>Os target*", Nicholas Lightfoot, Alexis Diaz-Torres, and Paul Stevenson, *accepted for publication in Eur. Phys. J. A* [arXiv: 2509.12404](https://arxiv.org/abs/2509.12404) ✅
 
 **166.** "*Machine-learning parameters of nuclear reaction models*", Samuel Sullivan, Paul Stevenson, James Benstead, and Lee Morgan, proceedings of ND2025, *submitted to EPJ Web of Conferences*
 
