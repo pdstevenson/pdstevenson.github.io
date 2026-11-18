@@ -37,7 +37,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **163.** "*Bayesian calibration of a regional optical potential and propagation of optical model uncertainty through compound nucleus calculations*, Samuel Sullivan, Paul Stevenson, Kyle Beyer, Filomena Nunes,  James Benstead, and Lee Morgan, *[submitted to Phys. Rev. C](https://authors.aps.org/Submissions/status?accode=CQ11059&author=Sullivan&commit=Submit)*, [arXiv: 2609.20120](https://arxiv.org/abs/2609.20120) ✅ 
 
-**162.** "*Comparative Analysis of Classical and Simulator-Based Quantum Machine Learning Models for Predicting Nuclear Binding Energy and an Interactive Graphical User Interface*", Serkan Akkoyun, Paul Stevenson, and Cafer Mert Yeşilkanat, [Rad. Phys. Chem., *in press*](https://doi.org/10.1016/j.radphyschem.2026.114629)
+**162.** "*Comparative Analysis of Classical and Simulator-Based Quantum Machine Learning Models for Predicting Nuclear Binding Energy and an Interactive Graphical User Interface*", Serkan Akkoyun, Paul Stevenson, and Cafer Mert Yeşilkanat, [Rad. Phys. Chem. 253, 114629 (2027)](https://doi.org/10.1016/j.radphyschem.2026.114629)
 
 **161.** "*Aspects of Symmetry in Nuclear Quantum Computing Variational Algorithms*", Paul Stevenson, Chandan Sarma, Lloyd La Ronde, Serkan Akkoyun, Bhoomika Maheshwari and Piet Van Isacker, [Symmetry 18, 1716 (2026)](https://doi.org/10.3390/sym18101716) ✅
 
