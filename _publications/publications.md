@@ -23,7 +23,7 @@ Any papers listed as *in preparation* are a reminder to me of projects I am work
 
 **170.** "*Full-Spectrum Quantum Simulation for the Nuclear Shell Model*", Bhoomika Maheshwari, Paul Stevenson, and Piet Van Isacker, *submitted to Phys. Lett. B*, [arXiv: 2607.08235](https://arxiv.org/abs/2607.08235) ✅
 
-**169.** "*Qubit-efficient Variational Algorithm for Nuclear Structure*", Chandan Sarma and Paul Stevenson, *accepted for publication in Phys. Lett. B*, [arXiv:2605.30261](https://doi.org/10.48550/arxiv.2605.30261) ✅
+**169.** "*Qubit-efficient Variational Algorithm for Nuclear Structure*", Chandan Sarma and Paul Stevenson, [Phys. Lett. B, *in press*](https://doi.org/10.1016/j.physletb.2026.141172), [arXiv:2605.30261](https://doi.org/10.48550/arxiv.2605.30261) ✅
 
 **168.** "*Reaction rates with temperature-dependent cross sections: A quantum dynamical microscopic model for the neutron capture reaction on the <sup>188</sup>Os target*", Nicholas Lightfoot, Alexis Diaz-Torres, and Paul Stevenson, *accepted for publication in Eur. Phys. J. A* [arXiv: 2509.12404](https://arxiv.org/abs/2509.12404) ✅
 
