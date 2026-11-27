@@ -11,9 +11,7 @@ A ‚úÖ following a link indicates freely-available content.  Links followed by ‚ù
 
 Any papers listed as *in preparation* are a reminder to me of projects I am working on, more than any promise of a paper that I'll actually finish writing
 
-**176.** "*Comparison of Quantum Algorithms for Excited State Finding with a Nuclear Hamiltonian*", Robbie Giles, Paul Stevenson, and Ben Murdin, *in preparation*
-
-**175.** "*Interpolation and Application of Lutetium Neutron Optical Model Parameters*", Adam Giambrone, Aaron Stott, and Paul Stevenson, *in preparation*
+**175.** "*Bayesian calibration of a regional optical potential and uncertainty-quantified predictions for compound nucleus reactions*", Samuel Sullivan, Filomena Nunes, Kyle Beyer, Paul Stevenson, James Benstead, and Lee Morgan, *in preparation for proceedings of CNR'26*
 
 **174.** "*Quantum Simulation of Heavy Two-Nucleon Systems Using Compact Slater Determinant-to-Qubit Mapping*", Chandan Sarma and Paul Stevenson, *submitted to Acta Phys. Polonica B Proc. Suppl.*
 
